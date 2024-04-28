@@ -27,12 +27,28 @@ I'm a passionate Second Year Bachelor of Computer Engineering student with a kna
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vighneshbrahme)
 [![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/v8ganesh)
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/u/the_phoenix__08/)
-
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://thephoenix08.github.io/portfolio/)
 
 ### Let's Collaborate!
 🚀 Open to collaboration on exciting projects and eager to learn from others in the developer community.
 
 Thanks for stopping by! 😊
+
+---
+### GitHub Stats:
+<table>
+  <tr>
+    <td>
+      <img height="250" src="https://github-readme-streak-stats.herokuapp.com/?user=ThePhoenix08&theme=react&hide_border=false" alt="streak stats">
+    </td>
+    <td>
+      <img height="250" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThePhoenix08&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="readme stats">
+    </td>
+  </tr>
+</table>
+<!-- ![](https://github-readme-stats.vercel.app/api?username=ThePhoenix08&theme=react&hide_border=false&include_all_commits=false&count_private=false) -->
+
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=ThePhoenix08&icon=0&color=12)](https://visitcount.itsvg.in)

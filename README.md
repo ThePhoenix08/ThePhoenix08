@@ -21,3 +21,18 @@ I'm a passionate Second Year Bachelor of Computer Engineering student with a kna
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+
+### Get in touch
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](vighneshbrahme.workonly@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vighneshbrahme)
+[![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/v8ganesh)
+[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/u/the_phoenix__08/)
+
+
+### Let's Collaborate!
+🚀 Open to collaboration on exciting projects and eager to learn from others in the developer community.
+
+Thanks for stopping by! 😊
+
+---
+[![](https://visitcount.itsvg.in/api?id=ThePhoenix08&icon=0&color=12)](https://visitcount.itsvg.in)

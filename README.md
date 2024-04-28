@@ -48,7 +48,13 @@ Thanks for stopping by! 😊
 </table>
 <!-- ![](https://github-readme-stats.vercel.app/api?username=ThePhoenix08&theme=react&hide_border=false&include_all_commits=false&count_private=false) -->
 
-
+---
+### My Contributions
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ThePhoenix08/ThePhoenix08/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ThePhoenix08/ThePhoenix08/output/github-contribution-grid-snake.svg" />
+  <img width="100%" alt="snake eating my contributions" src="https://raw.githubusercontent.com/ThePhoenix08/ThePhoenix08/output/github-contribution-grid-snake.svg" />
+</picture>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=ThePhoenix08&icon=0&color=12)](https://visitcount.itsvg.in)

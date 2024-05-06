@@ -1,4 +1,4 @@
-# 🦅ThePhoenix08
+# Vighnesh Brahme [ 🦅ThePhoenix08 ]
 
 I'm a passionate Second Year Bachelor of Computer Engineering student with a knack for building web applications and delving into the world of algorithms and data structures. With a solid foundation in HTML, CSS, JavaScript, and React, I'm currently expanding my skill set by diving into Node.js and aspiring to master the MERN stack for developing full-stack projects.
 

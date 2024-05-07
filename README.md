@@ -23,11 +23,11 @@ I'm a passionate Second Year Bachelor of Computer Engineering student with a kna
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
 ### Get in touch
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](vighneshbrahme.workonly@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vighneshbrahme)
-[![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/v8ganesh)
+[![Gmail](https://img.shields.io/badge/Gmail-black?style=for-the-badge&logo=gmail&logoColor=D14836)](vighneshbrahme.workonly@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/linkedin-black?style=for-the-badge&logo=linkedin&logoColor=0077B5)](https://linkedin.com/in/vighneshbrahme)
+[![Hackerrank](https://img.shields.io/badge/-Hackerrank-black?style=for-the-badge&logo=HackerRank&logoColor=2EC866)](https://www.hackerrank.com/profile/v8ganesh)
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/u/the_phoenix__08/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://thephoenix08.github.io/portfolio/)
+[![Portfolio](https://img.shields.io/badge/portfolio-black?style=for-the-badge&logo=firefox)](https://thephoenix08.github.io/portfolio/)
 
 ### Let's Collaborate!
 🚀 Open to collaboration on exciting projects and eager to learn from others in the developer community.

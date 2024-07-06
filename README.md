@@ -28,6 +28,7 @@ I'm a passionate Second Year Bachelor of Computer Engineering student with a kna
 [![Hackerrank](https://img.shields.io/badge/-Hackerrank-black?style=for-the-badge&logo=HackerRank&logoColor=2EC866)](https://www.hackerrank.com/profile/v8ganesh)
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/u/the_phoenix__08/)
 [![Portfolio](https://img.shields.io/badge/portfolio-black?style=for-the-badge&logo=firefox)](https://thephoenix08.github.io/portfolio/)
+[![Static Badge](https://img.shields.io/badge/Resume-black?style=for-the-badge&logo=googleDocs)](https://drive.google.com/file/d/1BD1TEDYe13PrFBar2FWeGF0HCZvLVCBq/view?usp=drive_link)
 
 ### Let's Collaborate!
 🚀 Open to collaboration on exciting projects and eager to learn from others in the developer community.

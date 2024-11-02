@@ -30,7 +30,7 @@ I'm a passionate Third Year Bachelor of Computer Engineering student with a knac
 [![Hackerrank](https://img.shields.io/badge/-Hackerrank-black?style=for-the-badge&logo=HackerRank&logoColor=2EC866)](https://www.hackerrank.com/profile/v8ganesh)
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/u/the_phoenix__08/)
 [![Portfolio](https://img.shields.io/badge/portfolio-black?style=for-the-badge&logo=firefox)](https://portfolio-v2-gold-psi.vercel.app/)
-[![Resume](https://img.shields.io/badge/Resume-black?style=for-the-badge&logo=googleDocs)](https://drive.google.com/file/d/1SnXzCSDepc7V5Z2DlQ00c_jk6TOmqiqQ/view?usp=sharing)
+[![Resume](https://img.shields.io/badge/Resume-black?style=for-the-badge&logo=googleDocs)](https://drive.google.com/file/d/1fJBvP13cG8xOvod-uEBfkc_6_24hh4xr/view?usp=drive_link)
 
 ### Let's Collaborate!
 🚀 Open to collaboration on exciting projects and eager to learn from others in the developer community.

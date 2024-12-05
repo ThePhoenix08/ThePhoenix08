@@ -3,7 +3,6 @@
 I'm a passionate Third Year Bachelor of Computer Engineering student with a knack for building web applications and delving into the world of algorithms and data structures. With a solid foundation in HTML, CSS, JavaScript, and React, I'm currently expanding my skill set by diving into Backend Development and aspiring to master the MERN stack for developing full-stack projects.
 
 ### What I'm Currently Up To
-🌱 Currently learning Java<br/>
 🍵 Aim to improve problem-solving skills with Java and explore Data structures and algorithms<br/>
 💻 Building projects to strengthen my understanding of full stack web development<br/>
 📊 Excited to delve into Python for data analytics and science in the near future<br/>

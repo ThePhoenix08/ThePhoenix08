@@ -37,7 +37,7 @@ Thanks for stopping by! 😊
 
 ---
 ### GitHub Stats:
-<img height="230" src="https://github-readme-streak-stats.herokuapp.com/?user=ThePhoenix08&theme=react&hide_border=false" alt="streak stats"> <img height="230" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThePhoenix08&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="readme stats">
+<img height="230" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThePhoenix08&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="readme stats">
 <!-- ![](https://github-readme-stats.vercel.app/api?username=ThePhoenix08&theme=react&hide_border=false&include_all_commits=false&count_private=false) -->
 
 ---

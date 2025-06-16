@@ -42,7 +42,7 @@ Thanks for stopping by! 😊
 
 ---
 ### My Contributions
-![](./profile-3d-contrib/profile-green-animate.svg)
+![](./profile-3d-contrib/profile-night-green.svg)
 
 <!--Snake
 <picture>

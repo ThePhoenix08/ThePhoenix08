@@ -42,11 +42,14 @@ Thanks for stopping by! 😊
 
 ---
 ### My Contributions
+![](./profile-3d-contrib/profile-green-animate.svg)
+
+<!--Snake
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ThePhoenix08/ThePhoenix08/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ThePhoenix08/ThePhoenix08/output/github-contribution-grid-snake.svg" />
   <img width="100%" alt="snake eating my contributions" src="https://raw.githubusercontent.com/ThePhoenix08/ThePhoenix08/output/github-contribution-grid-snake.svg" />
 </picture>
-
+-->
 ---
 [![](https://visitcount.itsvg.in/api?id=ThePhoenix08&icon=0&color=12)](https://visitcount.itsvg.in)

@@ -1,10 +1,12 @@
 # Vighnesh Brahme [ 🦅ThePhoenix08 ]
 
-I'm a passionate Third Year Bachelor of Computer Engineering student with a knack for building web applications and delving into the world of algorithms and data structures. With a solid foundation in HTML, CSS, JavaScript, and React, I'm currently expanding my skill set by diving into Backend Development and aspiring to master the MERN stack for developing full-stack projects.
+I'm a Fourth-Year Computer Engineering student passionate about building things that blend logic, creativity, and data. I love exploring how systems work — from optimizing algorithms to crafting full-stack web apps that actually solve problems.
 
 ### What I'm Currently Up To
-🍵 Aim to improve problem-solving skills with C++ and explore Data structures and algorithms<br/>
-💻 Building projects to strengthen my understanding of full stack web development<br/>
+🔍 Sharpening my problem-solving skills on LeetCode (C++, DSA fundamentals — arrays, strings, sliding window, two pointers, binary search, and more)<br/>
+🧩 Diving deeper into Backend Development and strengthening my MERN stack knowledge<br/>
+🎵 Experimenting with Machine Learning, exploring how models can understand emotion in music<br/>
+💡 Building projects that merge software engineering with a touch of AI creativity<br/>
 
 ### Tech stack
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
@@ -28,7 +30,7 @@ I'm a passionate Third Year Bachelor of Computer Engineering student with a knac
 [![Hackerrank](https://img.shields.io/badge/-Hackerrank-black?style=for-the-badge&logo=HackerRank&logoColor=2EC866)](https://www.hackerrank.com/profile/v8ganesh)
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/u/the_phoenix__08/)
 [![Portfolio](https://img.shields.io/badge/portfolio-black?style=for-the-badge&logo=firefox)](https://portfolio-v2-gold-psi.vercel.app/)
-[![Resume](https://img.shields.io/badge/Resume-black?style=for-the-badge&logo=googleDocs)](https://drive.google.com/file/d/1At6fpd56N-sIjslkJMAln7R-cwc_pr6w/view?usp=sharing)
+[![Resume](https://img.shields.io/badge/Resume-black?style=for-the-badge&logo=googleDocs)](https://drive.google.com/file/d/1MuhKnnxiAvvb_Ry83pMv5xAy0_emKaGU/view?usp=drive_link)
 
 ### Let's Collaborate!
 🚀 Open to collaboration on exciting projects and eager to learn from others in the developer community.

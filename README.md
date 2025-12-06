@@ -53,7 +53,7 @@ Thanks for stopping by! 😊
 
 ---
 ### GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ThePhoenix08&theme=react&hide_border=false&include_all_commits=false&count_private=false)
+![Main Stats](./out/main-stats.gif)
 
 ---
 ### My Contributions

@@ -20,31 +20,49 @@ I'm a Fourth-Year Computer Engineering student passionate about building things 
 </p>
 
 ### Get in touch
-<p align="center">
-  <a href="mailto:vighneshbrahme.workonly@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" />
-  </a>
-  &nbsp;
-  <a href="https://linkedin.com/in/vighneshbrahme">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-  &nbsp;
-  <a href="https://www.hackerrank.com/profile/v8ganesh">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=hackerrank" />
-  </a>
-  &nbsp;
-  <a href="https://leetcode.com/u/the_phoenix__08/">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=leetcode" />
-  </a>
-  &nbsp;
-  <a href="https://portfolio-v2-gold-psi.vercel.app/">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=portfolio" />
-  </a>
-  &nbsp;
-  <a href="https://drive.google.com/file/d/1MuhKnnxiAvvb_Ry83pMv5xAy0_emKaGU/view?usp=drive_link">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=onedrive" />
-  </a>
-</p>
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="mailto:vighneshbrahme.workonly@gmail.com">
+        <img src="https://skillicons.dev/icons?i=gmail" width="40" height="40" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://linkedin.com/in/vighneshbrahme">
+        <img src="https://skillicons.dev/icons?i=linkedin" width="40" height="40" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.hackerrank.com/profile/v8ganesh">
+        <img src="https://go-skill-icons.vercel.app/api/icons?i=hackerrank" width="40" height="40" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://leetcode.com/u/the_phoenix__08/">
+        <img src="https://go-skill-icons.vercel.app/api/icons?i=leetcode" width="40" height="40" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://portfolio-v2-gold-psi.vercel.app/">
+        <img src="https://go-skill-icons.vercel.app/api/icons?i=vercel" width="40" height="40" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://drive.google.com/file/d/1MuhKnnxiAvvb_Ry83pMv5xAy0_emKaGU/view?usp=drive_link">
+        <img src="https://go-skill-icons.vercel.app/api/icons?i=word" width="40" height="40" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>Gmail</b></td>
+    <td align="center"><b>LinkedIn</b></td>
+    <td align="center"><b>HackerRank</b></td>
+    <td align="center"><b>LeetCode</b></td>
+    <td align="center"><b>Portfolio</b></td>
+    <td align="center"><b>Resume</b></td>
+  </tr>
+</table>
+
 
 ### Let's Collaborate!
 🚀 Open to collaboration on exciting projects and eager to learn from others in the developer community.

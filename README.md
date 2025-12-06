@@ -9,28 +9,42 @@ I'm a Fourth-Year Computer Engineering student passionate about building things 
 💡 Building projects that merge software engineering with a touch of AI creativity<br/>
 
 ### Tech stack
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
-
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
-![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cpp,html,css" />
+    &nbsp;
+    <img src="https://skillicons.dev/icons?i=js,react,redux,nodejs,express,mongodb" />
+    &nbsp;
+    <img src="https://skillicons.dev/icons?i=python,fastapi,pytorch" />
+  </a>
+</p>
 
 ### Get in touch
-[![Gmail](https://img.shields.io/badge/Gmail-black?style=for-the-badge&logo=gmail&logoColor=D14836)](vighneshbrahme.workonly@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/linkedin-black?style=for-the-badge&logo=linkedin&logoColor=0077B5)](https://linkedin.com/in/vighneshbrahme)
-[![Hackerrank](https://img.shields.io/badge/-Hackerrank-black?style=for-the-badge&logo=HackerRank&logoColor=2EC866)](https://www.hackerrank.com/profile/v8ganesh)
-[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/u/the_phoenix__08/)
-[![Portfolio](https://img.shields.io/badge/portfolio-black?style=for-the-badge&logo=firefox)](https://portfolio-v2-gold-psi.vercel.app/)
-[![Resume](https://img.shields.io/badge/Resume-black?style=for-the-badge&logo=googleDocs)](https://drive.google.com/file/d/1MuhKnnxiAvvb_Ry83pMv5xAy0_emKaGU/view?usp=drive_link)
+<p align="center">
+  <a href="mailto:vighneshbrahme.workonly@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+  &nbsp;
+  <a href="https://linkedin.com/in/vighneshbrahme">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  &nbsp;
+  <a href="https://www.hackerrank.com/profile/v8ganesh">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=hackerrank" />
+  </a>
+  &nbsp;
+  <a href="https://leetcode.com/u/the_phoenix__08/">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=leetcode" />
+  </a>
+  &nbsp;
+  <a href="https://portfolio-v2-gold-psi.vercel.app/">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=portfolio" />
+  </a>
+  &nbsp;
+  <a href="https://drive.google.com/file/d/1MuhKnnxiAvvb_Ry83pMv5xAy0_emKaGU/view?usp=drive_link">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=onedrive" />
+  </a>
+</p>
 
 ### Let's Collaborate!
 🚀 Open to collaboration on exciting projects and eager to learn from others in the developer community.
@@ -39,8 +53,7 @@ Thanks for stopping by! 😊
 
 ---
 ### GitHub Stats:
-<img height="230" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThePhoenix08&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="readme stats">
-<!-- ![](https://github-readme-stats.vercel.app/api?username=ThePhoenix08&theme=react&hide_border=false&include_all_commits=false&count_private=false) -->
+![](https://github-readme-stats.vercel.app/api?username=ThePhoenix08&theme=react&hide_border=false&include_all_commits=false&count_private=false)
 
 ---
 ### My Contributions

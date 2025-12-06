@@ -53,7 +53,16 @@ Thanks for stopping by! 😊
 
 ---
 ### GitHub Stats:
-![Main Stats](./out/main-stats.gif)
+<!-- ![Main Stats](./out/main-stats.gif) -->
+<p align="center">
+  <a href="https://git.io/awesome-stats-card" target="_blank" rel="noopener noreferrer">
+    <img src="https://awesome-github-stats.azurewebsites.net/user-stats/ThePhoenix08?cardType=github&theme=github-dark&preferLogin=false" alt="Vighnesh Brahme's GitHub Stats" />
+  </a>
+  &nbsp;
+  <a href="https://sonnguyenhoang.com" target="_blank" rel="noopener noreferrer">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ThePhoenix08&theme=github-dark" alt="Vighnesh Brahme's GitHub Streak" />
+  </a>
+</p>
 
 ---
 ### My Contributions

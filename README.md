@@ -72,19 +72,32 @@ Thanks for stopping by! 😊
 ---
 ### GitHub Stats:
 <!-- ![Main Stats](./out/main-stats.gif) -->
-<p align="center">
-  <a href="https://git.io/awesome-stats-card" target="_blank" rel="noopener noreferrer">
-    <img src="https://awesome-github-stats.azurewebsites.net/user-stats/ThePhoenix08?cardType=github&theme=github-dark&preferLogin=false" alt="Vighnesh Brahme's GitHub Stats" />
-  </a>
-  &nbsp;
-  <a href="https://sonnguyenhoang.com" target="_blank" rel="noopener noreferrer">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ThePhoenix08&theme=github-dark" alt="Vighnesh Brahme's GitHub Streak" />
-  </a>
-</p>
+<table align="center">
+  <tr>
+    <td>
+      <a href="https://git.io/awesome-stats-card" target="_blank" rel="noopener noreferrer">
+        <img src="https://awesome-github-stats.azurewebsites.net/user-stats/ThePhoenix08?cardType=github&theme=github-dark&preferLogin=false" alt="Vighnesh Brahme's GitHub Stats" />
+      </a>
+    </td>
+    <td>
+      <a href="https://sonnguyenhoang.com" target="_blank" rel="noopener noreferrer">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=ThePhoenix08&theme=github-dark" alt="Vighnesh Brahme's GitHub Streak" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 ### My Contributions
-![](./profile-3d-contrib/profile-night-green.svg)
+<!-- ![](./profile-3d-contrib/profile-night-green.svg) -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ThePhoenix08/ThePhoenix08/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ThePhoenix08/ThePhoenix08/output/pacman-contribution-graph.svg">
+  <img 
+    src="https://raw.githubusercontent.com/ThePhoenix08/ThePhoenix08/output/pacman-contribution-graph.svg"
+    alt="pacman contribution graph"
+  />
+<picture/>
 
 <!--Snake
 <picture>

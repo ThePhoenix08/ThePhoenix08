@@ -79,13 +79,11 @@ Thanks for stopping by! 😊
         <img src="https://awesome-github-stats.azurewebsites.net/user-stats/ThePhoenix08?cardType=github&theme=github-dark&preferLogin=false" alt="Vighnesh Brahme's GitHub Stats" />
       </a>
     </td>
-    <td>
+    <!-- <td>
       <a href="https://git.io/streak-stats">
-        <!-- <img src="http://github-readme-streak-stats.herokuapp.com?user=ThePhoenix08&theme=github-dark-blue&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /> -->
-        <img src="https://github.com/user-attachments/assets/dbd24cac-e512-45e6-8602-12c59ec0d6c7" alt="GitHub Streak" />
-        <!-- ![preview](https://github.com/user-attachments/assets/dbd24cac-e512-45e6-8602-12c59ec0d6c7) -->
+        <img src="http://github-readme-streak-stats.herokuapp.com?user=ThePhoenix08&theme=github-dark-blue&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
       </a>
-    </td>
+    </td> -->
   </tr>
 </table>
 

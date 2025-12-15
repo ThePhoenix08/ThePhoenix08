@@ -10,11 +10,11 @@
   "websiteUrl": "https://portfolio-v2-gold-psi.vercel.app/",
   "createdAt": "2021-06-26T15:18:24Z",
   "repoViews": 0,
-  "linesOfCodeChanged": 952545,
-  "linesAdded": 554264,
-  "linesDeleted": 398281,
-  "commitCount": 479,
-  "totalCommits": 624,
+  "linesOfCodeChanged": 886917,
+  "linesAdded": 516630,
+  "linesDeleted": 370287,
+  "commitCount": 390,
+  "totalCommits": 625,
   "totalPullRequests": 24,
   "totalPullRequestReviews": 0,
   "codeByteTotal": 15537294,
@@ -118,14 +118,14 @@
   "repositoriesContributedTo": 11,
   "discussionsStarted": 0,
   "discussionsAnswered": 0,
-  "totalContributions": 1063,
+  "totalContributions": 1064,
   "contributionStats": {
     "longestStreak": 12,
-    "currentStreak": 8,
+    "currentStreak": 9,
     "mostActiveDay": "Tuesday",
     "averagePerDay": 0.65,
     "averagePerWeek": 4.55,
-    "averagePerMonth": 19.49,
+    "averagePerMonth": 19.5,
     "monthlyBreakdown": [
       {
         "month": "2021-06",
@@ -345,7 +345,7 @@
       },
       {
         "month": "2025-12",
-        "contributions": 20
+        "contributions": 21
       }
     ]
   },
@@ -440,23 +440,23 @@
     "totalTopics": 0,
     "topTopics": [],
     "allTopics": [],
-    "contributionsThisYear": 394,
+    "contributionsThisYear": 395,
     "contributionsLastYear": 301,
-    "yearOverYearGrowth": 30.9,
+    "yearOverYearGrowth": 31.23,
     "mostProductiveMonth": {
       "month": "2023-08",
       "contributions": 177
     }
   },
   "contributionsCollection": {
-    "totalCommitContributions": 623,
+    "totalCommitContributions": 624,
     "restrictedContributionsCount": 362,
     "totalIssueContributions": 16,
     "totalRepositoryContributions": 37,
     "totalPullRequestContributions": 24,
     "totalPullRequestReviewContributions": 0,
     "contributionCalendar": {
-      "totalContributions": 1063,
+      "totalContributions": 1064,
       "weeks": [
         {
           "contributionDays": [
@@ -7949,8 +7949,12 @@
         {
           "contributionDays": [
             {
-              "contributionCount": 0,
+              "contributionCount": 1,
               "date": "2025-12-14"
+            },
+            {
+              "contributionCount": 0,
+              "date": "2025-12-15"
             }
           ]
         }
@@ -8091,5 +8095,5 @@
   ],
   "closedIssues": 13,
   "openIssues": 3,
-  "fetchedAt": 1765715742422
+  "fetchedAt": 1765802579262
 }

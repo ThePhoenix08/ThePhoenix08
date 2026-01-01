@@ -10,11 +10,11 @@
   "websiteUrl": "https://portfolio-v2-gold-psi.vercel.app/",
   "createdAt": "2021-06-26T15:18:24Z",
   "repoViews": 0,
-  "linesOfCodeChanged": 953155,
-  "linesAdded": 554609,
-  "linesDeleted": 398546,
-  "commitCount": 496,
-  "totalCommits": 641,
+  "linesOfCodeChanged": 953191,
+  "linesAdded": 554629,
+  "linesDeleted": 398562,
+  "commitCount": 497,
+  "totalCommits": 642,
   "totalPullRequests": 24,
   "totalPullRequestReviews": 0,
   "codeByteTotal": 15537294,
@@ -118,10 +118,10 @@
   "repositoriesContributedTo": 8,
   "discussionsStarted": 0,
   "discussionsAnswered": 0,
-  "totalContributions": 1080,
+  "totalContributions": 1081,
   "contributionStats": {
-    "longestStreak": 25,
-    "currentStreak": 25,
+    "longestStreak": 26,
+    "currentStreak": 26,
     "mostActiveDay": "Tuesday",
     "averagePerDay": 0.65,
     "averagePerWeek": 4.57,
@@ -345,7 +345,11 @@
       },
       {
         "month": "2025-12",
-        "contributions": 37
+        "contributions": 38
+      },
+      {
+        "month": "2026-01",
+        "contributions": 0
       }
     ]
   },
@@ -356,9 +360,9 @@
     "archivedRepos": 0,
     "forkedRepos": 18,
     "originalRepos": 19,
-    "activeRepos": 16,
+    "activeRepos": 0,
     "reposWithStars": 1,
-    "reposCreatedThisYear": 11,
+    "reposCreatedThisYear": 0,
     "averageStarsPerRepo": 0.03
   },
   "computedStats": {
@@ -368,95 +372,34 @@
     "archivedRepos": 0,
     "forkedRepos": 18,
     "originalRepos": 19,
-    "activeRepos": 16,
+    "activeRepos": 0,
     "reposWithStars": 1,
-    "reposCreatedThisYear": 11,
+    "reposCreatedThisYear": 0,
     "averageStarsPerRepo": 0.03,
     "languageCount": 15,
     "primaryLanguage": "JavaScript",
-    "primaryLanguageThisYear": "JavaScript",
-    "topLanguagesThisYear": [
-      {
-        "languageName": "JavaScript",
-        "color": "#f1e05a",
-        "value": 1995199,
-        "percentage": 43.43
-      },
-      {
-        "languageName": "Jupyter Notebook",
-        "color": "#DA5B0B",
-        "value": 771266,
-        "percentage": 16.79
-      },
-      {
-        "languageName": "HTML",
-        "color": "#e34c26",
-        "value": 637987,
-        "percentage": 13.89
-      },
-      {
-        "languageName": "TypeScript",
-        "color": "#3178c6",
-        "value": 424808,
-        "percentage": 9.25
-      },
-      {
-        "languageName": "CSS",
-        "color": "#663399",
-        "value": 281482,
-        "percentage": 6.13
-      },
-      {
-        "languageName": "Java",
-        "color": "#b07219",
-        "value": 275923,
-        "percentage": 6.01
-      },
-      {
-        "languageName": "Python",
-        "color": "#3572A5",
-        "value": 198947,
-        "percentage": 4.33
-      },
-      {
-        "languageName": "PLpgSQL",
-        "color": "#336790",
-        "value": 5292,
-        "percentage": 0.12
-      },
-      {
-        "languageName": "Shell",
-        "color": "#89e051",
-        "value": 2222,
-        "percentage": 0.05
-      },
-      {
-        "languageName": "Dockerfile",
-        "color": "#384d54",
-        "value": 797,
-        "percentage": 0.02
-      }
-    ],
+    "primaryLanguageThisYear": null,
+    "topLanguagesThisYear": [],
     "totalTopics": 0,
     "topTopics": [],
     "allTopics": [],
-    "contributionsThisYear": 411,
-    "contributionsLastYear": 301,
-    "yearOverYearGrowth": 36.54,
+    "contributionsThisYear": 0,
+    "contributionsLastYear": 412,
+    "yearOverYearGrowth": -100,
     "mostProductiveMonth": {
       "month": "2023-08",
       "contributions": 177
     }
   },
   "contributionsCollection": {
-    "totalCommitContributions": 640,
+    "totalCommitContributions": 641,
     "restrictedContributionsCount": 362,
     "totalIssueContributions": 16,
     "totalRepositoryContributions": 37,
     "totalPullRequestContributions": 24,
     "totalPullRequestReviewContributions": 0,
     "contributionCalendar": {
-      "totalContributions": 1080,
+      "totalContributions": 1081,
       "weeks": [
         {
           "contributionDays": [
@@ -8025,8 +7968,20 @@
               "date": "2025-12-30"
             },
             {
-              "contributionCount": 0,
+              "contributionCount": 1,
               "date": "2025-12-31"
+            },
+            {
+              "contributionCount": 0,
+              "date": "2026-01-01"
+            }
+          ]
+        },
+        {
+          "contributionDays": [
+            {
+              "contributionCount": 0,
+              "date": "2026-01-01"
             }
           ]
         }
@@ -8167,5 +8122,5 @@
   ],
   "closedIssues": 13,
   "openIssues": 3,
-  "fetchedAt": 1767184778171
+  "fetchedAt": 1767271159625
 }

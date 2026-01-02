@@ -10,32 +10,32 @@
   "websiteUrl": "https://portfolio-v2-gold-psi.vercel.app/",
   "createdAt": "2021-06-26T15:18:24Z",
   "repoViews": 0,
-  "linesOfCodeChanged": 953191,
-  "linesAdded": 554629,
-  "linesDeleted": 398562,
-  "commitCount": 497,
-  "totalCommits": 642,
+  "linesOfCodeChanged": 954182,
+  "linesAdded": 555323,
+  "linesDeleted": 398859,
+  "commitCount": 505,
+  "totalCommits": 650,
   "totalPullRequests": 24,
   "totalPullRequestReviews": 0,
-  "codeByteTotal": 15537294,
+  "codeByteTotal": 15542610,
   "topLanguages": [
     {
       "languageName": "JavaScript",
       "color": "#f1e05a",
       "value": 5032778,
-      "percentage": 32.39
+      "percentage": 32.38
     },
     {
       "languageName": "HTML",
       "color": "#e34c26",
       "value": 3600420,
-      "percentage": 23.17
+      "percentage": 23.16
     },
     {
       "languageName": "CSS",
       "color": "#663399",
       "value": 3598511,
-      "percentage": 23.16
+      "percentage": 23.15
     },
     {
       "languageName": "Solidity",
@@ -86,6 +86,12 @@
       "percentage": 0.28
     },
     {
+      "languageName": "C++",
+      "color": "#f34b7d",
+      "value": 5316,
+      "percentage": 0.03
+    },
+    {
       "languageName": "PLpgSQL",
       "color": "#336790",
       "value": 5292,
@@ -118,14 +124,14 @@
   "repositoriesContributedTo": 8,
   "discussionsStarted": 0,
   "discussionsAnswered": 0,
-  "totalContributions": 1081,
+  "totalContributions": 1091,
   "contributionStats": {
-    "longestStreak": 26,
-    "currentStreak": 26,
+    "longestStreak": 29,
+    "currentStreak": 29,
     "mostActiveDay": "Tuesday",
-    "averagePerDay": 0.65,
-    "averagePerWeek": 4.57,
-    "averagePerMonth": 19.6,
+    "averagePerDay": 0.66,
+    "averagePerWeek": 4.61,
+    "averagePerMonth": 19.76,
     "monthlyBreakdown": [
       {
         "month": "2021-06",
@@ -349,57 +355,64 @@
       },
       {
         "month": "2026-01",
-        "contributions": 0
+        "contributions": 10
       }
     ]
   },
   "repoStats": {
-    "totalRepos": 37,
-    "publicRepos": 37,
+    "totalRepos": 38,
+    "publicRepos": 38,
     "privateRepos": 0,
     "archivedRepos": 0,
     "forkedRepos": 18,
-    "originalRepos": 19,
-    "activeRepos": 0,
+    "originalRepos": 20,
+    "activeRepos": 2,
     "reposWithStars": 1,
-    "reposCreatedThisYear": 0,
+    "reposCreatedThisYear": 1,
     "averageStarsPerRepo": 0.03
   },
   "computedStats": {
-    "totalRepos": 37,
-    "publicRepos": 37,
+    "totalRepos": 38,
+    "publicRepos": 38,
     "privateRepos": 0,
     "archivedRepos": 0,
     "forkedRepos": 18,
-    "originalRepos": 19,
-    "activeRepos": 0,
+    "originalRepos": 20,
+    "activeRepos": 2,
     "reposWithStars": 1,
-    "reposCreatedThisYear": 0,
+    "reposCreatedThisYear": 1,
     "averageStarsPerRepo": 0.03,
-    "languageCount": 15,
+    "languageCount": 16,
     "primaryLanguage": "JavaScript",
-    "primaryLanguageThisYear": null,
-    "topLanguagesThisYear": [],
+    "primaryLanguageThisYear": "C++",
+    "topLanguagesThisYear": [
+      {
+        "languageName": "C++",
+        "color": "#f34b7d",
+        "value": 5316,
+        "percentage": 100
+      }
+    ],
     "totalTopics": 0,
     "topTopics": [],
     "allTopics": [],
-    "contributionsThisYear": 0,
+    "contributionsThisYear": 10,
     "contributionsLastYear": 412,
-    "yearOverYearGrowth": -100,
+    "yearOverYearGrowth": -97.57,
     "mostProductiveMonth": {
       "month": "2023-08",
       "contributions": 177
     }
   },
   "contributionsCollection": {
-    "totalCommitContributions": 641,
+    "totalCommitContributions": 650,
     "restrictedContributionsCount": 362,
     "totalIssueContributions": 16,
-    "totalRepositoryContributions": 37,
+    "totalRepositoryContributions": 38,
     "totalPullRequestContributions": 24,
     "totalPullRequestReviewContributions": 0,
     "contributionCalendar": {
-      "totalContributions": 1081,
+      "totalContributions": 1091,
       "weeks": [
         {
           "contributionDays": [
@@ -7972,7 +7985,7 @@
               "date": "2025-12-31"
             },
             {
-              "contributionCount": 0,
+              "contributionCount": 1,
               "date": "2026-01-01"
             }
           ]
@@ -7980,8 +7993,12 @@
         {
           "contributionDays": [
             {
-              "contributionCount": 0,
+              "contributionCount": 1,
               "date": "2026-01-01"
+            },
+            {
+              "contributionCount": 8,
+              "date": "2026-01-02"
             }
           ]
         }
@@ -8001,6 +8018,19 @@
       "topics": [],
       "updatedAt": "2025-10-10T06:26:38Z",
       "createdAt": "2025-06-16T12:00:05Z"
+    },
+    {
+      "name": "sankey-arise",
+      "description": null,
+      "stars": 0,
+      "forks": 0,
+      "isArchived": false,
+      "isFork": false,
+      "isPrivate": false,
+      "primaryLanguage": "C++",
+      "topics": [],
+      "updatedAt": "2026-01-02T10:13:51Z",
+      "createdAt": "2026-01-02T08:19:40Z"
     },
     {
       "name": "LP3",
@@ -8105,22 +8135,9 @@
       "topics": [],
       "updatedAt": "2025-01-13T03:33:56Z",
       "createdAt": "2025-01-08T12:46:22Z"
-    },
-    {
-      "name": "ShopSphere",
-      "description": "Built with cutting-edge technology using the powerful MERN stack (MongoDB, Express.js, React.js, Node.js),this store is designed to provide users with a seamless shopping experience.",
-      "stars": 0,
-      "forks": 0,
-      "isArchived": false,
-      "isFork": true,
-      "isPrivate": false,
-      "primaryLanguage": "JavaScript",
-      "topics": [],
-      "updatedAt": "2025-01-11T13:32:55Z",
-      "createdAt": "2025-01-08T12:34:19Z"
     }
   ],
   "closedIssues": 13,
   "openIssues": 3,
-  "fetchedAt": 1767271159625
+  "fetchedAt": 1767357512021
 }

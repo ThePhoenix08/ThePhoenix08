@@ -10,11 +10,11 @@
   "websiteUrl": "https://portfolio-v2-gold-psi.vercel.app/",
   "createdAt": "2021-06-26T15:18:24Z",
   "repoViews": 0,
-  "linesOfCodeChanged": 960482,
-  "linesAdded": 561201,
-  "linesDeleted": 399281,
-  "commitCount": 524,
-  "totalCommits": 671,
+  "linesOfCodeChanged": 965506,
+  "linesAdded": 564125,
+  "linesDeleted": 401381,
+  "commitCount": 528,
+  "totalCommits": 675,
   "totalPullRequests": 24,
   "totalPullRequestReviews": 0,
   "codeByteTotal": 15574462,
@@ -121,17 +121,17 @@
   "starsGiven": 49,
   "followers": 11,
   "following": 18,
-  "repositoriesContributedTo": 5,
+  "repositoriesContributedTo": 4,
   "discussionsStarted": 0,
   "discussionsAnswered": 0,
-  "totalContributions": 1112,
+  "totalContributions": 1116,
   "contributionStats": {
-    "longestStreak": 42,
-    "currentStreak": 42,
+    "longestStreak": 44,
+    "currentStreak": 44,
     "mostActiveDay": "Tuesday",
     "averagePerDay": 0.67,
-    "averagePerWeek": 4.66,
-    "averagePerMonth": 19.98,
+    "averagePerWeek": 4.68,
+    "averagePerMonth": 20.04,
     "monthlyBreakdown": [
       {
         "month": "2021-06",
@@ -355,7 +355,7 @@
       },
       {
         "month": "2026-01",
-        "contributions": 31
+        "contributions": 35
       }
     ]
   },
@@ -366,7 +366,7 @@
     "archivedRepos": 0,
     "forkedRepos": 18,
     "originalRepos": 20,
-    "activeRepos": 3,
+    "activeRepos": 5,
     "reposWithStars": 1,
     "reposCreatedThisYear": 1,
     "averageStarsPerRepo": 0.03
@@ -378,77 +378,83 @@
     "archivedRepos": 0,
     "forkedRepos": 18,
     "originalRepos": 20,
-    "activeRepos": 3,
+    "activeRepos": 5,
     "reposWithStars": 1,
     "reposCreatedThisYear": 1,
     "averageStarsPerRepo": 0.03,
     "languageCount": 16,
     "primaryLanguage": "JavaScript",
-    "primaryLanguageThisYear": "Python",
+    "primaryLanguageThisYear": "TypeScript",
     "topLanguagesThisYear": [
+      {
+        "languageName": "TypeScript",
+        "color": "#3178c6",
+        "value": 155094,
+        "percentage": 49.03
+      },
       {
         "languageName": "Python",
         "color": "#3572A5",
         "value": 79929,
-        "percentage": 82.07
+        "percentage": 25.27
+      },
+      {
+        "languageName": "JavaScript",
+        "color": "#f1e05a",
+        "value": 61640,
+        "percentage": 19.49
+      },
+      {
+        "languageName": "CSS",
+        "color": "#663399",
+        "value": 7010,
+        "percentage": 2.22
       },
       {
         "languageName": "C++",
         "color": "#f34b7d",
         "value": 5316,
-        "percentage": 5.46
+        "percentage": 1.68
       },
       {
         "languageName": "PLpgSQL",
         "color": "#336790",
         "value": 5292,
-        "percentage": 5.43
-      },
-      {
-        "languageName": "CSS",
-        "color": "#663399",
-        "value": 4651,
-        "percentage": 4.78
-      },
-      {
-        "languageName": "JavaScript",
-        "color": "#f1e05a",
-        "value": 1715,
-        "percentage": 1.76
+        "percentage": 1.67
       },
       {
         "languageName": "HTML",
         "color": "#e34c26",
-        "value": 355,
-        "percentage": 0.36
+        "value": 1903,
+        "percentage": 0.6
       },
       {
         "languageName": "Dockerfile",
         "color": "#384d54",
         "value": 131,
-        "percentage": 0.13
+        "percentage": 0.04
       }
     ],
     "totalTopics": 0,
     "topTopics": [],
     "allTopics": [],
-    "contributionsThisYear": 31,
+    "contributionsThisYear": 35,
     "contributionsLastYear": 412,
-    "yearOverYearGrowth": -92.48,
+    "yearOverYearGrowth": -91.5,
     "mostProductiveMonth": {
       "month": "2023-08",
       "contributions": 177
     }
   },
   "contributionsCollection": {
-    "totalCommitContributions": 671,
+    "totalCommitContributions": 675,
     "restrictedContributionsCount": 362,
     "totalIssueContributions": 16,
     "totalRepositoryContributions": 38,
     "totalPullRequestContributions": 24,
     "totalPullRequestReviewContributions": 0,
     "contributionCalendar": {
-      "totalContributions": 1112,
+      "totalContributions": 1116,
       "weeks": [
         {
           "contributionDays": [
@@ -8097,8 +8103,12 @@
               "date": "2026-01-15"
             },
             {
-              "contributionCount": 0,
+              "contributionCount": 1,
               "date": "2026-01-16"
+            },
+            {
+              "contributionCount": 3,
+              "date": "2026-01-17"
             }
           ]
         }
@@ -8239,5 +8249,5 @@
   ],
   "closedIssues": 13,
   "openIssues": 3,
-  "fetchedAt": 1768567275881
+  "fetchedAt": 1768653411641
 }

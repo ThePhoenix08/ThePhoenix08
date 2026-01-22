@@ -10,44 +10,44 @@
   "websiteUrl": "https://portfolio-v2-gold-psi.vercel.app/",
   "createdAt": "2021-06-26T15:18:24Z",
   "repoViews": 0,
-  "linesOfCodeChanged": 970457,
-  "linesAdded": 568787,
-  "linesDeleted": 401670,
-  "commitCount": 532,
-  "totalCommits": 681,
+  "linesOfCodeChanged": 971487,
+  "linesAdded": 569765,
+  "linesDeleted": 401722,
+  "commitCount": 542,
+  "totalCommits": 689,
   "totalPullRequests": 24,
   "totalPullRequestReviews": 0,
-  "codeByteTotal": 15675325,
+  "codeByteTotal": 15696431,
   "topLanguages": [
     {
       "languageName": "JavaScript",
       "color": "#f1e05a",
-      "value": 5082001,
-      "percentage": 32.42
+      "value": 5090204,
+      "percentage": 32.43
     },
     {
       "languageName": "CSS",
       "color": "#663399",
-      "value": 3603162,
-      "percentage": 22.99
+      "value": 3610872,
+      "percentage": 23
     },
     {
       "languageName": "HTML",
       "color": "#e34c26",
-      "value": 3600775,
+      "value": 3605968,
       "percentage": 22.97
     },
     {
       "languageName": "Solidity",
       "color": "#AA6746",
       "value": 825710,
-      "percentage": 5.27
+      "percentage": 5.26
     },
     {
       "languageName": "Jupyter Notebook",
       "color": "#DA5B0B",
       "value": 771266,
-      "percentage": 4.92
+      "percentage": 4.91
     },
     {
       "languageName": "TypeScript",
@@ -130,14 +130,14 @@
   "repositoriesContributedTo": 4,
   "discussionsStarted": 0,
   "discussionsAnswered": 0,
-  "totalContributions": 1122,
+  "totalContributions": 1130,
   "contributionStats": {
-    "longestStreak": 47,
-    "currentStreak": 47,
+    "longestStreak": 49,
+    "currentStreak": 49,
     "mostActiveDay": "Tuesday",
     "averagePerDay": 0.67,
-    "averagePerWeek": 4.69,
-    "averagePerMonth": 20.1,
+    "averagePerWeek": 4.72,
+    "averagePerMonth": 20.23,
     "monthlyBreakdown": [
       {
         "month": "2021-06",
@@ -361,7 +361,7 @@
       },
       {
         "month": "2026-01",
-        "contributions": 41
+        "contributions": 49
       }
     ]
   },
@@ -396,49 +396,49 @@
         "languageName": "TypeScript",
         "color": "#3178c6",
         "value": 155094,
-        "percentage": 37.18
+        "percentage": 35.39
       },
       {
         "languageName": "Python",
         "color": "#3572A5",
         "value": 132580,
-        "percentage": 31.78
+        "percentage": 30.25
       },
       {
         "languageName": "JavaScript",
         "color": "#f1e05a",
-        "value": 109148,
-        "percentage": 26.16
+        "value": 117351,
+        "percentage": 26.78
       },
       {
         "languageName": "CSS",
         "color": "#663399",
-        "value": 7010,
-        "percentage": 1.68
+        "value": 14720,
+        "percentage": 3.36
+      },
+      {
+        "languageName": "HTML",
+        "color": "#e34c26",
+        "value": 7096,
+        "percentage": 1.62
       },
       {
         "languageName": "C++",
         "color": "#f34b7d",
         "value": 5316,
-        "percentage": 1.27
+        "percentage": 1.21
       },
       {
         "languageName": "PLpgSQL",
         "color": "#336790",
         "value": 5292,
-        "percentage": 1.27
-      },
-      {
-        "languageName": "HTML",
-        "color": "#e34c26",
-        "value": 1903,
-        "percentage": 0.46
+        "percentage": 1.21
       },
       {
         "languageName": "Mako",
         "color": "#7e858d",
         "value": 704,
-        "percentage": 0.17
+        "percentage": 0.16
       },
       {
         "languageName": "Dockerfile",
@@ -450,23 +450,23 @@
     "totalTopics": 0,
     "topTopics": [],
     "allTopics": [],
-    "contributionsThisYear": 41,
+    "contributionsThisYear": 49,
     "contributionsLastYear": 412,
-    "yearOverYearGrowth": -90.05,
+    "yearOverYearGrowth": -88.11,
     "mostProductiveMonth": {
       "month": "2023-08",
       "contributions": 177
     }
   },
   "contributionsCollection": {
-    "totalCommitContributions": 681,
+    "totalCommitContributions": 689,
     "restrictedContributionsCount": 362,
     "totalIssueContributions": 16,
     "totalRepositoryContributions": 38,
     "totalPullRequestContributions": 24,
     "totalPullRequestReviewContributions": 0,
     "contributionCalendar": {
-      "totalContributions": 1122,
+      "totalContributions": 1130,
       "weeks": [
         {
           "contributionDays": [
@@ -8139,8 +8139,12 @@
               "date": "2026-01-20"
             },
             {
-              "contributionCount": 0,
+              "contributionCount": 1,
               "date": "2026-01-21"
+            },
+            {
+              "contributionCount": 7,
+              "date": "2026-01-22"
             }
           ]
         }
@@ -8169,9 +8173,9 @@
       "isArchived": false,
       "isFork": false,
       "isPrivate": false,
-      "primaryLanguage": "C++",
+      "primaryLanguage": "JavaScript",
       "topics": [],
-      "updatedAt": "2026-01-09T04:35:21Z",
+      "updatedAt": "2026-01-22T09:59:06Z",
       "createdAt": "2026-01-02T08:19:40Z"
     },
     {
@@ -8281,5 +8285,5 @@
   ],
   "closedIssues": 13,
   "openIssues": 3,
-  "fetchedAt": 1768999568186
+  "fetchedAt": 1769085910595
 }

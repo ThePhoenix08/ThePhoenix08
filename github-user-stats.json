@@ -10,19 +10,19 @@
   "websiteUrl": "https://portfolio-v2-gold-psi.vercel.app/",
   "createdAt": "2021-06-26T15:18:24Z",
   "repoViews": 0,
-  "linesOfCodeChanged": 984781,
-  "linesAdded": 578820,
-  "linesDeleted": 405961,
-  "commitCount": 581,
-  "totalCommits": 728,
+  "linesOfCodeChanged": 985414,
+  "linesAdded": 579185,
+  "linesDeleted": 406229,
+  "commitCount": 584,
+  "totalCommits": 732,
   "totalPullRequests": 24,
   "totalPullRequestReviews": 0,
-  "codeByteTotal": 15870829,
+  "codeByteTotal": 15873139,
   "topLanguages": [
     {
       "languageName": "JavaScript",
       "color": "#f1e05a",
-      "value": 5151769,
+      "value": 5152162,
       "percentage": 32.46
     },
     {
@@ -58,8 +58,8 @@
     {
       "languageName": "Python",
       "color": "#3572A5",
-      "value": 453921,
-      "percentage": 2.86
+      "value": 455838,
+      "percentage": 2.87
     },
     {
       "languageName": "Java",
@@ -130,14 +130,14 @@
   "repositoriesContributedTo": 3,
   "discussionsStarted": 0,
   "discussionsAnswered": 0,
-  "totalContributions": 1169,
+  "totalContributions": 1173,
   "contributionStats": {
-    "longestStreak": 67,
-    "currentStreak": 67,
+    "longestStreak": 69,
+    "currentStreak": 69,
     "mostActiveDay": "Tuesday",
     "averagePerDay": 0.69,
-    "averagePerWeek": 4.83,
-    "averagePerMonth": 20.69,
+    "averagePerWeek": 4.84,
+    "averagePerMonth": 20.75,
     "monthlyBreakdown": [
       {
         "month": "2021-06",
@@ -365,7 +365,7 @@
       },
       {
         "month": "2026-02",
-        "contributions": 19
+        "contributions": 23
       }
     ]
   },
@@ -399,26 +399,26 @@
       {
         "languageName": "Python",
         "color": "#3572A5",
-        "value": 222728,
-        "percentage": 36.35
+        "value": 224645,
+        "percentage": 36.53
       },
       {
         "languageName": "JavaScript",
         "color": "#f1e05a",
-        "value": 178916,
-        "percentage": 29.2
+        "value": 179309,
+        "percentage": 29.16
       },
       {
         "languageName": "TypeScript",
         "color": "#3178c6",
         "value": 155094,
-        "percentage": 25.31
+        "percentage": 25.22
       },
       {
         "languageName": "CSS",
         "color": "#663399",
         "value": 30751,
-        "percentage": 5.02
+        "percentage": 5
       },
       {
         "languageName": "HTML",
@@ -430,7 +430,7 @@
         "languageName": "C++",
         "color": "#f34b7d",
         "value": 5316,
-        "percentage": 0.87
+        "percentage": 0.86
       },
       {
         "languageName": "PLpgSQL",
@@ -454,23 +454,23 @@
     "totalTopics": 0,
     "topTopics": [],
     "allTopics": [],
-    "contributionsThisYear": 88,
+    "contributionsThisYear": 92,
     "contributionsLastYear": 412,
-    "yearOverYearGrowth": -78.64,
+    "yearOverYearGrowth": -77.67,
     "mostProductiveMonth": {
       "month": "2023-08",
       "contributions": 177
     }
   },
   "contributionsCollection": {
-    "totalCommitContributions": 728,
+    "totalCommitContributions": 732,
     "restrictedContributionsCount": 362,
     "totalIssueContributions": 16,
     "totalRepositoryContributions": 38,
     "totalPullRequestContributions": 24,
     "totalPullRequestReviewContributions": 0,
     "contributionCalendar": {
-      "totalContributions": 1169,
+      "totalContributions": 1173,
       "weeks": [
         {
           "contributionDays": [
@@ -8235,8 +8235,12 @@
               "date": "2026-02-09"
             },
             {
-              "contributionCount": 0,
+              "contributionCount": 1,
               "date": "2026-02-10"
+            },
+            {
+              "contributionCount": 3,
+              "date": "2026-02-11"
             }
           ]
         }
@@ -8293,7 +8297,7 @@
       "isPrivate": false,
       "primaryLanguage": "Python",
       "topics": [],
-      "updatedAt": "2026-02-09T16:12:03Z",
+      "updatedAt": "2026-02-11T12:15:22Z",
       "createdAt": "2025-10-23T10:33:35Z"
     },
     {
@@ -8377,5 +8381,5 @@
   ],
   "closedIssues": 13,
   "openIssues": 3,
-  "fetchedAt": 1770728970228
+  "fetchedAt": 1770815151098
 }

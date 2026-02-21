@@ -10,14 +10,14 @@
   "websiteUrl": "https://portfolio-v2-gold-psi.vercel.app/",
   "createdAt": "2021-06-26T15:18:24Z",
   "repoViews": 0,
-  "linesOfCodeChanged": 997930,
-  "linesAdded": 588043,
-  "linesDeleted": 409887,
-  "commitCount": 610,
-  "totalCommits": 760,
+  "linesOfCodeChanged": 998027,
+  "linesAdded": 588098,
+  "linesDeleted": 409929,
+  "commitCount": 613,
+  "totalCommits": 762,
   "totalPullRequests": 24,
   "totalPullRequestReviews": 0,
-  "codeByteTotal": 15997763,
+  "codeByteTotal": 15998134,
   "topLanguages": [
     {
       "languageName": "JavaScript",
@@ -58,7 +58,7 @@
     {
       "languageName": "Python",
       "color": "#3572A5",
-      "value": 501624,
+      "value": 501995,
       "percentage": 3.14
     },
     {
@@ -130,14 +130,14 @@
   "repositoriesContributedTo": 3,
   "discussionsStarted": 0,
   "discussionsAnswered": 0,
-  "totalContributions": 1201,
+  "totalContributions": 1204,
   "contributionStats": {
     "longestStreak": 78,
     "currentStreak": 78,
     "mostActiveDay": "Tuesday",
-    "averagePerDay": 0.7,
-    "averagePerWeek": 4.93,
-    "averagePerMonth": 21.13,
+    "averagePerDay": 0.71,
+    "averagePerWeek": 4.94,
+    "averagePerMonth": 21.17,
     "monthlyBreakdown": [
       {
         "month": "2021-06",
@@ -365,7 +365,7 @@
       },
       {
         "month": "2026-02",
-        "contributions": 51
+        "contributions": 54
       }
     ]
   },
@@ -399,20 +399,20 @@
       {
         "languageName": "Python",
         "color": "#3572A5",
-        "value": 270431,
-        "percentage": 36.56
+        "value": 270802,
+        "percentage": 36.6
       },
       {
         "languageName": "JavaScript",
         "color": "#f1e05a",
         "value": 258147,
-        "percentage": 34.9
+        "percentage": 34.89
       },
       {
         "languageName": "TypeScript",
         "color": "#3178c6",
         "value": 155094,
-        "percentage": 20.97
+        "percentage": 20.96
       },
       {
         "languageName": "CSS",
@@ -454,23 +454,23 @@
     "totalTopics": 0,
     "topTopics": [],
     "allTopics": [],
-    "contributionsThisYear": 120,
+    "contributionsThisYear": 123,
     "contributionsLastYear": 412,
-    "yearOverYearGrowth": -70.87,
+    "yearOverYearGrowth": -70.15,
     "mostProductiveMonth": {
       "month": "2023-08",
       "contributions": 177
     }
   },
   "contributionsCollection": {
-    "totalCommitContributions": 760,
+    "totalCommitContributions": 763,
     "restrictedContributionsCount": 362,
     "totalIssueContributions": 16,
     "totalRepositoryContributions": 38,
     "totalPullRequestContributions": 24,
     "totalPullRequestReviewContributions": 0,
     "contributionCalendar": {
-      "totalContributions": 1201,
+      "totalContributions": 1204,
       "weeks": [
         {
           "contributionDays": [
@@ -8279,8 +8279,12 @@
               "date": "2026-02-19"
             },
             {
-              "contributionCount": 5,
+              "contributionCount": 8,
               "date": "2026-02-20"
+            },
+            {
+              "contributionCount": 0,
+              "date": "2026-02-21"
             }
           ]
         }
@@ -8337,7 +8341,7 @@
       "isPrivate": false,
       "primaryLanguage": "Python",
       "topics": [],
-      "updatedAt": "2026-02-20T12:41:53Z",
+      "updatedAt": "2026-02-20T18:12:00Z",
       "createdAt": "2025-10-23T10:33:35Z"
     },
     {
@@ -8421,5 +8425,5 @@
   ],
   "closedIssues": 13,
   "openIssues": 3,
-  "fetchedAt": 1771592122251
+  "fetchedAt": 1771677767260
 }

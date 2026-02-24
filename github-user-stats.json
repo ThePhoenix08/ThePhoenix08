@@ -10,56 +10,56 @@
   "websiteUrl": "https://portfolio-v2-gold-psi.vercel.app/",
   "createdAt": "2021-06-26T15:18:24Z",
   "repoViews": 0,
-  "linesOfCodeChanged": 1001014,
-  "linesAdded": 589774,
-  "linesDeleted": 411240,
-  "commitCount": 616,
-  "totalCommits": 766,
+  "linesOfCodeChanged": 1003263,
+  "linesAdded": 591291,
+  "linesDeleted": 411972,
+  "commitCount": 623,
+  "totalCommits": 773,
   "totalPullRequests": 24,
   "totalPullRequestReviews": 0,
-  "codeByteTotal": 16002728,
+  "codeByteTotal": 16031236,
   "topLanguages": [
     {
       "languageName": "JavaScript",
       "color": "#f1e05a",
-      "value": 5235089,
-      "percentage": 32.71
+      "value": 5261294,
+      "percentage": 32.82
     },
     {
       "languageName": "CSS",
       "color": "#663399",
       "value": 3626903,
-      "percentage": 22.66
+      "percentage": 22.62
     },
     {
       "languageName": "HTML",
       "color": "#e34c26",
       "value": 3612622,
-      "percentage": 22.58
+      "percentage": 22.53
     },
     {
       "languageName": "Solidity",
       "color": "#AA6746",
       "value": 825710,
-      "percentage": 5.16
+      "percentage": 5.15
     },
     {
       "languageName": "Jupyter Notebook",
       "color": "#DA5B0B",
       "value": 771266,
-      "percentage": 4.82
+      "percentage": 4.81
     },
     {
       "languageName": "TypeScript",
       "color": "#3178c6",
       "value": 691617,
-      "percentage": 4.32
+      "percentage": 4.31
     },
     {
       "languageName": "Python",
       "color": "#3572A5",
-      "value": 502500,
-      "percentage": 3.14
+      "value": 504803,
+      "percentage": 3.15
     },
     {
       "languageName": "Java",
@@ -71,13 +71,13 @@
       "languageName": "SCSS",
       "color": "#c6538c",
       "value": 189782,
-      "percentage": 1.19
+      "percentage": 1.18
     },
     {
       "languageName": "EJS",
       "color": "#a91e50",
       "value": 177123,
-      "percentage": 1.11
+      "percentage": 1.1
     },
     {
       "languageName": "Pug",
@@ -130,14 +130,14 @@
   "repositoriesContributedTo": 3,
   "discussionsStarted": 0,
   "discussionsAnswered": 0,
-  "totalContributions": 1207,
+  "totalContributions": 1214,
   "contributionStats": {
     "longestStreak": 81,
     "currentStreak": 81,
     "mostActiveDay": "Tuesday",
     "averagePerDay": 0.71,
-    "averagePerWeek": 4.95,
-    "averagePerMonth": 21.2,
+    "averagePerWeek": 4.97,
+    "averagePerMonth": 21.31,
     "monthlyBreakdown": [
       {
         "month": "2021-06",
@@ -365,7 +365,7 @@
       },
       {
         "month": "2026-02",
-        "contributions": 57
+        "contributions": 64
       }
     ]
   },
@@ -394,49 +394,49 @@
     "averageStarsPerRepo": 0.03,
     "languageCount": 17,
     "primaryLanguage": "JavaScript",
-    "primaryLanguageThisYear": "Python",
+    "primaryLanguageThisYear": "JavaScript",
     "topLanguagesThisYear": [
-      {
-        "languageName": "Python",
-        "color": "#3572A5",
-        "value": 271307,
-        "percentage": 36.44
-      },
       {
         "languageName": "JavaScript",
         "color": "#f1e05a",
-        "value": 262236,
-        "percentage": 35.22
+        "value": 288441,
+        "percentage": 37.31
+      },
+      {
+        "languageName": "Python",
+        "color": "#3572A5",
+        "value": 273610,
+        "percentage": 35.39
       },
       {
         "languageName": "TypeScript",
         "color": "#3178c6",
         "value": 155094,
-        "percentage": 20.83
+        "percentage": 20.06
       },
       {
         "languageName": "CSS",
         "color": "#663399",
         "value": 30751,
-        "percentage": 4.13
+        "percentage": 3.98
       },
       {
         "languageName": "HTML",
         "color": "#e34c26",
         "value": 13750,
-        "percentage": 1.85
+        "percentage": 1.78
       },
       {
         "languageName": "C++",
         "color": "#f34b7d",
         "value": 5316,
-        "percentage": 0.71
+        "percentage": 0.69
       },
       {
         "languageName": "PLpgSQL",
         "color": "#336790",
         "value": 5292,
-        "percentage": 0.71
+        "percentage": 0.68
       },
       {
         "languageName": "Mako",
@@ -454,23 +454,23 @@
     "totalTopics": 0,
     "topTopics": [],
     "allTopics": [],
-    "contributionsThisYear": 126,
+    "contributionsThisYear": 133,
     "contributionsLastYear": 412,
-    "yearOverYearGrowth": -69.42,
+    "yearOverYearGrowth": -67.72,
     "mostProductiveMonth": {
       "month": "2023-08",
       "contributions": 177
     }
   },
   "contributionsCollection": {
-    "totalCommitContributions": 766,
+    "totalCommitContributions": 773,
     "restrictedContributionsCount": 362,
     "totalIssueContributions": 16,
     "totalRepositoryContributions": 38,
     "totalPullRequestContributions": 24,
     "totalPullRequestReviewContributions": 0,
     "contributionCalendar": {
-      "totalContributions": 1207,
+      "totalContributions": 1214,
       "weeks": [
         {
           "contributionDays": [
@@ -8295,8 +8295,12 @@
               "date": "2026-02-22"
             },
             {
-              "contributionCount": 1,
+              "contributionCount": 8,
               "date": "2026-02-23"
+            },
+            {
+              "contributionCount": 0,
+              "date": "2026-02-24"
             }
           ]
         }
@@ -8353,7 +8357,7 @@
       "isPrivate": false,
       "primaryLanguage": "Python",
       "topics": [],
-      "updatedAt": "2026-02-23T07:51:08Z",
+      "updatedAt": "2026-02-23T16:12:28Z",
       "createdAt": "2025-10-23T10:33:35Z"
     },
     {
@@ -8437,5 +8441,5 @@
   ],
   "closedIssues": 13,
   "openIssues": 3,
-  "fetchedAt": 1771851634298
+  "fetchedAt": 1771938116323
 }

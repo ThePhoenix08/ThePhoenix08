@@ -10,32 +10,32 @@
   "websiteUrl": "https://portfolio-v2-gold-psi.vercel.app/",
   "createdAt": "2021-06-26T15:18:24Z",
   "repoViews": 0,
-  "linesOfCodeChanged": 1003263,
-  "linesAdded": 591291,
-  "linesDeleted": 411972,
-  "commitCount": 623,
-  "totalCommits": 773,
+  "linesOfCodeChanged": 1003866,
+  "linesAdded": 591664,
+  "linesDeleted": 412202,
+  "commitCount": 625,
+  "totalCommits": 775,
   "totalPullRequests": 24,
   "totalPullRequestReviews": 0,
-  "codeByteTotal": 16031236,
+  "codeByteTotal": 16041121,
   "topLanguages": [
     {
       "languageName": "JavaScript",
       "color": "#f1e05a",
-      "value": 5261294,
-      "percentage": 32.82
+      "value": 5271179,
+      "percentage": 32.86
     },
     {
       "languageName": "CSS",
       "color": "#663399",
       "value": 3626903,
-      "percentage": 22.62
+      "percentage": 22.61
     },
     {
       "languageName": "HTML",
       "color": "#e34c26",
       "value": 3612622,
-      "percentage": 22.53
+      "percentage": 22.52
     },
     {
       "languageName": "Solidity",
@@ -130,14 +130,14 @@
   "repositoriesContributedTo": 3,
   "discussionsStarted": 0,
   "discussionsAnswered": 0,
-  "totalContributions": 1214,
+  "totalContributions": 1216,
   "contributionStats": {
-    "longestStreak": 81,
-    "currentStreak": 81,
+    "longestStreak": 82,
+    "currentStreak": 82,
     "mostActiveDay": "Tuesday",
     "averagePerDay": 0.71,
-    "averagePerWeek": 4.97,
-    "averagePerMonth": 21.31,
+    "averagePerWeek": 4.98,
+    "averagePerMonth": 21.33,
     "monthlyBreakdown": [
       {
         "month": "2021-06",
@@ -365,7 +365,7 @@
       },
       {
         "month": "2026-02",
-        "contributions": 64
+        "contributions": 66
       }
     ]
   },
@@ -399,38 +399,38 @@
       {
         "languageName": "JavaScript",
         "color": "#f1e05a",
-        "value": 288441,
-        "percentage": 37.31
+        "value": 298326,
+        "percentage": 38.1
       },
       {
         "languageName": "Python",
         "color": "#3572A5",
         "value": 273610,
-        "percentage": 35.39
+        "percentage": 34.94
       },
       {
         "languageName": "TypeScript",
         "color": "#3178c6",
         "value": 155094,
-        "percentage": 20.06
+        "percentage": 19.81
       },
       {
         "languageName": "CSS",
         "color": "#663399",
         "value": 30751,
-        "percentage": 3.98
+        "percentage": 3.93
       },
       {
         "languageName": "HTML",
         "color": "#e34c26",
         "value": 13750,
-        "percentage": 1.78
+        "percentage": 1.76
       },
       {
         "languageName": "C++",
         "color": "#f34b7d",
         "value": 5316,
-        "percentage": 0.69
+        "percentage": 0.68
       },
       {
         "languageName": "PLpgSQL",
@@ -454,23 +454,23 @@
     "totalTopics": 0,
     "topTopics": [],
     "allTopics": [],
-    "contributionsThisYear": 133,
+    "contributionsThisYear": 135,
     "contributionsLastYear": 412,
-    "yearOverYearGrowth": -67.72,
+    "yearOverYearGrowth": -67.23,
     "mostProductiveMonth": {
       "month": "2023-08",
       "contributions": 177
     }
   },
   "contributionsCollection": {
-    "totalCommitContributions": 773,
+    "totalCommitContributions": 775,
     "restrictedContributionsCount": 362,
     "totalIssueContributions": 16,
     "totalRepositoryContributions": 38,
     "totalPullRequestContributions": 24,
     "totalPullRequestReviewContributions": 0,
     "contributionCalendar": {
-      "totalContributions": 1214,
+      "totalContributions": 1216,
       "weeks": [
         {
           "contributionDays": [
@@ -8299,8 +8299,12 @@
               "date": "2026-02-23"
             },
             {
-              "contributionCount": 0,
+              "contributionCount": 2,
               "date": "2026-02-24"
+            },
+            {
+              "contributionCount": 0,
+              "date": "2026-02-25"
             }
           ]
         }
@@ -8357,7 +8361,7 @@
       "isPrivate": false,
       "primaryLanguage": "Python",
       "topics": [],
-      "updatedAt": "2026-02-23T16:12:28Z",
+      "updatedAt": "2026-02-25T07:53:07Z",
       "createdAt": "2025-10-23T10:33:35Z"
     },
     {
@@ -8441,5 +8445,5 @@
   ],
   "closedIssues": 13,
   "openIssues": 3,
-  "fetchedAt": 1771938116323
+  "fetchedAt": 1772024462316
 }

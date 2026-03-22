@@ -10,80 +10,80 @@
   "websiteUrl": "https://portfolio-v2-gold-psi.vercel.app/",
   "createdAt": "2021-06-26T15:18:24Z",
   "repoViews": 0,
-  "linesOfCodeChanged": 1006497,
-  "linesAdded": 593369,
-  "linesDeleted": 413128,
-  "commitCount": 660,
-  "totalCommits": 811,
+  "linesOfCodeChanged": 1031042,
+  "linesAdded": 617898,
+  "linesDeleted": 413144,
+  "commitCount": 662,
+  "totalCommits": 813,
   "totalPullRequests": 24,
   "totalPullRequestReviews": 0,
-  "codeByteTotal": 16073798,
+  "codeByteTotal": 16668971,
   "topLanguages": [
     {
       "languageName": "JavaScript",
       "color": "#f1e05a",
-      "value": 5299219,
-      "percentage": 32.97
+      "value": 5299354,
+      "percentage": 31.79
     },
     {
       "languageName": "CSS",
       "color": "#663399",
       "value": 3626903,
-      "percentage": 22.56
+      "percentage": 21.76
     },
     {
       "languageName": "HTML",
       "color": "#e34c26",
       "value": 3612622,
-      "percentage": 22.48
+      "percentage": 21.67
+    },
+    {
+      "languageName": "TypeScript",
+      "color": "#3178c6",
+      "value": 1286655,
+      "percentage": 7.72
     },
     {
       "languageName": "Solidity",
       "color": "#AA6746",
       "value": 825710,
-      "percentage": 5.14
+      "percentage": 4.95
     },
     {
       "languageName": "Jupyter Notebook",
       "color": "#DA5B0B",
       "value": 771266,
-      "percentage": 4.8
-    },
-    {
-      "languageName": "TypeScript",
-      "color": "#3178c6",
-      "value": 691617,
-      "percentage": 4.3
+      "percentage": 4.63
     },
     {
       "languageName": "Python",
       "color": "#3572A5",
       "value": 509440,
-      "percentage": 3.17
+      "percentage": 3.06
     },
     {
       "languageName": "Java",
       "color": "#b07219",
       "value": 309045,
-      "percentage": 1.92
+      "percentage": 1.85
     },
     {
       "languageName": "SCSS",
       "color": "#c6538c",
       "value": 189782,
-      "percentage": 1.18
+      "percentage": 1.14
     },
     {
       "languageName": "EJS",
       "color": "#a91e50",
       "value": 177123,
-      "percentage": 1.1
+      "percentage": 1.06
     },
     {
       "languageName": "Pug",
       "color": "#a86454",
       "value": 42927,
-      "percentage": 0.27
+      "percentage": 0.26
     },
     {
       "languageName": "C++",
@@ -130,14 +130,14 @@
   "repositoriesContributedTo": 2,
   "discussionsStarted": 0,
   "discussionsAnswered": 0,
-  "totalContributions": 890,
+  "totalContributions": 893,
   "contributionStats": {
-    "longestStreak": 106,
-    "currentStreak": 106,
+    "longestStreak": 108,
+    "currentStreak": 108,
     "mostActiveDay": "Saturday",
     "averagePerDay": 0.51,
-    "averagePerWeek": 3.59,
-    "averagePerMonth": 15.4,
+    "averagePerWeek": 3.6,
+    "averagePerMonth": 15.44,
     "monthlyBreakdown": [
       {
         "month": "2021-06",
@@ -369,112 +369,112 @@
       },
       {
         "month": "2026-03",
-        "contributions": 32
+        "contributions": 35
       }
     ]
   },
   "repoStats": {
-    "totalRepos": 38,
-    "publicRepos": 38,
+    "totalRepos": 39,
+    "publicRepos": 39,
     "privateRepos": 0,
     "archivedRepos": 0,
     "forkedRepos": 18,
-    "originalRepos": 20,
-    "activeRepos": 5,
+    "originalRepos": 21,
+    "activeRepos": 6,
     "reposWithStars": 1,
-    "reposCreatedThisYear": 1,
+    "reposCreatedThisYear": 2,
     "averageStarsPerRepo": 0.03
   },
   "computedStats": {
-    "totalRepos": 38,
-    "publicRepos": 38,
+    "totalRepos": 39,
+    "publicRepos": 39,
     "privateRepos": 0,
     "archivedRepos": 0,
     "forkedRepos": 18,
-    "originalRepos": 20,
-    "activeRepos": 5,
+    "originalRepos": 21,
+    "activeRepos": 6,
     "reposWithStars": 1,
-    "reposCreatedThisYear": 1,
+    "reposCreatedThisYear": 2,
     "averageStarsPerRepo": 0.03,
     "languageCount": 17,
     "primaryLanguage": "JavaScript",
-    "primaryLanguageThisYear": "JavaScript",
+    "primaryLanguageThisYear": "TypeScript",
     "topLanguagesThisYear": [
+      {
+        "languageName": "TypeScript",
+        "color": "#3178c6",
+        "value": 750132,
+        "percentage": 53.17
+      },
       {
         "languageName": "JavaScript",
         "color": "#f1e05a",
-        "value": 326366,
-        "percentage": 40.01
+        "value": 326501,
+        "percentage": 23.14
       },
       {
         "languageName": "Python",
         "color": "#3572A5",
         "value": 278247,
-        "percentage": 34.11
-      },
-      {
-        "languageName": "TypeScript",
-        "color": "#3178c6",
-        "value": 155094,
-        "percentage": 19.01
+        "percentage": 19.72
       },
       {
         "languageName": "CSS",
         "color": "#663399",
         "value": 30751,
-        "percentage": 3.77
+        "percentage": 2.18
       },
       {
         "languageName": "HTML",
         "color": "#e34c26",
         "value": 13750,
-        "percentage": 1.69
+        "percentage": 0.97
       },
       {
         "languageName": "C++",
         "color": "#f34b7d",
         "value": 5316,
-        "percentage": 0.65
+        "percentage": 0.38
       },
       {
         "languageName": "PLpgSQL",
         "color": "#336790",
         "value": 5292,
-        "percentage": 0.65
+        "percentage": 0.38
       },
       {
         "languageName": "Mako",
         "color": "#7e858d",
         "value": 704,
-        "percentage": 0.09
+        "percentage": 0.05
       },
       {
         "languageName": "Dockerfile",
         "color": "#384d54",
         "value": 131,
-        "percentage": 0.02
+        "percentage": 0.01
       }
     ],
     "totalTopics": 0,
     "topTopics": [],
     "allTopics": [],
-    "contributionsThisYear": 171,
+    "contributionsThisYear": 174,
     "contributionsLastYear": 412,
-    "yearOverYearGrowth": -58.5,
+    "yearOverYearGrowth": -57.77,
     "mostProductiveMonth": {
       "month": "2025-01",
       "contributions": 143
     }
   },
   "contributionsCollection": {
-    "totalCommitContributions": 811,
+    "totalCommitContributions": 813,
     "restrictedContributionsCount": 0,
     "totalIssueContributions": 16,
-    "totalRepositoryContributions": 38,
+    "totalRepositoryContributions": 39,
     "totalPullRequestContributions": 24,
     "totalPullRequestReviewContributions": 0,
     "contributionCalendar": {
-      "totalContributions": 890,
+      "totalContributions": 893,
       "weeks": [
         {
           "contributionDays": [
@@ -8415,8 +8415,16 @@
               "date": "2026-03-20"
             },
             {
-              "contributionCount": 0,
+              "contributionCount": 1,
               "date": "2026-03-21"
+            }
+          ]
+        },
+        {
+          "contributionDays": [
+            {
+              "contributionCount": 2,
+              "date": "2026-03-22"
             }
           ]
         }
@@ -8436,6 +8444,19 @@
       "topics": [],
       "updatedAt": "2025-10-10T06:26:38Z",
       "createdAt": "2025-06-16T12:00:05Z"
+    },
+    {
+      "name": "prakalp-pm",
+      "description": null,
+      "stars": 0,
+      "forks": 0,
+      "isArchived": false,
+      "isFork": false,
+      "isPrivate": false,
+      "primaryLanguage": "TypeScript",
+      "topics": [],
+      "updatedAt": "2026-03-22T07:39:33Z",
+      "createdAt": "2026-03-22T07:39:22Z"
     },
     {
       "name": "sankey-arise",
@@ -8540,22 +8561,9 @@
       "topics": [],
       "updatedAt": "2025-04-09T03:41:45Z",
       "createdAt": "2025-01-10T14:51:23Z"
-    },
-    {
-      "name": "react-blog",
-      "description": "A Blog Application build using MERN stack",
-      "stars": 0,
-      "forks": 0,
-      "isArchived": false,
-      "isFork": true,
-      "isPrivate": false,
-      "primaryLanguage": "JavaScript",
-      "topics": [],
-      "updatedAt": "2025-01-13T03:33:56Z",
-      "createdAt": "2025-01-08T12:46:22Z"
     }
   ],
   "closedIssues": 13,
   "openIssues": 3,
-  "fetchedAt": 1774097046964
+  "fetchedAt": 1774183666966
 }

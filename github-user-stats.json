@@ -10,12 +10,12 @@
   "websiteUrl": "https://portfolio-v2-gold-psi.vercel.app/",
   "createdAt": "2021-06-26T15:18:24Z",
   "repoViews": 0,
-  "linesOfCodeChanged": 1068389,
-  "linesAdded": 648633,
-  "linesDeleted": 419756,
-  "commitCount": 670,
-  "totalCommits": 822,
-  "totalPullRequests": 24,
+  "linesOfCodeChanged": 1068425,
+  "linesAdded": 648653,
+  "linesDeleted": 419772,
+  "commitCount": 671,
+  "totalCommits": 811,
+  "totalPullRequests": 23,
   "totalPullRequestReviews": 0,
   "codeByteTotal": 16809983,
   "topLanguages": [
@@ -130,14 +130,14 @@
   "repositoriesContributedTo": 2,
   "discussionsStarted": 0,
   "discussionsAnswered": 0,
-  "totalContributions": 902,
+  "totalContributions": 889,
   "contributionStats": {
-    "longestStreak": 112,
-    "currentStreak": 112,
-    "mostActiveDay": "Saturday",
-    "averagePerDay": 0.52,
-    "averagePerWeek": 3.63,
-    "averagePerMonth": 15.55,
+    "longestStreak": 113,
+    "currentStreak": 113,
+    "mostActiveDay": "Monday",
+    "averagePerDay": 0.51,
+    "averagePerWeek": 3.57,
+    "averagePerMonth": 15.32,
     "monthlyBreakdown": [
       {
         "month": "2021-06",
@@ -313,7 +313,7 @@
       },
       {
         "month": "2025-01",
-        "contributions": 143
+        "contributions": 129
       },
       {
         "month": "2025-02",
@@ -369,7 +369,7 @@
       },
       {
         "month": "2026-03",
-        "contributions": 44
+        "contributions": 45
       }
     ]
   },
@@ -458,23 +458,23 @@
     "totalTopics": 0,
     "topTopics": [],
     "allTopics": [],
-    "contributionsThisYear": 183,
-    "contributionsLastYear": 412,
-    "yearOverYearGrowth": -55.58,
+    "contributionsThisYear": 184,
+    "contributionsLastYear": 398,
+    "yearOverYearGrowth": -53.77,
     "mostProductiveMonth": {
       "month": "2025-01",
-      "contributions": 143
+      "contributions": 129
     }
   },
   "contributionsCollection": {
-    "totalCommitContributions": 822,
+    "totalCommitContributions": 811,
     "restrictedContributionsCount": 0,
-    "totalIssueContributions": 16,
+    "totalIssueContributions": 15,
     "totalRepositoryContributions": 39,
-    "totalPullRequestContributions": 24,
+    "totalPullRequestContributions": 23,
     "totalPullRequestReviewContributions": 0,
     "contributionCalendar": {
-      "totalContributions": 902,
+      "totalContributions": 889,
       "weeks": [
         {
           "contributionDays": [
@@ -6423,7 +6423,7 @@
               "date": "2025-01-10"
             },
             {
-              "contributionCount": 34,
+              "contributionCount": 20,
               "date": "2025-01-11"
             }
           ]
@@ -8443,8 +8443,12 @@
               "date": "2026-03-26"
             },
             {
-              "contributionCount": 0,
+              "contributionCount": 1,
               "date": "2026-03-27"
+            },
+            {
+              "contributionCount": 0,
+              "date": "2026-03-28"
             }
           ]
         }
@@ -8583,7 +8587,7 @@
       "createdAt": "2025-01-10T14:51:23Z"
     }
   ],
-  "closedIssues": 13,
+  "closedIssues": 12,
   "openIssues": 3,
-  "fetchedAt": 1774616558336
+  "fetchedAt": 1774702330602
 }

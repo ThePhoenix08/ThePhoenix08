@@ -10,11 +10,11 @@
   "websiteUrl": "https://portfolio-v2-gold-psi.vercel.app/",
   "createdAt": "2021-06-26T15:18:24Z",
   "repoViews": 0,
-  "linesOfCodeChanged": 1002755,
-  "linesAdded": 610956,
-  "linesDeleted": 391799,
-  "commitCount": 581,
-  "totalCommits": 814,
+  "linesOfCodeChanged": 528131,
+  "linesAdded": 458872,
+  "linesDeleted": 69259,
+  "commitCount": 163,
+  "totalCommits": 815,
   "totalPullRequests": 23,
   "totalPullRequestReviews": 0,
   "codeByteTotal": 16809983,
@@ -130,14 +130,14 @@
   "repositoriesContributedTo": 2,
   "discussionsStarted": 0,
   "discussionsAnswered": 0,
-  "totalContributions": 892,
+  "totalContributions": 893,
   "contributionStats": {
-    "longestStreak": 116,
-    "currentStreak": 116,
+    "longestStreak": 117,
+    "currentStreak": 117,
     "mostActiveDay": "Monday",
     "averagePerDay": 0.51,
     "averagePerWeek": 3.58,
-    "averagePerMonth": 15.34,
+    "averagePerMonth": 15.35,
     "monthlyBreakdown": [
       {
         "month": "2021-06",
@@ -369,7 +369,11 @@
       },
       {
         "month": "2026-03",
-        "contributions": 48
+        "contributions": 49
+      },
+      {
+        "month": "2026-04",
+        "contributions": 0
       }
     ]
   },
@@ -458,23 +462,23 @@
     "totalTopics": 0,
     "topTopics": [],
     "allTopics": [],
-    "contributionsThisYear": 187,
+    "contributionsThisYear": 188,
     "contributionsLastYear": 398,
-    "yearOverYearGrowth": -53.02,
+    "yearOverYearGrowth": -52.76,
     "mostProductiveMonth": {
       "month": "2025-01",
       "contributions": 129
     }
   },
   "contributionsCollection": {
-    "totalCommitContributions": 814,
+    "totalCommitContributions": 815,
     "restrictedContributionsCount": 0,
     "totalIssueContributions": 15,
     "totalRepositoryContributions": 39,
     "totalPullRequestContributions": 23,
     "totalPullRequestReviewContributions": 0,
     "contributionCalendar": {
-      "totalContributions": 892,
+      "totalContributions": 893,
       "weeks": [
         {
           "contributionDays": [
@@ -8463,8 +8467,12 @@
               "date": "2026-03-30"
             },
             {
-              "contributionCount": 0,
+              "contributionCount": 1,
               "date": "2026-03-31"
+            },
+            {
+              "contributionCount": 0,
+              "date": "2026-04-01"
             }
           ]
         }
@@ -8605,5 +8613,5 @@
   ],
   "closedIssues": 12,
   "openIssues": 3,
-  "fetchedAt": 1774962876545
+  "fetchedAt": 1775049484307
 }

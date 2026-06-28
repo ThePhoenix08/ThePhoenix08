@@ -10,50 +10,50 @@
   "websiteUrl": "https://portfolio-v2-gold-psi.vercel.app/",
   "createdAt": "2021-06-26T15:18:24Z",
   "repoViews": 0,
-  "linesOfCodeChanged": 1650527,
-  "linesAdded": 591298,
-  "linesDeleted": 1059229,
-  "commitCount": 979,
-  "totalCommits": 946,
+  "linesOfCodeChanged": 1651232,
+  "linesAdded": 591661,
+  "linesDeleted": 1059571,
+  "commitCount": 980,
+  "totalCommits": 947,
   "totalPullRequests": 24,
   "totalPullRequestReviews": 0,
-  "codeByteTotal": 30097021,
+  "codeByteTotal": 30161771,
   "topLanguages": [
     {
       "languageName": "JavaScript",
       "color": "#f1e05a",
-      "value": 10231887,
-      "percentage": 34
+      "value": 10296637,
+      "percentage": 34.14
     },
     {
       "languageName": "HTML",
       "color": "#e34c26",
       "value": 7604513,
-      "percentage": 25.27
+      "percentage": 25.21
     },
     {
       "languageName": "CSS",
       "color": "#663399",
       "value": 7446717,
-      "percentage": 24.74
+      "percentage": 24.69
     },
     {
       "languageName": "Solidity",
       "color": "#AA6746",
       "value": 1651420,
-      "percentage": 5.49
+      "percentage": 5.48
     },
     {
       "languageName": "TypeScript",
       "color": "#3178c6",
       "value": 1443851,
-      "percentage": 4.8
+      "percentage": 4.79
     },
     {
       "languageName": "Python",
       "color": "#3572A5",
       "value": 639786,
-      "percentage": 2.13
+      "percentage": 2.12
     },
     {
       "languageName": "Java",
@@ -65,7 +65,7 @@
       "languageName": "EJS",
       "color": "#a91e50",
       "value": 354246,
-      "percentage": 1.18
+      "percentage": 1.17
     },
     {
       "languageName": "SCSS",
@@ -77,7 +77,7 @@
       "languageName": "Pug",
       "color": "#a86454",
       "value": 85854,
-      "percentage": 0.29
+      "percentage": 0.28
     },
     {
       "languageName": "Jupyter Notebook",
@@ -136,14 +136,14 @@
   "repositoriesContributedTo": 2,
   "discussionsStarted": 0,
   "discussionsAnswered": 0,
-  "totalContributions": 1025,
+  "totalContributions": 1026,
   "contributionStats": {
     "longestStreak": 144,
-    "currentStreak": 16,
+    "currentStreak": 17,
     "mostActiveDay": "Saturday",
     "averagePerDay": 0.56,
     "averagePerWeek": 3.92,
-    "averagePerMonth": 16.78,
+    "averagePerMonth": 16.79,
     "monthlyBreakdown": [
       {
         "month": "2021-06",
@@ -387,7 +387,7 @@
       },
       {
         "month": "2026-06",
-        "contributions": 25
+        "contributions": 26
       }
     ],
     "yearlyBreakdown": [
@@ -413,7 +413,7 @@
       },
       {
         "year": "2026",
-        "contributions": 309
+        "contributions": 310
       }
     ],
     "peakDay": {
@@ -451,44 +451,44 @@
       {
         "languageName": "JavaScript",
         "color": "#f1e05a",
-        "value": 4009539,
-        "percentage": 30.11
+        "value": 4074289,
+        "percentage": 30.44
       },
       {
         "languageName": "CSS",
         "color": "#663399",
         "value": 3614293,
-        "percentage": 27.14
+        "percentage": 27.01
       },
       {
         "languageName": "HTML",
         "color": "#e34c26",
         "value": 3464936,
-        "percentage": 26.02
+        "percentage": 25.89
       },
       {
         "languageName": "Solidity",
         "color": "#AA6746",
         "value": 825710,
-        "percentage": 6.2
+        "percentage": 6.17
       },
       {
         "languageName": "TypeScript",
         "color": "#3178c6",
         "value": 765497,
-        "percentage": 5.75
+        "percentage": 5.72
       },
       {
         "languageName": "Python",
         "color": "#3572A5",
         "value": 387385,
-        "percentage": 2.91
+        "percentage": 2.89
       },
       {
         "languageName": "EJS",
         "color": "#a91e50",
         "value": 177123,
-        "percentage": 1.33
+        "percentage": 1.32
       },
       {
         "languageName": "Pug",
@@ -649,23 +649,23 @@
       "vs-code",
       "web-development"
     ],
-    "contributionsThisYear": 309,
+    "contributionsThisYear": 310,
     "contributionsLastYear": 409,
-    "yearOverYearGrowth": -24.45,
+    "yearOverYearGrowth": -24.21,
     "mostProductiveMonth": {
       "month": "2025-01",
       "contributions": 143
     }
   },
   "contributionsCollection": {
-    "totalCommitContributions": 946,
+    "totalCommitContributions": 947,
     "restrictedContributionsCount": 0,
     "totalIssueContributions": 16,
     "totalRepositoryContributions": 38,
     "totalPullRequestContributions": 24,
     "totalPullRequestReviewContributions": 0,
     "contributionCalendar": {
-      "totalContributions": 1025,
+      "totalContributions": 1026,
       "weeks": [
         {
           "contributionDays": [
@@ -9054,8 +9054,16 @@
               "date": "2026-06-26"
             },
             {
-              "contributionCount": 0,
+              "contributionCount": 1,
               "date": "2026-06-27"
+            }
+          ]
+        },
+        {
+          "contributionDays": [
+            {
+              "contributionCount": 0,
+              "date": "2026-06-28"
             }
           ]
         }
@@ -9206,9 +9214,9 @@
   ],
   "closedIssues": 13,
   "openIssues": 3,
-  "fetchedAt": 1782566980992,
+  "fetchedAt": 1782654216648,
   "schemaVersion": 2,
-  "generatedAt": "2026-06-27T13:29:40.992Z",
+  "generatedAt": "2026-06-28T13:43:36.648Z",
   "profile": {
     "name": "Vighnesh Brahme",
     "login": "ThePhoenix08",
@@ -9224,15 +9232,15 @@
     "following": 18
   },
   "profileContributions": {
-    "totalContributions": 1025,
-    "totalCommitContributions": 946,
+    "totalContributions": 1026,
+    "totalCommitContributions": 947,
     "restrictedContributionsCount": 0,
     "totalIssueContributions": 16,
     "totalRepositoryContributions": 38,
     "totalPullRequestContributions": 24,
     "totalPullRequestReviewContributions": 0,
     "contributionCalendar": {
-      "totalContributions": 1025,
+      "totalContributions": 1026,
       "weeks": [
         {
           "contributionDays": [
@@ -17621,8 +17629,16 @@
               "date": "2026-06-26"
             },
             {
-              "contributionCount": 0,
+              "contributionCount": 1,
               "date": "2026-06-27"
+            }
+          ]
+        },
+        {
+          "contributionDays": [
+            {
+              "contributionCount": 0,
+              "date": "2026-06-28"
             }
           ]
         }
@@ -17630,11 +17646,11 @@
     },
     "stats": {
       "longestStreak": 144,
-      "currentStreak": 16,
+      "currentStreak": 17,
       "mostActiveDay": "Saturday",
       "averagePerDay": 0.56,
       "averagePerWeek": 3.92,
-      "averagePerMonth": 16.78,
+      "averagePerMonth": 16.79,
       "monthlyBreakdown": [
         {
           "month": "2021-06",
@@ -17878,7 +17894,7 @@
         },
         {
           "month": "2026-06",
-          "contributions": 25
+          "contributions": 26
         }
       ],
       "yearlyBreakdown": [
@@ -17904,7 +17920,7 @@
         },
         {
           "year": "2026",
-          "contributions": 309
+          "contributions": 310
         }
       ],
       "peakDay": {
@@ -18494,7 +18510,7 @@
         "nameWithOwner": "ThePhoenix08/ThePhoenix08",
         "owner": "ThePhoenix08",
         "counts": {
-          "commits": 240,
+          "commits": 241,
           "issues": 0,
           "pullRequests": 0,
           "pullRequestReviews": 0,
@@ -18617,7 +18633,7 @@
         "pullRequestReviews": 0,
         "repositoryCreations": 0
       },
-      "metadataFetchedAt": 1782566880253
+      "metadataFetchedAt": 1782654119987
     },
     {
       "id": "R_kgDOQWH5SA",
@@ -18662,7 +18678,7 @@
         "pullRequestReviews": 0,
         "repositoryCreations": 0
       },
-      "metadataFetchedAt": 1782566880915
+      "metadataFetchedAt": 1782654120834
     },
     {
       "id": "R_kgDONJgs7A",
@@ -18717,7 +18733,7 @@
         "pullRequestReviews": 0,
         "repositoryCreations": 0
       },
-      "metadataFetchedAt": 1782566880253
+      "metadataFetchedAt": 1782654119987
     },
     {
       "id": "R_kgDOJ6Wptw",
@@ -18977,7 +18993,7 @@
         "pullRequestReviews": 0,
         "repositoryCreations": 0
       },
-      "metadataFetchedAt": 1782566880253
+      "metadataFetchedAt": 1782654119987
     },
     {
       "id": "R_kgDONiKnXw",
@@ -19038,7 +19054,7 @@
         "pullRequestReviews": 0,
         "repositoryCreations": 0
       },
-      "metadataFetchedAt": 1782566880253
+      "metadataFetchedAt": 1782654119987
     },
     {
       "id": "R_kgDOP_rqbg",
@@ -19101,7 +19117,7 @@
         "pullRequestReviews": 0,
         "repositoryCreations": 0
       },
-      "metadataFetchedAt": 1782566880253
+      "metadataFetchedAt": 1782654119987
     },
     {
       "id": "R_kgDOMlGGww",
@@ -19174,7 +19190,7 @@
         "pullRequestReviews": 0,
         "repositoryCreations": 0
       },
-      "metadataFetchedAt": 1782566880253
+      "metadataFetchedAt": 1782654119987
     },
     {
       "id": "R_kgDOLU2t_Q",
@@ -19428,7 +19444,7 @@
         "pullRequestReviews": 0,
         "repositoryCreations": 0
       },
-      "metadataFetchedAt": 1782566880253
+      "metadataFetchedAt": 1782654119987
     },
     {
       "id": "R_kgDOM6ORgw",
@@ -19602,7 +19618,7 @@
         "pullRequestReviews": 0,
         "repositoryCreations": 0
       },
-      "metadataFetchedAt": 1782566880915
+      "metadataFetchedAt": 1782654120834
     },
     {
       "id": "R_kgDONjI9DA",
@@ -19726,7 +19742,7 @@
         "pullRequestReviews": 0,
         "repositoryCreations": 1
       },
-      "metadataFetchedAt": 1782566880253
+      "metadataFetchedAt": 1782654119987
     },
     {
       "id": "R_kgDOP-tBDw",
@@ -19776,7 +19792,7 @@
         "pullRequestReviews": 0,
         "repositoryCreations": 1
       },
-      "metadataFetchedAt": 1782566880253
+      "metadataFetchedAt": 1782654119987
     },
     {
       "id": "R_kgDONgf6VA",
@@ -20000,7 +20016,7 @@
         "pullRequestReviews": 0,
         "repositoryCreations": 1
       },
-      "metadataFetchedAt": 1782566880253
+      "metadataFetchedAt": 1782654119987
     },
     {
       "id": "R_kgDOMOC5Jg",
@@ -20211,7 +20227,7 @@
         "pullRequestReviews": 0,
         "repositoryCreations": 0
       },
-      "metadataFetchedAt": 1782566880915
+      "metadataFetchedAt": 1782654120834
     },
     {
       "id": "R_kgDOMM_Y-Q",
@@ -20453,7 +20469,7 @@
         "pullRequestReviews": 0,
         "repositoryCreations": 1
       },
-      "metadataFetchedAt": 1782566880253
+      "metadataFetchedAt": 1782654119987
     },
     {
       "id": "R_kgDOMUh61w",
@@ -20515,7 +20531,7 @@
         "pullRequestReviews": 0,
         "repositoryCreations": 0
       },
-      "metadataFetchedAt": 1782566880253
+      "metadataFetchedAt": 1782654119987
     },
     {
       "id": "R_kgDONagNiw",
@@ -20697,9 +20713,9 @@
       "visibility": "PUBLIC",
       "viewerPermission": "ADMIN",
       "createdAt": "2025-10-23T10:33:35Z",
-      "updatedAt": "2026-06-17T05:50:09Z",
-      "pushedAt": "2026-06-17T05:50:03Z",
-      "defaultBranchOid": "f5d5092eefe93ef6fa08feb09fca3735b26b0cdc",
+      "updatedAt": "2026-06-28T10:37:38Z",
+      "pushedAt": "2026-06-28T10:37:35Z",
+      "defaultBranchOid": "8f26478352befcfcd5e64dfeef0e85651546a350",
       "stars": 0,
       "forks": 2,
       "primaryLanguage": "JavaScript",
@@ -20708,26 +20724,26 @@
         {
           "languageName": "JavaScript",
           "color": "#f1e05a",
-          "value": 555213,
-          "percentage": 58.95
+          "value": 619963,
+          "percentage": 61.59
         },
         {
           "languageName": "Python",
           "color": "#3572A5",
           "value": 370152,
-          "percentage": 39.3
+          "percentage": 36.77
         },
         {
           "languageName": "CSS",
           "color": "#663399",
           "value": 9453,
-          "percentage": 1
+          "percentage": 0.94
         },
         {
           "languageName": "PLpgSQL",
           "color": "#336790",
           "value": 5292,
-          "percentage": 0.56
+          "percentage": 0.53
         },
         {
           "languageName": "Mako",
@@ -20739,7 +20755,7 @@
           "languageName": "Dockerfile",
           "color": "#384d54",
           "value": 652,
-          "percentage": 0.07
+          "percentage": 0.06
         },
         {
           "languageName": "HTML",
@@ -20748,7 +20764,7 @@
           "percentage": 0.04
         }
       ],
-      "codeByteTotal": 941821,
+      "codeByteTotal": 1006571,
       "sources": [
         "profile-contribution",
         "cache",
@@ -20761,7 +20777,7 @@
         "pullRequestReviews": 0,
         "repositoryCreations": 1
       },
-      "metadataFetchedAt": 1782566880915
+      "metadataFetchedAt": 1782654120834
     },
     {
       "id": "R_kgDONjJPww",
@@ -20891,7 +20907,7 @@
         "pullRequestReviews": 0,
         "repositoryCreations": 0
       },
-      "metadataFetchedAt": 1782566880253
+      "metadataFetchedAt": 1782654119987
     },
     {
       "id": "R_kgDON2gERQ",
@@ -20953,7 +20969,7 @@
         "pullRequestReviews": 0,
         "repositoryCreations": 1
       },
-      "metadataFetchedAt": 1782566880253
+      "metadataFetchedAt": 1782654119987
     },
     {
       "id": "R_kgDOLfSpfA",
@@ -21071,7 +21087,7 @@
         "pullRequestReviews": 0,
         "repositoryCreations": 0
       },
-      "metadataFetchedAt": 1782566880253
+      "metadataFetchedAt": 1782654119987
     },
     {
       "id": "R_kgDORtdsFw",
@@ -21133,7 +21149,7 @@
         "pullRequestReviews": 0,
         "repositoryCreations": 1
       },
-      "metadataFetchedAt": 1782566880915
+      "metadataFetchedAt": 1782654120834
     },
     {
       "id": "R_kgDOM08ORA",
@@ -21251,7 +21267,7 @@
         "pullRequestReviews": 0,
         "repositoryCreations": 1
       },
-      "metadataFetchedAt": 1782566880253
+      "metadataFetchedAt": 1782654119987
     },
     {
       "id": "R_kgDOQyaCYw",
@@ -21313,7 +21329,7 @@
         "pullRequestReviews": 0,
         "repositoryCreations": 1
       },
-      "metadataFetchedAt": 1782566880915
+      "metadataFetchedAt": 1782654120834
     },
     {
       "id": "R_kgDONnfmzQ",
@@ -21369,7 +21385,7 @@
         "pullRequestReviews": 0,
         "repositoryCreations": 1
       },
-      "metadataFetchedAt": 1782566880253
+      "metadataFetchedAt": 1782654119987
     },
     {
       "id": "R_kgDONZXnRA",
@@ -21493,7 +21509,7 @@
         "pullRequestReviews": 0,
         "repositoryCreations": 1
       },
-      "metadataFetchedAt": 1782566880253
+      "metadataFetchedAt": 1782654119987
     },
     {
       "id": "R_kgDONgkRTw",
@@ -21571,9 +21587,9 @@
       "visibility": "PUBLIC",
       "viewerPermission": "ADMIN",
       "createdAt": "2024-04-28T13:26:34Z",
-      "updatedAt": "2026-06-26T19:51:00Z",
-      "pushedAt": "2026-06-27T06:36:50Z",
-      "defaultBranchOid": "eb64225dce27529e0f38ce180fbafa50cc67ff26",
+      "updatedAt": "2026-06-27T19:23:14Z",
+      "pushedAt": "2026-06-28T07:10:06Z",
+      "defaultBranchOid": "a0733ba73f5392fb8f3d68f319b381d1ab5860c1",
       "stars": 0,
       "forks": 0,
       "primaryLanguage": null,
@@ -21586,13 +21602,13 @@
         "owned"
       ],
       "contributionCounts": {
-        "commits": 226,
+        "commits": 227,
         "issues": 0,
         "pullRequests": 0,
         "pullRequestReviews": 0,
         "repositoryCreations": 0
       },
-      "metadataFetchedAt": 1782566880915
+      "metadataFetchedAt": 1782654120834
     },
     {
       "id": "R_kgDONohWkA",
@@ -21654,7 +21670,7 @@
         "pullRequestReviews": 0,
         "repositoryCreations": 1
       },
-      "metadataFetchedAt": 1782566880253
+      "metadataFetchedAt": 1782654119987
     },
     {
       "id": "R_kgDOLcnKig",
@@ -21716,43 +21732,43 @@
   "repoMetrics": {
     "starCount": 1,
     "forkCount": 8,
-    "codeByteTotal": 30097021,
+    "codeByteTotal": 30161771,
     "topLanguages": [
       {
         "languageName": "JavaScript",
         "color": "#f1e05a",
-        "value": 10231887,
-        "percentage": 34
+        "value": 10296637,
+        "percentage": 34.14
       },
       {
         "languageName": "HTML",
         "color": "#e34c26",
         "value": 7604513,
-        "percentage": 25.27
+        "percentage": 25.21
       },
       {
         "languageName": "CSS",
         "color": "#663399",
         "value": 7446717,
-        "percentage": 24.74
+        "percentage": 24.69
       },
       {
         "languageName": "Solidity",
         "color": "#AA6746",
         "value": 1651420,
-        "percentage": 5.49
+        "percentage": 5.48
       },
       {
         "languageName": "TypeScript",
         "color": "#3178c6",
         "value": 1443851,
-        "percentage": 4.8
+        "percentage": 4.79
       },
       {
         "languageName": "Python",
         "color": "#3572A5",
         "value": 639786,
-        "percentage": 2.13
+        "percentage": 2.12
       },
       {
         "languageName": "Java",
@@ -21764,7 +21780,7 @@
         "languageName": "EJS",
         "color": "#a91e50",
         "value": 354246,
-        "percentage": 1.18
+        "percentage": 1.17
       },
       {
         "languageName": "SCSS",
@@ -21776,7 +21792,7 @@
         "languageName": "Pug",
         "color": "#a86454",
         "value": 85854,
-        "percentage": 0.29
+        "percentage": 0.28
       },
       {
         "languageName": "Jupyter Notebook",
@@ -21910,10 +21926,10 @@
       }
     ],
     "contributorStats": {
-      "totalCommits": 979,
-      "linesAdded": 591298,
-      "linesDeleted": 1059229,
-      "linesOfCodeChanged": 1650527,
+      "totalCommits": 980,
+      "linesAdded": 591661,
+      "linesDeleted": 1059571,
+      "linesOfCodeChanged": 1651232,
       "reposCompleted": 51,
       "reposPending": 0,
       "reposFailed": 0
@@ -21955,44 +21971,44 @@
         {
           "languageName": "JavaScript",
           "color": "#f1e05a",
-          "value": 4009539,
-          "percentage": 30.11
+          "value": 4074289,
+          "percentage": 30.44
         },
         {
           "languageName": "CSS",
           "color": "#663399",
           "value": 3614293,
-          "percentage": 27.14
+          "percentage": 27.01
         },
         {
           "languageName": "HTML",
           "color": "#e34c26",
           "value": 3464936,
-          "percentage": 26.02
+          "percentage": 25.89
         },
         {
           "languageName": "Solidity",
           "color": "#AA6746",
           "value": 825710,
-          "percentage": 6.2
+          "percentage": 6.17
         },
         {
           "languageName": "TypeScript",
           "color": "#3178c6",
           "value": 765497,
-          "percentage": 5.75
+          "percentage": 5.72
         },
         {
           "languageName": "Python",
           "color": "#3572A5",
           "value": 387385,
-          "percentage": 2.91
+          "percentage": 2.89
         },
         {
           "languageName": "EJS",
           "color": "#a91e50",
           "value": 177123,
-          "percentage": 1.33
+          "percentage": 1.32
         },
         {
           "languageName": "Pug",
@@ -22153,9 +22169,9 @@
         "vs-code",
         "web-development"
       ],
-      "contributionsThisYear": 309,
+      "contributionsThisYear": 310,
       "contributionsLastYear": 409,
-      "yearOverYearGrowth": -24.45,
+      "yearOverYearGrowth": -24.21,
       "mostProductiveMonth": {
         "month": "2025-01",
         "contributions": 143
@@ -22166,45 +22182,45 @@
     "readmeSummary": {
       "name": "Vighnesh Brahme",
       "username": "ThePhoenix08",
-      "totalContributions": 1025,
-      "currentStreak": 16,
+      "totalContributions": 1026,
+      "currentStreak": 17,
       "longestStreak": 144,
       "topLanguages": [
         {
           "languageName": "JavaScript",
           "color": "#f1e05a",
-          "value": 10231887,
-          "percentage": 34
+          "value": 10296637,
+          "percentage": 34.14
         },
         {
           "languageName": "HTML",
           "color": "#e34c26",
           "value": 7604513,
-          "percentage": 25.27
+          "percentage": 25.21
         },
         {
           "languageName": "CSS",
           "color": "#663399",
           "value": 7446717,
-          "percentage": 24.74
+          "percentage": 24.69
         },
         {
           "languageName": "Solidity",
           "color": "#AA6746",
           "value": 1651420,
-          "percentage": 5.49
+          "percentage": 5.48
         },
         {
           "languageName": "TypeScript",
           "color": "#3178c6",
           "value": 1443851,
-          "percentage": 4.8
+          "percentage": 4.79
         }
       ],
       "starsReceived": 1,
       "forksReceived": 8,
       "activeRepos": 11,
-      "refreshedAt": "2026-06-27T13:29:40.992Z",
+      "refreshedAt": "2026-06-28T13:43:36.648Z",
       "complete": false
     },
     "cards": [
@@ -22216,7 +22232,7 @@
       {
         "id": "current-streak",
         "label": "Current streak",
-        "value": "16 days"
+        "value": "17 days"
       },
       {
         "id": "languages",
@@ -22227,7 +22243,7 @@
       {
         "id": "code-volume",
         "label": "Code volume",
-        "value": "28.7 MB"
+        "value": "28.8 MB"
       },
       {
         "id": "stars",
@@ -22258,7 +22274,7 @@
       },
       {
         "period": "2026",
-        "contributions": 309
+        "contributions": 310
       }
     ],
     "highlights": [
@@ -22278,7 +22294,7 @@
         "id": "top-language",
         "label": "Top language",
         "value": "JavaScript",
-        "detail": "34%"
+        "detail": "34.14%"
       }
     ],
     "remotion": {
@@ -22318,9 +22334,9 @@
     "redactedOptionalMetrics": 0
   },
   "collectionStatus": {
-    "startedAt": 1782566878621,
-    "finishedAt": 1782566980992,
-    "durationMs": 102371,
+    "startedAt": 1782654118610,
+    "finishedAt": 1782654216648,
+    "durationMs": 98038,
     "coreComplete": true,
     "complete": false,
     "cache": {
@@ -22333,7 +22349,7 @@
     },
     "backfill": {
       "enabled": true,
-      "completedThisRun": 1,
+      "completedThisRun": 2,
       "pending": 0,
       "failedThisRun": 42,
       "skippedThisRun": 0
@@ -22343,139 +22359,139 @@
         "limit": 5000,
         "remaining": 4991,
         "used": 9,
-        "resetAt": "2026-06-27T14:27:58Z"
+        "resetAt": "2026-06-28T14:41:58Z"
       },
       "rest": {
         "limit": 5000,
-        "remaining": 4998,
-        "used": 2,
-        "resetAt": "2026-06-27T14:28:10.000Z"
+        "remaining": 4995,
+        "used": 5,
+        "resetAt": "2026-06-28T14:42:08.000Z"
       }
     },
     "warnings": [
       "traffic ThePhoenix08/C-projects returned 403; retrying in 1000ms",
-      "traffic ThePhoenix08/to-do-app returned 403; retrying in 1000ms",
       "traffic ThePhoenix08/ThePhoenix08 returned 403; retrying in 1000ms",
-      "traffic ThePhoenix08/ThePhoenix08 returned 403; retrying in 2000ms",
       "traffic ThePhoenix08/C-projects returned 403; retrying in 2000ms",
+      "traffic ThePhoenix08/ThePhoenix08 returned 403; retrying in 2000ms",
+      "traffic ThePhoenix08/to-do-app returned 403; retrying in 1000ms",
       "traffic ThePhoenix08/to-do-app returned 403; retrying in 2000ms",
-      "traffic ThePhoenix08/movix-website returned 403; retrying in 1000ms",
-      "traffic ThePhoenix08/movix-website returned 403; retrying in 2000ms",
-      "traffic ThePhoenix08/ThePhoenix08 returned 403; retrying in 4000ms",
       "traffic ThePhoenix08/C-projects returned 403; retrying in 4000ms",
+      "traffic ThePhoenix08/ThePhoenix08 returned 403; retrying in 4000ms",
+      "traffic ThePhoenix08/movix-website returned 403; retrying in 1000ms",
       "traffic ThePhoenix08/to-do-app returned 403; retrying in 4000ms",
+      "traffic ThePhoenix08/movix-website returned 403; retrying in 2000ms",
       "traffic ThePhoenix08/movix-website returned 403; retrying in 4000ms",
       "traffic ThePhoenix08/portfolio returned 403; retrying in 1000ms",
       "traffic ThePhoenix08/profoundry returned 403; retrying in 1000ms",
-      "traffic ThePhoenix08/Access_Denied returned 403; retrying in 1000ms",
       "traffic ThePhoenix08/portfolio returned 403; retrying in 2000ms",
       "traffic ThePhoenix08/profoundry returned 403; retrying in 2000ms",
+      "traffic ThePhoenix08/Access_Denied returned 403; retrying in 1000ms",
       "traffic ThePhoenix08/Access_Denied returned 403; retrying in 2000ms",
-      "traffic ThePhoenix08/ai-trip-planner returned 403; retrying in 1000ms",
-      "traffic ThePhoenix08/ai-trip-planner returned 403; retrying in 2000ms",
       "traffic ThePhoenix08/portfolio returned 403; retrying in 4000ms",
       "traffic ThePhoenix08/profoundry returned 403; retrying in 4000ms",
+      "traffic ThePhoenix08/ai-trip-planner returned 403; retrying in 1000ms",
       "traffic ThePhoenix08/Access_Denied returned 403; retrying in 4000ms",
+      "traffic ThePhoenix08/ai-trip-planner returned 403; retrying in 2000ms",
       "traffic ThePhoenix08/ai-trip-planner returned 403; retrying in 4000ms",
       "traffic ThePhoenix08/expense-tracker returned 403; retrying in 1000ms",
       "traffic ThePhoenix08/forage-jpmc-swe-task-1 returned 403; retrying in 1000ms",
-      "traffic ThePhoenix08/forage-jpmc-swe-task-2 returned 403; retrying in 1000ms",
       "traffic ThePhoenix08/expense-tracker returned 403; retrying in 2000ms",
       "traffic ThePhoenix08/forage-jpmc-swe-task-1 returned 403; retrying in 2000ms",
+      "traffic ThePhoenix08/forage-jpmc-swe-task-2 returned 403; retrying in 1000ms",
       "traffic ThePhoenix08/forage-jpmc-swe-task-2 returned 403; retrying in 2000ms",
-      "traffic ThePhoenix08/CodSoft returned 403; retrying in 1000ms",
-      "traffic ThePhoenix08/CodSoft returned 403; retrying in 2000ms",
       "traffic ThePhoenix08/expense-tracker returned 403; retrying in 4000ms",
       "traffic ThePhoenix08/forage-jpmc-swe-task-1 returned 403; retrying in 4000ms",
+      "traffic ThePhoenix08/CodSoft returned 403; retrying in 1000ms",
       "traffic ThePhoenix08/forage-jpmc-swe-task-2 returned 403; retrying in 4000ms",
+      "traffic ThePhoenix08/CodSoft returned 403; retrying in 2000ms",
       "traffic ThePhoenix08/CodSoft returned 403; retrying in 4000ms",
       "traffic ThePhoenix08/forage-jpmc-swe-task-3 returned 403; retrying in 1000ms",
       "traffic ThePhoenix08/Codsoft-task-tracker-app returned 403; retrying in 1000ms",
-      "traffic ThePhoenix08/portfolio-v2 returned 403; retrying in 1000ms",
       "traffic ThePhoenix08/forage-jpmc-swe-task-3 returned 403; retrying in 2000ms",
       "traffic ThePhoenix08/Codsoft-task-tracker-app returned 403; retrying in 2000ms",
+      "traffic ThePhoenix08/portfolio-v2 returned 403; retrying in 1000ms",
       "traffic ThePhoenix08/portfolio-v2 returned 403; retrying in 2000ms",
-      "traffic ThePhoenix08/mern-blog returned 403; retrying in 1000ms",
       "traffic ThePhoenix08/forage-jpmc-swe-task-3 returned 403; retrying in 4000ms",
-      "traffic ThePhoenix08/mern-blog returned 403; retrying in 2000ms",
       "traffic ThePhoenix08/Codsoft-task-tracker-app returned 403; retrying in 4000ms",
+      "traffic ThePhoenix08/mern-blog returned 403; retrying in 1000ms",
       "traffic ThePhoenix08/portfolio-v2 returned 403; retrying in 4000ms",
+      "traffic ThePhoenix08/mern-blog returned 403; retrying in 2000ms",
       "traffic ThePhoenix08/mern-blog returned 403; retrying in 4000ms",
       "traffic ThePhoenix08/pathify returned 403; retrying in 1000ms",
       "traffic ThePhoenix08/METAVERSE returned 403; retrying in 1000ms",
-      "traffic ThePhoenix08/Beautiify returned 403; retrying in 1000ms",
       "traffic ThePhoenix08/pathify returned 403; retrying in 2000ms",
       "traffic ThePhoenix08/METAVERSE returned 403; retrying in 2000ms",
+      "traffic ThePhoenix08/Beautiify returned 403; retrying in 1000ms",
       "traffic ThePhoenix08/Beautiify returned 403; retrying in 2000ms",
-      "traffic ThePhoenix08/TelMedSphere returned 403; retrying in 1000ms",
       "traffic ThePhoenix08/pathify returned 403; retrying in 4000ms",
-      "traffic ThePhoenix08/TelMedSphere returned 403; retrying in 2000ms",
       "traffic ThePhoenix08/METAVERSE returned 403; retrying in 4000ms",
+      "traffic ThePhoenix08/TelMedSphere returned 403; retrying in 1000ms",
       "traffic ThePhoenix08/Beautiify returned 403; retrying in 4000ms",
+      "traffic ThePhoenix08/TelMedSphere returned 403; retrying in 2000ms",
       "traffic ThePhoenix08/TelMedSphere returned 403; retrying in 4000ms",
       "traffic ThePhoenix08/DevDisplay returned 403; retrying in 1000ms",
       "traffic ThePhoenix08/AnimateHub returned 403; retrying in 1000ms",
-      "traffic ThePhoenix08/OnlineBookSales returned 403; retrying in 1000ms",
       "traffic ThePhoenix08/DevDisplay returned 403; retrying in 2000ms",
+      "traffic ThePhoenix08/OnlineBookSales returned 403; retrying in 1000ms",
       "traffic ThePhoenix08/AnimateHub returned 403; retrying in 2000ms",
       "traffic ThePhoenix08/OnlineBookSales returned 403; retrying in 2000ms",
-      "traffic ThePhoenix08/HungryBox returned 403; retrying in 1000ms",
       "traffic ThePhoenix08/DevDisplay returned 403; retrying in 4000ms",
-      "traffic ThePhoenix08/HungryBox returned 403; retrying in 2000ms",
       "traffic ThePhoenix08/AnimateHub returned 403; retrying in 4000ms",
+      "traffic ThePhoenix08/HungryBox returned 403; retrying in 1000ms",
       "traffic ThePhoenix08/OnlineBookSales returned 403; retrying in 4000ms",
+      "traffic ThePhoenix08/HungryBox returned 403; retrying in 2000ms",
       "traffic ThePhoenix08/HungryBox returned 403; retrying in 4000ms",
       "traffic ThePhoenix08/react-blog returned 403; retrying in 1000ms",
       "traffic ThePhoenix08/ShopSphere returned 403; retrying in 1000ms",
-      "traffic ThePhoenix08/Tiffin_Fusion returned 403; retrying in 1000ms",
       "traffic ThePhoenix08/react-blog returned 403; retrying in 2000ms",
+      "traffic ThePhoenix08/Tiffin_Fusion returned 403; retrying in 1000ms",
       "traffic ThePhoenix08/ShopSphere returned 403; retrying in 2000ms",
       "traffic ThePhoenix08/Tiffin_Fusion returned 403; retrying in 2000ms",
+      "traffic ThePhoenix08/react-blog returned 403; retrying in 4000ms",
       "traffic ThePhoenix08/SocioSell returned 403; retrying in 1000ms",
       "traffic ThePhoenix08/ShopSphere returned 403; retrying in 4000ms",
-      "traffic ThePhoenix08/react-blog returned 403; retrying in 4000ms",
-      "traffic ThePhoenix08/SocioSell returned 403; retrying in 2000ms",
       "traffic ThePhoenix08/Tiffin_Fusion returned 403; retrying in 4000ms",
+      "traffic ThePhoenix08/SocioSell returned 403; retrying in 2000ms",
       "traffic ThePhoenix08/SocioSell returned 403; retrying in 4000ms",
       "traffic ThePhoenix08/ai-trip-planner-2 returned 403; retrying in 1000ms",
       "traffic ThePhoenix08/Classroom.io returned 403; retrying in 1000ms",
-      "traffic ThePhoenix08/open-graph-visualizer returned 403; retrying in 1000ms",
       "traffic ThePhoenix08/ai-trip-planner-2 returned 403; retrying in 2000ms",
+      "traffic ThePhoenix08/open-graph-visualizer returned 403; retrying in 1000ms",
       "traffic ThePhoenix08/Classroom.io returned 403; retrying in 2000ms",
       "traffic ThePhoenix08/open-graph-visualizer returned 403; retrying in 2000ms",
-      "traffic ThePhoenix08/chessed returned 403; retrying in 1000ms",
       "traffic ThePhoenix08/ai-trip-planner-2 returned 403; retrying in 4000ms",
+      "traffic ThePhoenix08/chessed returned 403; retrying in 1000ms",
       "traffic ThePhoenix08/Classroom.io returned 403; retrying in 4000ms",
       "traffic ThePhoenix08/open-graph-visualizer returned 403; retrying in 4000ms",
       "traffic ThePhoenix08/chessed returned 403; retrying in 2000ms",
       "traffic ThePhoenix08/chessed returned 403; retrying in 4000ms",
       "traffic ThePhoenix08/Shortify returned 403; retrying in 1000ms",
+      "traffic ThePhoenix08/Shortify returned 403; retrying in 2000ms",
       "traffic ThePhoenix08/archeo returned 403; retrying in 1000ms",
       "traffic ThePhoenix08/audio-cnn returned 403; retrying in 1000ms",
       "traffic ThePhoenix08/archeo returned 403; retrying in 2000ms",
-      "traffic ThePhoenix08/Shortify returned 403; retrying in 2000ms",
       "traffic ThePhoenix08/audio-cnn returned 403; retrying in 2000ms",
+      "traffic ThePhoenix08/Shortify returned 403; retrying in 4000ms",
       "traffic ThePhoenix08/musimo returned 403; retrying in 1000ms",
       "traffic ThePhoenix08/archeo returned 403; retrying in 4000ms",
-      "traffic ThePhoenix08/Shortify returned 403; retrying in 4000ms",
       "traffic ThePhoenix08/audio-cnn returned 403; retrying in 4000ms",
       "traffic ThePhoenix08/musimo returned 403; retrying in 2000ms",
-      "traffic ThePhoenix08/musimo returned 403; retrying in 4000ms",
       "traffic ThePhoenix08/sankey-arise returned 403; retrying in 1000ms",
-      "traffic 712Kunal/Pathify returned 403; retrying in 1000ms",
-      "traffic ThePhoenix08/prakalp-pm returned 403; retrying in 1000ms",
+      "traffic ThePhoenix08/musimo returned 403; retrying in 4000ms",
       "traffic ThePhoenix08/sankey-arise returned 403; retrying in 2000ms",
+      "traffic ThePhoenix08/prakalp-pm returned 403; retrying in 1000ms",
+      "traffic 712Kunal/Pathify returned 403; retrying in 1000ms",
       "traffic ThePhoenix08/prakalp-pm returned 403; retrying in 2000ms",
       "traffic 712Kunal/Pathify returned 403; retrying in 2000ms",
-      "traffic Drkadam07/EMERGE returned 403; retrying in 1000ms",
       "traffic ThePhoenix08/sankey-arise returned 403; retrying in 4000ms",
-      "traffic 712Kunal/Pathify returned 403; retrying in 4000ms",
+      "traffic Drkadam07/EMERGE returned 403; retrying in 1000ms",
       "traffic ThePhoenix08/prakalp-pm returned 403; retrying in 4000ms",
+      "traffic 712Kunal/Pathify returned 403; retrying in 4000ms",
       "traffic Drkadam07/EMERGE returned 403; retrying in 2000ms",
-      "traffic Drkadam07/EMERGE returned 403; retrying in 4000ms",
       "traffic AryaaStark-ai/Access_Denied returned 403; retrying in 1000ms",
-      "traffic 712Kunal/Classroom.io returned 403; retrying in 1000ms",
+      "traffic Drkadam07/EMERGE returned 403; retrying in 4000ms",
       "traffic AryaaStark-ai/Access_Denied returned 403; retrying in 2000ms",
+      "traffic 712Kunal/Classroom.io returned 403; retrying in 1000ms",
       "traffic 712Kunal/Classroom.io returned 403; retrying in 2000ms",
       "traffic AryaaStark-ai/Access_Denied returned 403; retrying in 4000ms",
       "traffic 712Kunal/Classroom.io returned 403; retrying in 4000ms"
@@ -22494,50 +22510,50 @@
     "websiteUrl": "https://portfolio-v2-gold-psi.vercel.app/",
     "createdAt": "2021-06-26T15:18:24Z",
     "repoViews": 0,
-    "linesOfCodeChanged": 1650527,
-    "linesAdded": 591298,
-    "linesDeleted": 1059229,
-    "commitCount": 979,
-    "totalCommits": 946,
+    "linesOfCodeChanged": 1651232,
+    "linesAdded": 591661,
+    "linesDeleted": 1059571,
+    "commitCount": 980,
+    "totalCommits": 947,
     "totalPullRequests": 24,
     "totalPullRequestReviews": 0,
-    "codeByteTotal": 30097021,
+    "codeByteTotal": 30161771,
     "topLanguages": [
       {
         "languageName": "JavaScript",
         "color": "#f1e05a",
-        "value": 10231887,
-        "percentage": 34
+        "value": 10296637,
+        "percentage": 34.14
       },
       {
         "languageName": "HTML",
         "color": "#e34c26",
         "value": 7604513,
-        "percentage": 25.27
+        "percentage": 25.21
       },
       {
         "languageName": "CSS",
         "color": "#663399",
         "value": 7446717,
-        "percentage": 24.74
+        "percentage": 24.69
       },
       {
         "languageName": "Solidity",
         "color": "#AA6746",
         "value": 1651420,
-        "percentage": 5.49
+        "percentage": 5.48
       },
       {
         "languageName": "TypeScript",
         "color": "#3178c6",
         "value": 1443851,
-        "percentage": 4.8
+        "percentage": 4.79
       },
       {
         "languageName": "Python",
         "color": "#3572A5",
         "value": 639786,
-        "percentage": 2.13
+        "percentage": 2.12
       },
       {
         "languageName": "Java",
@@ -22549,7 +22565,7 @@
         "languageName": "EJS",
         "color": "#a91e50",
         "value": 354246,
-        "percentage": 1.18
+        "percentage": 1.17
       },
       {
         "languageName": "SCSS",
@@ -22561,7 +22577,7 @@
         "languageName": "Pug",
         "color": "#a86454",
         "value": 85854,
-        "percentage": 0.29
+        "percentage": 0.28
       },
       {
         "languageName": "Jupyter Notebook",
@@ -22620,14 +22636,14 @@
     "repositoriesContributedTo": 2,
     "discussionsStarted": 0,
     "discussionsAnswered": 0,
-    "totalContributions": 1025,
+    "totalContributions": 1026,
     "contributionStats": {
       "longestStreak": 144,
-      "currentStreak": 16,
+      "currentStreak": 17,
       "mostActiveDay": "Saturday",
       "averagePerDay": 0.56,
       "averagePerWeek": 3.92,
-      "averagePerMonth": 16.78,
+      "averagePerMonth": 16.79,
       "monthlyBreakdown": [
         {
           "month": "2021-06",
@@ -22871,7 +22887,7 @@
         },
         {
           "month": "2026-06",
-          "contributions": 25
+          "contributions": 26
         }
       ],
       "yearlyBreakdown": [
@@ -22897,7 +22913,7 @@
         },
         {
           "year": "2026",
-          "contributions": 309
+          "contributions": 310
         }
       ],
       "peakDay": {
@@ -22935,44 +22951,44 @@
         {
           "languageName": "JavaScript",
           "color": "#f1e05a",
-          "value": 4009539,
-          "percentage": 30.11
+          "value": 4074289,
+          "percentage": 30.44
         },
         {
           "languageName": "CSS",
           "color": "#663399",
           "value": 3614293,
-          "percentage": 27.14
+          "percentage": 27.01
         },
         {
           "languageName": "HTML",
           "color": "#e34c26",
           "value": 3464936,
-          "percentage": 26.02
+          "percentage": 25.89
         },
         {
           "languageName": "Solidity",
           "color": "#AA6746",
           "value": 825710,
-          "percentage": 6.2
+          "percentage": 6.17
         },
         {
           "languageName": "TypeScript",
           "color": "#3178c6",
           "value": 765497,
-          "percentage": 5.75
+          "percentage": 5.72
         },
         {
           "languageName": "Python",
           "color": "#3572A5",
           "value": 387385,
-          "percentage": 2.91
+          "percentage": 2.89
         },
         {
           "languageName": "EJS",
           "color": "#a91e50",
           "value": 177123,
-          "percentage": 1.33
+          "percentage": 1.32
         },
         {
           "languageName": "Pug",
@@ -23133,23 +23149,23 @@
         "vs-code",
         "web-development"
       ],
-      "contributionsThisYear": 309,
+      "contributionsThisYear": 310,
       "contributionsLastYear": 409,
-      "yearOverYearGrowth": -24.45,
+      "yearOverYearGrowth": -24.21,
       "mostProductiveMonth": {
         "month": "2025-01",
         "contributions": 143
       }
     },
     "contributionsCollection": {
-      "totalCommitContributions": 946,
+      "totalCommitContributions": 947,
       "restrictedContributionsCount": 0,
       "totalIssueContributions": 16,
       "totalRepositoryContributions": 38,
       "totalPullRequestContributions": 24,
       "totalPullRequestReviewContributions": 0,
       "contributionCalendar": {
-        "totalContributions": 1025,
+        "totalContributions": 1026,
         "weeks": [
           {
             "contributionDays": [
@@ -31538,8 +31554,16 @@
                 "date": "2026-06-26"
               },
               {
-                "contributionCount": 0,
+                "contributionCount": 1,
                 "date": "2026-06-27"
+              }
+            ]
+          },
+          {
+            "contributionDays": [
+              {
+                "contributionCount": 0,
+                "date": "2026-06-28"
               }
             ]
           }
@@ -31690,6 +31714,6 @@
     ],
     "closedIssues": 13,
     "openIssues": 3,
-    "fetchedAt": 1782566980992
+    "fetchedAt": 1782654216648
   }
 }

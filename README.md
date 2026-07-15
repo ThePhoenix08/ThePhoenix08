@@ -11,11 +11,15 @@ I'm a Fourth-Year Computer Engineering student passionate about building things 
 ### Tech stack
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,html,css" />
+    <img src="https://skillicons.dev/icons?i=c,cpp" />
     &nbsp;
     <img src="https://skillicons.dev/icons?i=js,react,redux,nodejs,express,mongodb" />
     &nbsp;
     <img src="https://skillicons.dev/icons?i=python,fastapi,pytorch" />
+    &nbsp;
+    <img src="https://skillicons.dev/icons?i=java,spring" />
+    &nbsp;
+    <img src="https://skillicons.dev/icons?i=mysql" />
   </a>
 </p>
 

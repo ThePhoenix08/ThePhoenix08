@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": 1784294665865,
+  "updatedAt": 1784380240284,
   "contributionYears": {
     "2021": {
       "year": "2021",
@@ -8380,7 +8380,7 @@
       "year": "2025",
       "from": "2025-01-01T00:00:00.000Z",
       "to": "2026-01-01T00:00:00.000Z",
-      "fetchedAt": 1784294566736,
+      "fetchedAt": 1784380145274,
       "immutable": false,
       "data": {
         "totalCommitContributions": 375,
@@ -10071,24 +10071,1598 @@
           ]
         }
       },
-      "repositoryContributions": [],
-      "repositories": []
+      "repositoryContributions": [
+        {
+          "repositoryId": "R_kgDONr0HNw",
+          "nameWithOwner": "712Kunal/Classroom.io",
+          "owner": "712Kunal",
+          "counts": {
+            "commits": 126,
+            "issues": 0,
+            "pullRequests": 4,
+            "pullRequestReviews": 0,
+            "repositoryCreations": 0
+          }
+        },
+        {
+          "repositoryId": "R_kgDOQWH5SA",
+          "nameWithOwner": "712Kunal/Pathify",
+          "owner": "712Kunal",
+          "counts": {
+            "commits": 3,
+            "issues": 0,
+            "pullRequests": 0,
+            "pullRequestReviews": 0,
+            "repositoryCreations": 0
+          }
+        },
+        {
+          "repositoryId": "R_kgDONJgs7A",
+          "nameWithOwner": "Anwishta/ShopSphere",
+          "owner": "Anwishta",
+          "counts": {
+            "commits": 14,
+            "issues": 4,
+            "pullRequests": 5,
+            "pullRequestReviews": 0,
+            "repositoryCreations": 0
+          }
+        },
+        {
+          "repositoryId": "R_kgDOMxMs4A",
+          "nameWithOwner": "codeaashu/DevDisplay",
+          "owner": "codeaashu",
+          "counts": {
+            "commits": 12,
+            "issues": 0,
+            "pullRequests": 2,
+            "pullRequestReviews": 0,
+            "repositoryCreations": 0
+          }
+        },
+        {
+          "repositoryId": "R_kgDONiKnXw",
+          "nameWithOwner": "divyanshg03/Tiffin_Fusion",
+          "owner": "divyanshg03",
+          "counts": {
+            "commits": 12,
+            "issues": 0,
+            "pullRequests": 0,
+            "pullRequestReviews": 0,
+            "repositoryCreations": 0
+          }
+        },
+        {
+          "repositoryId": "R_kgDOP_rqbg",
+          "nameWithOwner": "Drkadam07/EMERGE",
+          "owner": "Drkadam07",
+          "counts": {
+            "commits": 16,
+            "issues": 0,
+            "pullRequests": 0,
+            "pullRequestReviews": 0,
+            "repositoryCreations": 0
+          }
+        },
+        {
+          "repositoryId": "R_kgDOMlGGww",
+          "nameWithOwner": "Mahak008/HungryBox",
+          "owner": "Mahak008",
+          "counts": {
+            "commits": 13,
+            "issues": 4,
+            "pullRequests": 4,
+            "pullRequestReviews": 0,
+            "repositoryCreations": 0
+          }
+        },
+        {
+          "repositoryId": "R_kgDOM1WHMQ",
+          "nameWithOwner": "saismrutiranjan18/Tiffin_Fusion",
+          "owner": "saismrutiranjan18",
+          "counts": {
+            "commits": 12,
+            "issues": 1,
+            "pullRequests": 1,
+            "pullRequestReviews": 0,
+            "repositoryCreations": 0
+          }
+        },
+        {
+          "repositoryId": "R_kgDOO8fkkw",
+          "nameWithOwner": "ThePhoenix08/archeo",
+          "owner": "ThePhoenix08",
+          "counts": {
+            "commits": 90,
+            "issues": 0,
+            "pullRequests": 0,
+            "pullRequestReviews": 0,
+            "repositoryCreations": 1
+          }
+        },
+        {
+          "repositoryId": "R_kgDOP-tBDw",
+          "nameWithOwner": "ThePhoenix08/audio-cnn",
+          "owner": "ThePhoenix08",
+          "counts": {
+            "commits": 1,
+            "issues": 0,
+            "pullRequests": 0,
+            "pullRequestReviews": 0,
+            "repositoryCreations": 1
+          }
+        },
+        {
+          "repositoryId": "R_kgDONsww2Q",
+          "nameWithOwner": "ThePhoenix08/Classroom.io",
+          "owner": "ThePhoenix08",
+          "counts": {
+            "commits": 0,
+            "issues": 0,
+            "pullRequests": 0,
+            "pullRequestReviews": 0,
+            "repositoryCreations": 1
+          }
+        },
+        {
+          "repositoryId": "R_kgDONnex_Q",
+          "nameWithOwner": "ThePhoenix08/HungryBox",
+          "owner": "ThePhoenix08",
+          "counts": {
+            "commits": 0,
+            "issues": 0,
+            "pullRequests": 0,
+            "pullRequestReviews": 0,
+            "repositoryCreations": 1
+          }
+        },
+        {
+          "repositoryId": "R_kgDOMUh61w",
+          "nameWithOwner": "ThePhoenix08/mern-blog",
+          "owner": "ThePhoenix08",
+          "counts": {
+            "commits": 1,
+            "issues": 0,
+            "pullRequests": 0,
+            "pullRequestReviews": 0,
+            "repositoryCreations": 0
+          }
+        },
+        {
+          "repositoryId": "R_kgDOQHs_HQ",
+          "nameWithOwner": "ThePhoenix08/musimo",
+          "owner": "ThePhoenix08",
+          "counts": {
+            "commits": 21,
+            "issues": 0,
+            "pullRequests": 0,
+            "pullRequestReviews": 0,
+            "repositoryCreations": 1
+          }
+        },
+        {
+          "repositoryId": "R_kgDONUIhvg",
+          "nameWithOwner": "ThePhoenix08/open-graph-visualizer",
+          "owner": "ThePhoenix08",
+          "counts": {
+            "commits": 6,
+            "issues": 0,
+            "pullRequests": 0,
+            "pullRequestReviews": 0,
+            "repositoryCreations": 0
+          }
+        },
+        {
+          "repositoryId": "R_kgDON2gERQ",
+          "nameWithOwner": "ThePhoenix08/pathify",
+          "owner": "ThePhoenix08",
+          "counts": {
+            "commits": 1,
+            "issues": 0,
+            "pullRequests": 0,
+            "pullRequestReviews": 0,
+            "repositoryCreations": 1
+          }
+        },
+        {
+          "repositoryId": "R_kgDOMTnZeg",
+          "nameWithOwner": "ThePhoenix08/portfolio-v2",
+          "owner": "ThePhoenix08",
+          "counts": {
+            "commits": 2,
+            "issues": 0,
+            "pullRequests": 0,
+            "pullRequestReviews": 0,
+            "repositoryCreations": 0
+          }
+        },
+        {
+          "repositoryId": "R_kgDONnf61w",
+          "nameWithOwner": "ThePhoenix08/react-blog",
+          "owner": "ThePhoenix08",
+          "counts": {
+            "commits": 0,
+            "issues": 0,
+            "pullRequests": 0,
+            "pullRequestReviews": 0,
+            "repositoryCreations": 1
+          }
+        },
+        {
+          "repositoryId": "R_kgDONnfmzQ",
+          "nameWithOwner": "ThePhoenix08/ShopSphere",
+          "owner": "ThePhoenix08",
+          "counts": {
+            "commits": 0,
+            "issues": 0,
+            "pullRequests": 0,
+            "pullRequestReviews": 0,
+            "repositoryCreations": 1
+          }
+        },
+        {
+          "repositoryId": "R_kgDONowetg",
+          "nameWithOwner": "ThePhoenix08/SocioSell",
+          "owner": "ThePhoenix08",
+          "counts": {
+            "commits": 0,
+            "issues": 0,
+            "pullRequests": 0,
+            "pullRequestReviews": 0,
+            "repositoryCreations": 1
+          }
+        },
+        {
+          "repositoryId": "R_kgDOL0YAWA",
+          "nameWithOwner": "ThePhoenix08/ThePhoenix08",
+          "owner": "ThePhoenix08",
+          "counts": {
+            "commits": 45,
+            "issues": 0,
+            "pullRequests": 0,
+            "pullRequestReviews": 0,
+            "repositoryCreations": 0
+          }
+        },
+        {
+          "repositoryId": "R_kgDONohWkA",
+          "nameWithOwner": "ThePhoenix08/Tiffin_Fusion",
+          "owner": "ThePhoenix08",
+          "counts": {
+            "commits": 0,
+            "issues": 0,
+            "pullRequests": 0,
+            "pullRequestReviews": 0,
+            "repositoryCreations": 1
+          }
+        }
+      ],
+      "repositories": [
+        {
+          "id": "R_kgDONr0HNw",
+          "name": "Classroom.io",
+          "nameWithOwner": "712Kunal/Classroom.io",
+          "owner": "712Kunal",
+          "ownerType": "User",
+          "description": null,
+          "url": "https://github.com/712Kunal/Classroom.io",
+          "isArchived": false,
+          "isFork": false,
+          "isPrivate": false,
+          "visibility": "PUBLIC",
+          "viewerPermission": "WRITE",
+          "createdAt": "2025-01-17T19:05:24Z",
+          "updatedAt": "2025-02-12T13:55:20Z",
+          "pushedAt": "2025-02-12T13:55:16Z",
+          "defaultBranchOid": "c3c753bb7429b56aa7e471f2472dcc81dc4102f2",
+          "stars": 1,
+          "forks": 4,
+          "primaryLanguage": "JavaScript",
+          "topics": [],
+          "languages": [
+            {
+              "languageName": "JavaScript",
+              "color": "#f1e05a",
+              "value": 404908,
+              "percentage": 82.96
+            },
+            {
+              "languageName": "Java",
+              "color": "#b07219",
+              "value": 64669,
+              "percentage": 13.25
+            },
+            {
+              "languageName": "CSS",
+              "color": "#663399",
+              "value": 17834,
+              "percentage": 3.65
+            },
+            {
+              "languageName": "HTML",
+              "color": "#e34c26",
+              "value": 368,
+              "percentage": 0.08
+            },
+            {
+              "languageName": "Dockerfile",
+              "color": "#384d54",
+              "value": 311,
+              "percentage": 0.06
+            }
+          ],
+          "codeByteTotal": 488090,
+          "sources": [
+            "profile-contribution"
+          ],
+          "contributionCounts": {
+            "commits": 0,
+            "issues": 0,
+            "pullRequests": 0,
+            "pullRequestReviews": 0,
+            "repositoryCreations": 0
+          },
+          "metadataFetchedAt": 1784380145274
+        },
+        {
+          "id": "R_kgDOQWH5SA",
+          "name": "Pathify",
+          "nameWithOwner": "712Kunal/Pathify",
+          "owner": "712Kunal",
+          "ownerType": "User",
+          "description": null,
+          "url": "https://github.com/712Kunal/Pathify",
+          "isArchived": false,
+          "isFork": false,
+          "isPrivate": false,
+          "visibility": "PUBLIC",
+          "viewerPermission": "WRITE",
+          "createdAt": "2025-11-15T08:18:57Z",
+          "updatedAt": "2026-01-03T08:35:51Z",
+          "pushedAt": "2026-01-03T08:35:47Z",
+          "defaultBranchOid": "eac547dce9efd2203f0d17e57aa94251126feffe",
+          "stars": 0,
+          "forks": 0,
+          "primaryLanguage": "JavaScript",
+          "topics": [],
+          "languages": [
+            {
+              "languageName": "JavaScript",
+              "color": "#f1e05a",
+              "value": 27485,
+              "percentage": 100
+            }
+          ],
+          "codeByteTotal": 27485,
+          "sources": [
+            "profile-contribution"
+          ],
+          "contributionCounts": {
+            "commits": 0,
+            "issues": 0,
+            "pullRequests": 0,
+            "pullRequestReviews": 0,
+            "repositoryCreations": 0
+          },
+          "metadataFetchedAt": 1784380145274
+        },
+        {
+          "id": "R_kgDONJgs7A",
+          "name": "ShopSphere",
+          "nameWithOwner": "Anwishta/ShopSphere",
+          "owner": "Anwishta",
+          "ownerType": "User",
+          "description": "Built with cutting-edge technology using the powerful MERN stack (MongoDB, Express.js, React.js, Node.js),this store is designed to provide users with a seamless shopping experience.",
+          "url": "https://github.com/Anwishta/ShopSphere",
+          "isArchived": false,
+          "isFork": false,
+          "isPrivate": false,
+          "visibility": "PUBLIC",
+          "viewerPermission": "READ",
+          "createdAt": "2024-11-02T17:44:22Z",
+          "updatedAt": "2026-03-02T16:09:11Z",
+          "pushedAt": "2025-12-27T06:03:08Z",
+          "defaultBranchOid": "454b0233deba38504bb525fda392dd4ca6ae4f16",
+          "stars": 15,
+          "forks": 41,
+          "primaryLanguage": "JavaScript",
+          "topics": [],
+          "languages": [
+            {
+              "languageName": "JavaScript",
+              "color": "#f1e05a",
+              "value": 457385,
+              "percentage": 99.15
+            },
+            {
+              "languageName": "CSS",
+              "color": "#663399",
+              "value": 3418,
+              "percentage": 0.74
+            },
+            {
+              "languageName": "HTML",
+              "color": "#e34c26",
+              "value": 525,
+              "percentage": 0.11
+            }
+          ],
+          "codeByteTotal": 461328,
+          "sources": [
+            "profile-contribution"
+          ],
+          "contributionCounts": {
+            "commits": 0,
+            "issues": 0,
+            "pullRequests": 0,
+            "pullRequestReviews": 0,
+            "repositoryCreations": 0
+          },
+          "metadataFetchedAt": 1784380145274
+        },
+        {
+          "id": "R_kgDOMxMs4A",
+          "name": "DevDisplay",
+          "nameWithOwner": "codeaashu/DevDisplay",
+          "owner": "codeaashu",
+          "ownerType": "User",
+          "description": "The First Global Platform for Developers to Fulfill All Their Tech Needs.",
+          "url": "https://github.com/codeaashu/DevDisplay",
+          "isArchived": false,
+          "isFork": false,
+          "isPrivate": false,
+          "visibility": "PUBLIC",
+          "viewerPermission": "READ",
+          "createdAt": "2024-09-13T12:12:42Z",
+          "updatedAt": "2026-07-15T08:42:35Z",
+          "pushedAt": "2026-05-08T06:31:37Z",
+          "defaultBranchOid": "e1ce099f73afbcd99c2d05821ddad17dd51dc17d",
+          "stars": 333,
+          "forks": 469,
+          "primaryLanguage": "JavaScript",
+          "topics": [
+            "dev-display",
+            "devdisplay",
+            "developer",
+            "developer-platform",
+            "open-source",
+            "opensource",
+            "developer-community",
+            "github",
+            "trending",
+            "trending-repositories",
+            "contributions-welcome",
+            "developer-tools",
+            "gsoc-2025",
+            "paradise-for-developers",
+            "gssoc25",
+            "hacktoberfest",
+            "hacktoberfest-accepted",
+            "hacktoberfest2025"
+          ],
+          "languages": [
+            {
+              "languageName": "JavaScript",
+              "color": "#f1e05a",
+              "value": 1371178,
+              "percentage": 93.86
+            },
+            {
+              "languageName": "HTML",
+              "color": "#e34c26",
+              "value": 70373,
+              "percentage": 4.82
+            },
+            {
+              "languageName": "CSS",
+              "color": "#663399",
+              "value": 19199,
+              "percentage": 1.31
+            },
+            {
+              "languageName": "Shell",
+              "color": "#89e051",
+              "value": 81,
+              "percentage": 0.01
+            }
+          ],
+          "codeByteTotal": 1460831,
+          "sources": [
+            "profile-contribution"
+          ],
+          "contributionCounts": {
+            "commits": 0,
+            "issues": 0,
+            "pullRequests": 0,
+            "pullRequestReviews": 0,
+            "repositoryCreations": 0
+          },
+          "metadataFetchedAt": 1784380145274
+        },
+        {
+          "id": "R_kgDONiKnXw",
+          "name": "Tiffin_Fusion",
+          "nameWithOwner": "divyanshg03/Tiffin_Fusion",
+          "owner": "divyanshg03",
+          "ownerType": "User",
+          "description": "Tiffin Fusion delivers fresh, nutritious meals blending traditional Indian flavors with modern twists. Perfect for students and professionals, we offer customizable, budget-friendly meal plans. Enjoy diverse, home-cooked dishes with the convenience of doorstep delivery, making every meal exciting and hassle-free.",
+          "url": "https://github.com/divyanshg03/Tiffin_Fusion",
+          "isArchived": false,
+          "isFork": false,
+          "isPrivate": false,
+          "visibility": "PUBLIC",
+          "viewerPermission": "READ",
+          "createdAt": "2024-12-25T14:48:47Z",
+          "updatedAt": "2025-08-30T10:42:42Z",
+          "pushedAt": "2025-04-08T15:06:40Z",
+          "defaultBranchOid": "f8311733cb5fcde8eddd58842c90784f30fb170b",
+          "stars": 2,
+          "forks": 50,
+          "primaryLanguage": "HTML",
+          "topics": [],
+          "languages": [
+            {
+              "languageName": "HTML",
+              "color": "#e34c26",
+              "value": 536318,
+              "percentage": 73.13
+            },
+            {
+              "languageName": "CSS",
+              "color": "#663399",
+              "value": 133138,
+              "percentage": 18.15
+            },
+            {
+              "languageName": "JavaScript",
+              "color": "#f1e05a",
+              "value": 63589,
+              "percentage": 8.67
+            },
+            {
+              "languageName": "Dockerfile",
+              "color": "#384d54",
+              "value": 355,
+              "percentage": 0.05
+            }
+          ],
+          "codeByteTotal": 733400,
+          "sources": [
+            "profile-contribution"
+          ],
+          "contributionCounts": {
+            "commits": 0,
+            "issues": 0,
+            "pullRequests": 0,
+            "pullRequestReviews": 0,
+            "repositoryCreations": 0
+          },
+          "metadataFetchedAt": 1784380145274
+        },
+        {
+          "id": "R_kgDOP_rqbg",
+          "name": "EMERGE",
+          "nameWithOwner": "Drkadam07/EMERGE",
+          "owner": "Drkadam07",
+          "ownerType": "User",
+          "description": null,
+          "url": "https://github.com/Drkadam07/EMERGE",
+          "isArchived": false,
+          "isFork": false,
+          "isPrivate": false,
+          "visibility": "PUBLIC",
+          "viewerPermission": "WRITE",
+          "createdAt": "2025-10-10T04:29:38Z",
+          "updatedAt": "2025-10-10T09:40:45Z",
+          "pushedAt": "2025-10-10T09:40:41Z",
+          "defaultBranchOid": "31ca66b793b8ed09e0581306d7b2053c3ee9345e",
+          "stars": 0,
+          "forks": 0,
+          "primaryLanguage": "JavaScript",
+          "topics": [],
+          "languages": [
+            {
+              "languageName": "JavaScript",
+              "color": "#f1e05a",
+              "value": 81666,
+              "percentage": 68.82
+            },
+            {
+              "languageName": "Python",
+              "color": "#3572A5",
+              "value": 30493,
+              "percentage": 25.7
+            },
+            {
+              "languageName": "CSS",
+              "color": "#663399",
+              "value": 6147,
+              "percentage": 5.18
+            },
+            {
+              "languageName": "HTML",
+              "color": "#e34c26",
+              "value": 355,
+              "percentage": 0.3
+            }
+          ],
+          "codeByteTotal": 118661,
+          "sources": [
+            "profile-contribution"
+          ],
+          "contributionCounts": {
+            "commits": 0,
+            "issues": 0,
+            "pullRequests": 0,
+            "pullRequestReviews": 0,
+            "repositoryCreations": 0
+          },
+          "metadataFetchedAt": 1784380145274
+        },
+        {
+          "id": "R_kgDOMlGGww",
+          "name": "HungryBox",
+          "nameWithOwner": "Mahak008/HungryBox",
+          "owner": "Mahak008",
+          "ownerType": "User",
+          "description": "HungryBox is a Tiffin Delivery Service Platform which provides a comprehensive solution for managing tiffin orders, user accounts, and administrative tasks.",
+          "url": "https://github.com/Mahak008/HungryBox",
+          "isArchived": false,
+          "isFork": false,
+          "isPrivate": false,
+          "visibility": "PUBLIC",
+          "viewerPermission": "READ",
+          "createdAt": "2024-08-18T17:32:15Z",
+          "updatedAt": "2026-04-18T07:42:50Z",
+          "pushedAt": "2025-03-02T16:03:13Z",
+          "defaultBranchOid": "1f11ae4fdcdab8265cd39a723ee7e4665063fa64",
+          "stars": 17,
+          "forks": 31,
+          "primaryLanguage": "JavaScript",
+          "topics": [
+            "cors",
+            "css",
+            "dotenv",
+            "expressjs",
+            "html",
+            "javascript",
+            "mongodb",
+            "nodejs",
+            "reactjs",
+            "stripe",
+            "socialwinterofcode"
+          ],
+          "languages": [
+            {
+              "languageName": "JavaScript",
+              "color": "#f1e05a",
+              "value": 121266,
+              "percentage": 53.26
+            },
+            {
+              "languageName": "CSS",
+              "color": "#663399",
+              "value": 68043,
+              "percentage": 29.88
+            },
+            {
+              "languageName": "TypeScript",
+              "color": "#3178c6",
+              "value": 36648,
+              "percentage": 16.1
+            },
+            {
+              "languageName": "HTML",
+              "color": "#e34c26",
+              "value": 1729,
+              "percentage": 0.76
+            }
+          ],
+          "codeByteTotal": 227686,
+          "sources": [
+            "profile-contribution"
+          ],
+          "contributionCounts": {
+            "commits": 0,
+            "issues": 0,
+            "pullRequests": 0,
+            "pullRequestReviews": 0,
+            "repositoryCreations": 0
+          },
+          "metadataFetchedAt": 1784380145274
+        },
+        {
+          "id": "R_kgDOM1WHMQ",
+          "name": "Tiffin_Fusion",
+          "nameWithOwner": "saismrutiranjan18/Tiffin_Fusion",
+          "owner": "saismrutiranjan18",
+          "ownerType": "User",
+          "description": "Tiffin Fusion delivers fresh, nutritious meals blending traditional Indian flavors with modern twists. Perfect for students and professionals, we offer customizable, budget-friendly meal plans. Enjoy diverse, home-cooked dishes with the convenience of doorstep delivery, making every meal exciting and hassle-free.",
+          "url": "https://github.com/saismrutiranjan18/Tiffin_Fusion",
+          "isArchived": false,
+          "isFork": false,
+          "isPrivate": false,
+          "visibility": "PUBLIC",
+          "viewerPermission": "READ",
+          "createdAt": "2024-09-22T11:47:53Z",
+          "updatedAt": "2026-04-21T10:08:32Z",
+          "pushedAt": "2026-04-21T10:08:27Z",
+          "defaultBranchOid": "4bd426b568e0e4891632b9233d93d2653cf3249b",
+          "stars": 2,
+          "forks": 7,
+          "primaryLanguage": "HTML",
+          "topics": [],
+          "languages": [
+            {
+              "languageName": "HTML",
+              "color": "#e34c26",
+              "value": 698469,
+              "percentage": 73.95
+            },
+            {
+              "languageName": "CSS",
+              "color": "#663399",
+              "value": 181821,
+              "percentage": 19.25
+            },
+            {
+              "languageName": "JavaScript",
+              "color": "#f1e05a",
+              "value": 63812,
+              "percentage": 6.76
+            },
+            {
+              "languageName": "Dockerfile",
+              "color": "#384d54",
+              "value": 355,
+              "percentage": 0.04
+            }
+          ],
+          "codeByteTotal": 944457,
+          "sources": [
+            "profile-contribution"
+          ],
+          "contributionCounts": {
+            "commits": 0,
+            "issues": 0,
+            "pullRequests": 0,
+            "pullRequestReviews": 0,
+            "repositoryCreations": 0
+          },
+          "metadataFetchedAt": 1784380145274
+        },
+        {
+          "id": "R_kgDOO8fkkw",
+          "name": "archeo",
+          "nameWithOwner": "ThePhoenix08/archeo",
+          "owner": "ThePhoenix08",
+          "ownerType": "User",
+          "description": null,
+          "url": "https://github.com/ThePhoenix08/archeo",
+          "isArchived": false,
+          "isFork": false,
+          "isPrivate": false,
+          "visibility": "PUBLIC",
+          "viewerPermission": "ADMIN",
+          "createdAt": "2025-06-16T12:00:05Z",
+          "updatedAt": "2025-10-10T06:26:38Z",
+          "pushedAt": "2025-10-10T06:26:34Z",
+          "defaultBranchOid": "a9c46a9a82060f34681e8fc531dd14151d8c37f2",
+          "stars": 1,
+          "forks": 3,
+          "primaryLanguage": "JavaScript",
+          "topics": [],
+          "languages": [
+            {
+              "languageName": "JavaScript",
+              "color": "#f1e05a",
+              "value": 331842,
+              "percentage": 67.89
+            },
+            {
+              "languageName": "Java",
+              "color": "#b07219",
+              "value": 146797,
+              "percentage": 30.03
+            },
+            {
+              "languageName": "CSS",
+              "color": "#663399",
+              "value": 7671,
+              "percentage": 1.57
+            },
+            {
+              "languageName": "Shell",
+              "color": "#89e051",
+              "value": 2141,
+              "percentage": 0.44
+            },
+            {
+              "languageName": "HTML",
+              "color": "#e34c26",
+              "value": 337,
+              "percentage": 0.07
+            }
+          ],
+          "codeByteTotal": 488788,
+          "sources": [
+            "profile-contribution"
+          ],
+          "contributionCounts": {
+            "commits": 0,
+            "issues": 0,
+            "pullRequests": 0,
+            "pullRequestReviews": 0,
+            "repositoryCreations": 0
+          },
+          "metadataFetchedAt": 1784380145274
+        },
+        {
+          "id": "R_kgDOP-tBDw",
+          "name": "audio-cnn",
+          "nameWithOwner": "ThePhoenix08/audio-cnn",
+          "owner": "ThePhoenix08",
+          "ownerType": "User",
+          "description": null,
+          "url": "https://github.com/ThePhoenix08/audio-cnn",
+          "isArchived": false,
+          "isFork": false,
+          "isPrivate": false,
+          "visibility": "PUBLIC",
+          "viewerPermission": "ADMIN",
+          "createdAt": "2025-10-08T16:34:51Z",
+          "updatedAt": "2025-10-08T16:50:22Z",
+          "pushedAt": "2025-10-08T16:50:18Z",
+          "defaultBranchOid": "c57bff241da416f7344d75b25dfd596cebd4af63",
+          "stars": 0,
+          "forks": 0,
+          "primaryLanguage": "Jupyter Notebook",
+          "topics": [],
+          "languages": [
+            {
+              "languageName": "Jupyter Notebook",
+              "color": "#DA5B0B",
+              "value": 36807,
+              "percentage": 55.2
+            },
+            {
+              "languageName": "Python",
+              "color": "#3572A5",
+              "value": 29867,
+              "percentage": 44.8
+            }
+          ],
+          "codeByteTotal": 66674,
+          "sources": [
+            "profile-contribution"
+          ],
+          "contributionCounts": {
+            "commits": 0,
+            "issues": 0,
+            "pullRequests": 0,
+            "pullRequestReviews": 0,
+            "repositoryCreations": 0
+          },
+          "metadataFetchedAt": 1784380145274
+        },
+        {
+          "id": "R_kgDONsww2Q",
+          "name": "Classroom.io",
+          "nameWithOwner": "ThePhoenix08/Classroom.io",
+          "owner": "ThePhoenix08",
+          "ownerType": "User",
+          "description": null,
+          "url": "https://github.com/ThePhoenix08/Classroom.io",
+          "isArchived": false,
+          "isFork": true,
+          "isPrivate": false,
+          "visibility": "PUBLIC",
+          "viewerPermission": "ADMIN",
+          "createdAt": "2025-01-20T08:31:14Z",
+          "updatedAt": "2025-02-09T06:05:50Z",
+          "pushedAt": "2025-02-09T06:05:47Z",
+          "defaultBranchOid": "090d14baa89af14989fce8fb8b6ed96caac5175c",
+          "stars": 0,
+          "forks": 0,
+          "primaryLanguage": "JavaScript",
+          "topics": [],
+          "languages": [
+            {
+              "languageName": "JavaScript",
+              "color": "#f1e05a",
+              "value": 404617,
+              "percentage": 82.92
+            },
+            {
+              "languageName": "Java",
+              "color": "#b07219",
+              "value": 64853,
+              "percentage": 13.29
+            },
+            {
+              "languageName": "CSS",
+              "color": "#663399",
+              "value": 17834,
+              "percentage": 3.65
+            },
+            {
+              "languageName": "HTML",
+              "color": "#e34c26",
+              "value": 368,
+              "percentage": 0.08
+            },
+            {
+              "languageName": "Dockerfile",
+              "color": "#384d54",
+              "value": 311,
+              "percentage": 0.06
+            }
+          ],
+          "codeByteTotal": 487983,
+          "sources": [
+            "profile-contribution"
+          ],
+          "contributionCounts": {
+            "commits": 0,
+            "issues": 0,
+            "pullRequests": 0,
+            "pullRequestReviews": 0,
+            "repositoryCreations": 0
+          },
+          "metadataFetchedAt": 1784380145274
+        },
+        {
+          "id": "R_kgDONnex_Q",
+          "name": "HungryBox",
+          "nameWithOwner": "ThePhoenix08/HungryBox",
+          "owner": "ThePhoenix08",
+          "ownerType": "User",
+          "description": "HungryBox is a Tiffin Delivery Service Platform which provides a comprehensive solution for managing tiffin orders, user accounts, and administrative tasks.",
+          "url": "https://github.com/ThePhoenix08/HungryBox",
+          "isArchived": false,
+          "isFork": true,
+          "isPrivate": false,
+          "visibility": "PUBLIC",
+          "viewerPermission": "ADMIN",
+          "createdAt": "2025-01-08T12:02:10Z",
+          "updatedAt": "2025-02-25T04:50:09Z",
+          "pushedAt": "2025-03-03T05:18:35Z",
+          "defaultBranchOid": "15e8a78e03020969e9178de69715e91159cb8d83",
+          "stars": 0,
+          "forks": 0,
+          "primaryLanguage": "JavaScript",
+          "topics": [],
+          "languages": [
+            {
+              "languageName": "JavaScript",
+              "color": "#f1e05a",
+              "value": 121144,
+              "percentage": 53.71
+            },
+            {
+              "languageName": "CSS",
+              "color": "#663399",
+              "value": 66252,
+              "percentage": 29.38
+            },
+            {
+              "languageName": "TypeScript",
+              "color": "#3178c6",
+              "value": 36407,
+              "percentage": 16.14
+            },
+            {
+              "languageName": "HTML",
+              "color": "#e34c26",
+              "value": 1729,
+              "percentage": 0.77
+            }
+          ],
+          "codeByteTotal": 225532,
+          "sources": [
+            "profile-contribution"
+          ],
+          "contributionCounts": {
+            "commits": 0,
+            "issues": 0,
+            "pullRequests": 0,
+            "pullRequestReviews": 0,
+            "repositoryCreations": 0
+          },
+          "metadataFetchedAt": 1784380145274
+        },
+        {
+          "id": "R_kgDOMUh61w",
+          "name": "mern-blog",
+          "nameWithOwner": "ThePhoenix08/mern-blog",
+          "owner": "ThePhoenix08",
+          "ownerType": "User",
+          "description": null,
+          "url": "https://github.com/ThePhoenix08/mern-blog",
+          "isArchived": false,
+          "isFork": false,
+          "isPrivate": false,
+          "visibility": "PUBLIC",
+          "viewerPermission": "ADMIN",
+          "createdAt": "2024-07-10T13:19:45Z",
+          "updatedAt": "2025-01-23T13:30:47Z",
+          "pushedAt": "2025-01-23T13:30:43Z",
+          "defaultBranchOid": "cf13de4294411448774922931cab38fa039a059f",
+          "stars": 0,
+          "forks": 0,
+          "primaryLanguage": "TypeScript",
+          "topics": [],
+          "languages": [
+            {
+              "languageName": "TypeScript",
+              "color": "#3178c6",
+              "value": 280253,
+              "percentage": 97.71
+            },
+            {
+              "languageName": "JavaScript",
+              "color": "#f1e05a",
+              "value": 3517,
+              "percentage": 1.23
+            },
+            {
+              "languageName": "CSS",
+              "color": "#663399",
+              "value": 2684,
+              "percentage": 0.94
+            },
+            {
+              "languageName": "HTML",
+              "color": "#e34c26",
+              "value": 365,
+              "percentage": 0.13
+            }
+          ],
+          "codeByteTotal": 286819,
+          "sources": [
+            "profile-contribution"
+          ],
+          "contributionCounts": {
+            "commits": 0,
+            "issues": 0,
+            "pullRequests": 0,
+            "pullRequestReviews": 0,
+            "repositoryCreations": 0
+          },
+          "metadataFetchedAt": 1784380145274
+        },
+        {
+          "id": "R_kgDOQHs_HQ",
+          "name": "musimo",
+          "nameWithOwner": "ThePhoenix08/musimo",
+          "owner": "ThePhoenix08",
+          "ownerType": "User",
+          "description": null,
+          "url": "https://github.com/ThePhoenix08/musimo",
+          "isArchived": false,
+          "isFork": false,
+          "isPrivate": false,
+          "visibility": "PUBLIC",
+          "viewerPermission": "ADMIN",
+          "createdAt": "2025-10-23T10:33:35Z",
+          "updatedAt": "2026-06-28T10:37:38Z",
+          "pushedAt": "2026-06-28T10:37:35Z",
+          "defaultBranchOid": "8f26478352befcfcd5e64dfeef0e85651546a350",
+          "stars": 0,
+          "forks": 2,
+          "primaryLanguage": "JavaScript",
+          "topics": [],
+          "languages": [
+            {
+              "languageName": "JavaScript",
+              "color": "#f1e05a",
+              "value": 619963,
+              "percentage": 61.59
+            },
+            {
+              "languageName": "Python",
+              "color": "#3572A5",
+              "value": 370152,
+              "percentage": 36.77
+            },
+            {
+              "languageName": "CSS",
+              "color": "#663399",
+              "value": 9453,
+              "percentage": 0.94
+            },
+            {
+              "languageName": "PLpgSQL",
+              "color": "#336790",
+              "value": 5292,
+              "percentage": 0.53
+            },
+            {
+              "languageName": "Mako",
+              "color": "#7e858d",
+              "value": 704,
+              "percentage": 0.07
+            },
+            {
+              "languageName": "Dockerfile",
+              "color": "#384d54",
+              "value": 652,
+              "percentage": 0.06
+            },
+            {
+              "languageName": "HTML",
+              "color": "#e34c26",
+              "value": 355,
+              "percentage": 0.04
+            }
+          ],
+          "codeByteTotal": 1006571,
+          "sources": [
+            "profile-contribution"
+          ],
+          "contributionCounts": {
+            "commits": 0,
+            "issues": 0,
+            "pullRequests": 0,
+            "pullRequestReviews": 0,
+            "repositoryCreations": 0
+          },
+          "metadataFetchedAt": 1784380145274
+        },
+        {
+          "id": "R_kgDONUIhvg",
+          "name": "open-graph-visualizer",
+          "nameWithOwner": "ThePhoenix08/open-graph-visualizer",
+          "owner": "ThePhoenix08",
+          "ownerType": "User",
+          "description": null,
+          "url": "https://github.com/ThePhoenix08/open-graph-visualizer",
+          "isArchived": false,
+          "isFork": false,
+          "isPrivate": false,
+          "visibility": "PUBLIC",
+          "viewerPermission": "ADMIN",
+          "createdAt": "2024-11-24T17:09:06Z",
+          "updatedAt": "2025-06-08T12:20:38Z",
+          "pushedAt": "2025-06-08T12:20:34Z",
+          "defaultBranchOid": "68de57c48899323ab7820dd9115fa317377a0858",
+          "stars": 0,
+          "forks": 0,
+          "primaryLanguage": "TypeScript",
+          "topics": [],
+          "languages": [
+            {
+              "languageName": "TypeScript",
+              "color": "#3178c6",
+              "value": 69043,
+              "percentage": 91.44
+            },
+            {
+              "languageName": "JavaScript",
+              "color": "#f1e05a",
+              "value": 3846,
+              "percentage": 5.09
+            },
+            {
+              "languageName": "CSS",
+              "color": "#663399",
+              "value": 2252,
+              "percentage": 2.98
+            },
+            {
+              "languageName": "HTML",
+              "color": "#e34c26",
+              "value": 366,
+              "percentage": 0.48
+            }
+          ],
+          "codeByteTotal": 75507,
+          "sources": [
+            "profile-contribution"
+          ],
+          "contributionCounts": {
+            "commits": 0,
+            "issues": 0,
+            "pullRequests": 0,
+            "pullRequestReviews": 0,
+            "repositoryCreations": 0
+          },
+          "metadataFetchedAt": 1784380145274
+        },
+        {
+          "id": "R_kgDON2gERQ",
+          "name": "pathify",
+          "nameWithOwner": "ThePhoenix08/pathify",
+          "owner": "ThePhoenix08",
+          "ownerType": "User",
+          "description": null,
+          "url": "https://github.com/ThePhoenix08/pathify",
+          "isArchived": false,
+          "isFork": false,
+          "isPrivate": false,
+          "visibility": "PUBLIC",
+          "viewerPermission": "ADMIN",
+          "createdAt": "2025-02-08T20:50:42Z",
+          "updatedAt": "2025-02-08T20:51:31Z",
+          "pushedAt": "2025-02-08T20:51:16Z",
+          "defaultBranchOid": "59bc5c989e30d0984bbd7cb579b553abb061172c",
+          "stars": 0,
+          "forks": 1,
+          "primaryLanguage": "JavaScript",
+          "topics": [],
+          "languages": [
+            {
+              "languageName": "JavaScript",
+              "color": "#f1e05a",
+              "value": 401893,
+              "percentage": 82.97
+            },
+            {
+              "languageName": "Java",
+              "color": "#b07219",
+              "value": 64273,
+              "percentage": 13.27
+            },
+            {
+              "languageName": "CSS",
+              "color": "#663399",
+              "value": 17834,
+              "percentage": 3.68
+            },
+            {
+              "languageName": "HTML",
+              "color": "#e34c26",
+              "value": 368,
+              "percentage": 0.08
+            }
+          ],
+          "codeByteTotal": 484368,
+          "sources": [
+            "profile-contribution"
+          ],
+          "contributionCounts": {
+            "commits": 0,
+            "issues": 0,
+            "pullRequests": 0,
+            "pullRequestReviews": 0,
+            "repositoryCreations": 0
+          },
+          "metadataFetchedAt": 1784380145274
+        },
+        {
+          "id": "R_kgDOMTnZeg",
+          "name": "portfolio-v2",
+          "nameWithOwner": "ThePhoenix08/portfolio-v2",
+          "owner": "ThePhoenix08",
+          "ownerType": "User",
+          "description": null,
+          "url": "https://github.com/ThePhoenix08/portfolio-v2",
+          "isArchived": false,
+          "isFork": false,
+          "isPrivate": false,
+          "visibility": "PUBLIC",
+          "viewerPermission": "ADMIN",
+          "createdAt": "2024-07-08T17:09:08Z",
+          "updatedAt": "2025-03-03T05:06:09Z",
+          "pushedAt": "2025-03-03T05:06:05Z",
+          "defaultBranchOid": "9c76c91c3f22bf05fc6a5b42c983eff953432647",
+          "stars": 0,
+          "forks": 0,
+          "primaryLanguage": "TypeScript",
+          "topics": [],
+          "languages": [
+            {
+              "languageName": "TypeScript",
+              "color": "#3178c6",
+              "value": 39105,
+              "percentage": 92.34
+            },
+            {
+              "languageName": "HTML",
+              "color": "#e34c26",
+              "value": 2098,
+              "percentage": 4.95
+            },
+            {
+              "languageName": "JavaScript",
+              "color": "#f1e05a",
+              "value": 1089,
+              "percentage": 2.57
+            },
+            {
+              "languageName": "CSS",
+              "color": "#663399",
+              "value": 58,
+              "percentage": 0.14
+            }
+          ],
+          "codeByteTotal": 42350,
+          "sources": [
+            "profile-contribution"
+          ],
+          "contributionCounts": {
+            "commits": 0,
+            "issues": 0,
+            "pullRequests": 0,
+            "pullRequestReviews": 0,
+            "repositoryCreations": 0
+          },
+          "metadataFetchedAt": 1784380145274
+        },
+        {
+          "id": "R_kgDONnf61w",
+          "name": "react-blog",
+          "nameWithOwner": "ThePhoenix08/react-blog",
+          "owner": "ThePhoenix08",
+          "ownerType": "User",
+          "description": "A Blog Application build using MERN stack",
+          "url": "https://github.com/ThePhoenix08/react-blog",
+          "isArchived": false,
+          "isFork": true,
+          "isPrivate": false,
+          "visibility": "PUBLIC",
+          "viewerPermission": "ADMIN",
+          "createdAt": "2025-01-08T12:46:22Z",
+          "updatedAt": "2025-01-13T03:33:56Z",
+          "pushedAt": "2025-01-13T03:33:47Z",
+          "defaultBranchOid": "1a8266bb178522f122006af74fb923596616f74d",
+          "stars": 0,
+          "forks": 0,
+          "primaryLanguage": "JavaScript",
+          "topics": [],
+          "languages": [
+            {
+              "languageName": "JavaScript",
+              "color": "#f1e05a",
+              "value": 173010,
+              "percentage": 85.1
+            },
+            {
+              "languageName": "CSS",
+              "color": "#663399",
+              "value": 26395,
+              "percentage": 12.98
+            },
+            {
+              "languageName": "HTML",
+              "color": "#e34c26",
+              "value": 3895,
+              "percentage": 1.92
+            }
+          ],
+          "codeByteTotal": 203300,
+          "sources": [
+            "profile-contribution"
+          ],
+          "contributionCounts": {
+            "commits": 0,
+            "issues": 0,
+            "pullRequests": 0,
+            "pullRequestReviews": 0,
+            "repositoryCreations": 0
+          },
+          "metadataFetchedAt": 1784380145274
+        },
+        {
+          "id": "R_kgDONnfmzQ",
+          "name": "ShopSphere",
+          "nameWithOwner": "ThePhoenix08/ShopSphere",
+          "owner": "ThePhoenix08",
+          "ownerType": "User",
+          "description": "Built with cutting-edge technology using the powerful MERN stack (MongoDB, Express.js, React.js, Node.js),this store is designed to provide users with a seamless shopping experience.",
+          "url": "https://github.com/ThePhoenix08/ShopSphere",
+          "isArchived": false,
+          "isFork": true,
+          "isPrivate": false,
+          "visibility": "PUBLIC",
+          "viewerPermission": "ADMIN",
+          "createdAt": "2025-01-08T12:34:19Z",
+          "updatedAt": "2025-01-11T13:32:55Z",
+          "pushedAt": "2025-01-11T13:35:12Z",
+          "defaultBranchOid": "9ff72e61b49debd2d7948f1c09f19cb528e73da4",
+          "stars": 0,
+          "forks": 0,
+          "primaryLanguage": "JavaScript",
+          "topics": [],
+          "languages": [
+            {
+              "languageName": "JavaScript",
+              "color": "#f1e05a",
+              "value": 223518,
+              "percentage": 99.22
+            },
+            {
+              "languageName": "CSS",
+              "color": "#663399",
+              "value": 1332,
+              "percentage": 0.59
+            },
+            {
+              "languageName": "HTML",
+              "color": "#e34c26",
+              "value": 432,
+              "percentage": 0.19
+            }
+          ],
+          "codeByteTotal": 225282,
+          "sources": [
+            "profile-contribution"
+          ],
+          "contributionCounts": {
+            "commits": 0,
+            "issues": 0,
+            "pullRequests": 0,
+            "pullRequestReviews": 0,
+            "repositoryCreations": 0
+          },
+          "metadataFetchedAt": 1784380145274
+        },
+        {
+          "id": "R_kgDONowetg",
+          "name": "SocioSell",
+          "nameWithOwner": "ThePhoenix08/SocioSell",
+          "owner": "ThePhoenix08",
+          "ownerType": "User",
+          "description": "The Social Media to Product Listings Generator is an innovative open-source tool that bridges the gap between social media content and e-commerce platforms. By leveraging AI technology, it automatically converts social media product showcases into structured, detailed product listings suitable for e-commerce platforms like Amazon.",
+          "url": "https://github.com/ThePhoenix08/SocioSell",
+          "isArchived": false,
+          "isFork": true,
+          "isPrivate": false,
+          "visibility": "PUBLIC",
+          "viewerPermission": "ADMIN",
+          "createdAt": "2025-01-11T05:22:56Z",
+          "updatedAt": "2025-01-11T05:22:56Z",
+          "pushedAt": "2025-01-10T20:31:15Z",
+          "defaultBranchOid": "26805654969a72f63ac2a176be75f2a0a9bc4250",
+          "stars": 0,
+          "forks": 0,
+          "primaryLanguage": "Python",
+          "topics": [],
+          "languages": [
+            {
+              "languageName": "Python",
+              "color": "#3572A5",
+              "value": 104997,
+              "percentage": 53.6
+            },
+            {
+              "languageName": "HTML",
+              "color": "#e34c26",
+              "value": 89001,
+              "percentage": 45.43
+            },
+            {
+              "languageName": "CSS",
+              "color": "#663399",
+              "value": 1898,
+              "percentage": 0.97
+            }
+          ],
+          "codeByteTotal": 195896,
+          "sources": [
+            "profile-contribution"
+          ],
+          "contributionCounts": {
+            "commits": 0,
+            "issues": 0,
+            "pullRequests": 0,
+            "pullRequestReviews": 0,
+            "repositoryCreations": 0
+          },
+          "metadataFetchedAt": 1784380145274
+        },
+        {
+          "id": "R_kgDOL0YAWA",
+          "name": "ThePhoenix08",
+          "nameWithOwner": "ThePhoenix08/ThePhoenix08",
+          "owner": "ThePhoenix08",
+          "ownerType": "User",
+          "description": null,
+          "url": "https://github.com/ThePhoenix08/ThePhoenix08",
+          "isArchived": false,
+          "isFork": false,
+          "isPrivate": false,
+          "visibility": "PUBLIC",
+          "viewerPermission": "ADMIN",
+          "createdAt": "2024-04-28T13:26:34Z",
+          "updatedAt": "2026-07-17T19:13:08Z",
+          "pushedAt": "2026-07-18T05:36:22Z",
+          "defaultBranchOid": "041e3dbc6ca1272e5cc760539e3f3c7ad1e465a8",
+          "stars": 0,
+          "forks": 0,
+          "primaryLanguage": null,
+          "topics": [],
+          "languages": [],
+          "codeByteTotal": 0,
+          "sources": [
+            "profile-contribution"
+          ],
+          "contributionCounts": {
+            "commits": 0,
+            "issues": 0,
+            "pullRequests": 0,
+            "pullRequestReviews": 0,
+            "repositoryCreations": 0
+          },
+          "metadataFetchedAt": 1784380145274
+        },
+        {
+          "id": "R_kgDONohWkA",
+          "name": "Tiffin_Fusion",
+          "nameWithOwner": "ThePhoenix08/Tiffin_Fusion",
+          "owner": "ThePhoenix08",
+          "ownerType": "User",
+          "description": "Tiffin Fusion delivers fresh, nutritious meals blending traditional Indian flavors with modern twists. Perfect for students and professionals, we offer customizable, budget-friendly meal plans. Enjoy diverse, home-cooked dishes with the convenience of doorstep delivery, making every meal exciting and hassle-free.",
+          "url": "https://github.com/ThePhoenix08/Tiffin_Fusion",
+          "isArchived": false,
+          "isFork": true,
+          "isPrivate": false,
+          "visibility": "PUBLIC",
+          "viewerPermission": "ADMIN",
+          "createdAt": "2025-01-10T14:51:23Z",
+          "updatedAt": "2025-04-09T03:41:45Z",
+          "pushedAt": "2025-04-09T03:41:23Z",
+          "defaultBranchOid": "f8311733cb5fcde8eddd58842c90784f30fb170b",
+          "stars": 0,
+          "forks": 0,
+          "primaryLanguage": "HTML",
+          "topics": [],
+          "languages": [
+            {
+              "languageName": "HTML",
+              "color": "#e34c26",
+              "value": 536318,
+              "percentage": 73.13
+            },
+            {
+              "languageName": "CSS",
+              "color": "#663399",
+              "value": 133138,
+              "percentage": 18.15
+            },
+            {
+              "languageName": "JavaScript",
+              "color": "#f1e05a",
+              "value": 63589,
+              "percentage": 8.67
+            },
+            {
+              "languageName": "Dockerfile",
+              "color": "#384d54",
+              "value": 355,
+              "percentage": 0.05
+            }
+          ],
+          "codeByteTotal": 733400,
+          "sources": [
+            "profile-contribution"
+          ],
+          "contributionCounts": {
+            "commits": 0,
+            "issues": 0,
+            "pullRequests": 0,
+            "pullRequestReviews": 0,
+            "repositoryCreations": 0
+          },
+          "metadataFetchedAt": 1784380145274
+        }
+      ]
     },
     "2026": {
       "year": "2026",
       "from": "2026-01-01T00:00:00.000Z",
-      "to": "2026-07-17T13:22:45.986Z",
-      "fetchedAt": 1784294567593,
+      "to": "2026-07-18T13:09:04.462Z",
+      "fetchedAt": 1784380146254,
       "immutable": false,
       "data": {
-        "totalCommitContributions": 327,
+        "totalCommitContributions": 328,
         "restrictedContributionsCount": 0,
         "totalIssueContributions": 0,
         "totalRepositoryContributions": 2,
         "totalPullRequestContributions": 0,
         "totalPullRequestReviewContributions": 0,
         "contributionCalendar": {
-          "totalContributions": 329,
+          "totalContributions": 330,
           "weeks": [
             {
               "contributionDays": [
@@ -10993,21 +12567,500 @@
                   "date": "2026-07-16"
                 },
                 {
-                  "contributionCount": 0,
+                  "contributionCount": 1,
                   "date": "2026-07-17"
+                },
+                {
+                  "contributionCount": 0,
+                  "date": "2026-07-18"
                 }
               ]
             }
           ]
         }
       },
-      "repositoryContributions": [],
-      "repositories": []
+      "repositoryContributions": [
+        {
+          "repositoryId": "R_kgDOQWH5SA",
+          "nameWithOwner": "712Kunal/Pathify",
+          "owner": "712Kunal",
+          "counts": {
+            "commits": 2,
+            "issues": 0,
+            "pullRequests": 0,
+            "pullRequestReviews": 0,
+            "repositoryCreations": 0
+          }
+        },
+        {
+          "repositoryId": "R_kgDONQtm5w",
+          "nameWithOwner": "ThePhoenix08/ai-trip-planner-2",
+          "owner": "ThePhoenix08",
+          "counts": {
+            "commits": 2,
+            "issues": 0,
+            "pullRequests": 0,
+            "pullRequestReviews": 0,
+            "repositoryCreations": 0
+          }
+        },
+        {
+          "repositoryId": "R_kgDOMKTl0g",
+          "nameWithOwner": "ThePhoenix08/expense-tracker",
+          "owner": "ThePhoenix08",
+          "counts": {
+            "commits": 1,
+            "issues": 0,
+            "pullRequests": 0,
+            "pullRequestReviews": 0,
+            "repositoryCreations": 0
+          }
+        },
+        {
+          "repositoryId": "R_kgDOQHs_HQ",
+          "nameWithOwner": "ThePhoenix08/musimo",
+          "owner": "ThePhoenix08",
+          "counts": {
+            "commits": 98,
+            "issues": 0,
+            "pullRequests": 0,
+            "pullRequestReviews": 0,
+            "repositoryCreations": 0
+          }
+        },
+        {
+          "repositoryId": "R_kgDORtdsFw",
+          "nameWithOwner": "ThePhoenix08/prakalp-pm",
+          "owner": "ThePhoenix08",
+          "counts": {
+            "commits": 5,
+            "issues": 0,
+            "pullRequests": 0,
+            "pullRequestReviews": 0,
+            "repositoryCreations": 1
+          }
+        },
+        {
+          "repositoryId": "R_kgDOQyaCYw",
+          "nameWithOwner": "ThePhoenix08/sankey-arise",
+          "owner": "ThePhoenix08",
+          "counts": {
+            "commits": 17,
+            "issues": 0,
+            "pullRequests": 0,
+            "pullRequestReviews": 0,
+            "repositoryCreations": 1
+          }
+        },
+        {
+          "repositoryId": "R_kgDOL0YAWA",
+          "nameWithOwner": "ThePhoenix08/ThePhoenix08",
+          "owner": "ThePhoenix08",
+          "counts": {
+            "commits": 203,
+            "issues": 0,
+            "pullRequests": 0,
+            "pullRequestReviews": 0,
+            "repositoryCreations": 0
+          }
+        }
+      ],
+      "repositories": [
+        {
+          "id": "R_kgDOQWH5SA",
+          "name": "Pathify",
+          "nameWithOwner": "712Kunal/Pathify",
+          "owner": "712Kunal",
+          "ownerType": "User",
+          "description": null,
+          "url": "https://github.com/712Kunal/Pathify",
+          "isArchived": false,
+          "isFork": false,
+          "isPrivate": false,
+          "visibility": "PUBLIC",
+          "viewerPermission": "WRITE",
+          "createdAt": "2025-11-15T08:18:57Z",
+          "updatedAt": "2026-01-03T08:35:51Z",
+          "pushedAt": "2026-01-03T08:35:47Z",
+          "defaultBranchOid": "eac547dce9efd2203f0d17e57aa94251126feffe",
+          "stars": 0,
+          "forks": 0,
+          "primaryLanguage": "JavaScript",
+          "topics": [],
+          "languages": [
+            {
+              "languageName": "JavaScript",
+              "color": "#f1e05a",
+              "value": 27485,
+              "percentage": 100
+            }
+          ],
+          "codeByteTotal": 27485,
+          "sources": [
+            "profile-contribution"
+          ],
+          "contributionCounts": {
+            "commits": 0,
+            "issues": 0,
+            "pullRequests": 0,
+            "pullRequestReviews": 0,
+            "repositoryCreations": 0
+          },
+          "metadataFetchedAt": 1784380146254
+        },
+        {
+          "id": "R_kgDONQtm5w",
+          "name": "ai-trip-planner-2",
+          "nameWithOwner": "ThePhoenix08/ai-trip-planner-2",
+          "owner": "ThePhoenix08",
+          "ownerType": "User",
+          "description": null,
+          "url": "https://github.com/ThePhoenix08/ai-trip-planner-2",
+          "isArchived": false,
+          "isFork": false,
+          "isPrivate": false,
+          "visibility": "PUBLIC",
+          "viewerPermission": "ADMIN",
+          "createdAt": "2024-11-17T16:16:33Z",
+          "updatedAt": "2026-01-17T05:39:23Z",
+          "pushedAt": "2026-01-17T05:39:19Z",
+          "defaultBranchOid": "487914c9d2c6c909f58011e522e40ce70c501ff6",
+          "stars": 0,
+          "forks": 0,
+          "primaryLanguage": "TypeScript",
+          "topics": [],
+          "languages": [
+            {
+              "languageName": "TypeScript",
+              "color": "#3178c6",
+              "value": 155094,
+              "percentage": 96.27
+            },
+            {
+              "languageName": "JavaScript",
+              "color": "#f1e05a",
+              "value": 3394,
+              "percentage": 2.11
+            },
+            {
+              "languageName": "CSS",
+              "color": "#663399",
+              "value": 2301,
+              "percentage": 1.43
+            },
+            {
+              "languageName": "HTML",
+              "color": "#e34c26",
+              "value": 312,
+              "percentage": 0.19
+            }
+          ],
+          "codeByteTotal": 161101,
+          "sources": [
+            "profile-contribution"
+          ],
+          "contributionCounts": {
+            "commits": 0,
+            "issues": 0,
+            "pullRequests": 0,
+            "pullRequestReviews": 0,
+            "repositoryCreations": 0
+          },
+          "metadataFetchedAt": 1784380146254
+        },
+        {
+          "id": "R_kgDOMKTl0g",
+          "name": "expense-tracker",
+          "nameWithOwner": "ThePhoenix08/expense-tracker",
+          "owner": "ThePhoenix08",
+          "ownerType": "User",
+          "description": null,
+          "url": "https://github.com/ThePhoenix08/expense-tracker",
+          "isArchived": false,
+          "isFork": false,
+          "isPrivate": false,
+          "visibility": "PUBLIC",
+          "viewerPermission": "ADMIN",
+          "createdAt": "2024-06-17T04:27:59Z",
+          "updatedAt": "2026-01-17T06:03:09Z",
+          "pushedAt": "2026-01-17T06:03:06Z",
+          "defaultBranchOid": "7de012e7c9ff48bb0b8ca4f4aae346fc31206fb5",
+          "stars": 0,
+          "forks": 0,
+          "primaryLanguage": "JavaScript",
+          "topics": [],
+          "languages": [
+            {
+              "languageName": "JavaScript",
+              "color": "#f1e05a",
+              "value": 56531,
+              "percentage": 97.76
+            },
+            {
+              "languageName": "HTML",
+              "color": "#e34c26",
+              "value": 1236,
+              "percentage": 2.14
+            },
+            {
+              "languageName": "CSS",
+              "color": "#663399",
+              "value": 58,
+              "percentage": 0.1
+            }
+          ],
+          "codeByteTotal": 57825,
+          "sources": [
+            "profile-contribution"
+          ],
+          "contributionCounts": {
+            "commits": 0,
+            "issues": 0,
+            "pullRequests": 0,
+            "pullRequestReviews": 0,
+            "repositoryCreations": 0
+          },
+          "metadataFetchedAt": 1784380146254
+        },
+        {
+          "id": "R_kgDOQHs_HQ",
+          "name": "musimo",
+          "nameWithOwner": "ThePhoenix08/musimo",
+          "owner": "ThePhoenix08",
+          "ownerType": "User",
+          "description": null,
+          "url": "https://github.com/ThePhoenix08/musimo",
+          "isArchived": false,
+          "isFork": false,
+          "isPrivate": false,
+          "visibility": "PUBLIC",
+          "viewerPermission": "ADMIN",
+          "createdAt": "2025-10-23T10:33:35Z",
+          "updatedAt": "2026-06-28T10:37:38Z",
+          "pushedAt": "2026-06-28T10:37:35Z",
+          "defaultBranchOid": "8f26478352befcfcd5e64dfeef0e85651546a350",
+          "stars": 0,
+          "forks": 2,
+          "primaryLanguage": "JavaScript",
+          "topics": [],
+          "languages": [
+            {
+              "languageName": "JavaScript",
+              "color": "#f1e05a",
+              "value": 619963,
+              "percentage": 61.59
+            },
+            {
+              "languageName": "Python",
+              "color": "#3572A5",
+              "value": 370152,
+              "percentage": 36.77
+            },
+            {
+              "languageName": "CSS",
+              "color": "#663399",
+              "value": 9453,
+              "percentage": 0.94
+            },
+            {
+              "languageName": "PLpgSQL",
+              "color": "#336790",
+              "value": 5292,
+              "percentage": 0.53
+            },
+            {
+              "languageName": "Mako",
+              "color": "#7e858d",
+              "value": 704,
+              "percentage": 0.07
+            },
+            {
+              "languageName": "Dockerfile",
+              "color": "#384d54",
+              "value": 652,
+              "percentage": 0.06
+            },
+            {
+              "languageName": "HTML",
+              "color": "#e34c26",
+              "value": 355,
+              "percentage": 0.04
+            }
+          ],
+          "codeByteTotal": 1006571,
+          "sources": [
+            "profile-contribution"
+          ],
+          "contributionCounts": {
+            "commits": 0,
+            "issues": 0,
+            "pullRequests": 0,
+            "pullRequestReviews": 0,
+            "repositoryCreations": 0
+          },
+          "metadataFetchedAt": 1784380146254
+        },
+        {
+          "id": "R_kgDORtdsFw",
+          "name": "prakalp-pm",
+          "nameWithOwner": "ThePhoenix08/prakalp-pm",
+          "owner": "ThePhoenix08",
+          "ownerType": "User",
+          "description": null,
+          "url": "https://github.com/ThePhoenix08/prakalp-pm",
+          "isArchived": false,
+          "isFork": false,
+          "isPrivate": false,
+          "visibility": "PUBLIC",
+          "viewerPermission": "ADMIN",
+          "createdAt": "2026-03-22T07:39:22Z",
+          "updatedAt": "2026-03-22T15:22:58Z",
+          "pushedAt": "2026-03-22T15:22:54Z",
+          "defaultBranchOid": "b4b70a9247eaa6577e2dd9c65c2932829336bf30",
+          "stars": 0,
+          "forks": 0,
+          "primaryLanguage": "TypeScript",
+          "topics": [],
+          "languages": [
+            {
+              "languageName": "TypeScript",
+              "color": "#3178c6",
+              "value": 595461,
+              "percentage": 80.88
+            },
+            {
+              "languageName": "JavaScript",
+              "color": "#f1e05a",
+              "value": 94892,
+              "percentage": 12.89
+            },
+            {
+              "languageName": "CSS",
+              "color": "#663399",
+              "value": 45175,
+              "percentage": 6.14
+            },
+            {
+              "languageName": "HTML",
+              "color": "#e34c26",
+              "value": 657,
+              "percentage": 0.09
+            }
+          ],
+          "codeByteTotal": 736185,
+          "sources": [
+            "profile-contribution"
+          ],
+          "contributionCounts": {
+            "commits": 0,
+            "issues": 0,
+            "pullRequests": 0,
+            "pullRequestReviews": 0,
+            "repositoryCreations": 0
+          },
+          "metadataFetchedAt": 1784380146254
+        },
+        {
+          "id": "R_kgDOQyaCYw",
+          "name": "sankey-arise",
+          "nameWithOwner": "ThePhoenix08/sankey-arise",
+          "owner": "ThePhoenix08",
+          "ownerType": "User",
+          "description": null,
+          "url": "https://github.com/ThePhoenix08/sankey-arise",
+          "isArchived": false,
+          "isFork": false,
+          "isPrivate": false,
+          "visibility": "PUBLIC",
+          "viewerPermission": "ADMIN",
+          "createdAt": "2026-01-02T08:19:40Z",
+          "updatedAt": "2026-02-08T13:50:40Z",
+          "pushedAt": "2026-02-08T13:50:36Z",
+          "defaultBranchOid": "3deaaab47414ed15dc721a459ccc767b8f4d2d65",
+          "stars": 0,
+          "forks": 0,
+          "primaryLanguage": "JavaScript",
+          "topics": [],
+          "languages": [
+            {
+              "languageName": "JavaScript",
+              "color": "#f1e05a",
+              "value": 26724,
+              "percentage": 41.54
+            },
+            {
+              "languageName": "CSS",
+              "color": "#663399",
+              "value": 20447,
+              "percentage": 31.78
+            },
+            {
+              "languageName": "HTML",
+              "color": "#e34c26",
+              "value": 11847,
+              "percentage": 18.41
+            },
+            {
+              "languageName": "C++",
+              "color": "#f34b7d",
+              "value": 5316,
+              "percentage": 8.26
+            }
+          ],
+          "codeByteTotal": 64334,
+          "sources": [
+            "profile-contribution"
+          ],
+          "contributionCounts": {
+            "commits": 0,
+            "issues": 0,
+            "pullRequests": 0,
+            "pullRequestReviews": 0,
+            "repositoryCreations": 0
+          },
+          "metadataFetchedAt": 1784380146254
+        },
+        {
+          "id": "R_kgDOL0YAWA",
+          "name": "ThePhoenix08",
+          "nameWithOwner": "ThePhoenix08/ThePhoenix08",
+          "owner": "ThePhoenix08",
+          "ownerType": "User",
+          "description": null,
+          "url": "https://github.com/ThePhoenix08/ThePhoenix08",
+          "isArchived": false,
+          "isFork": false,
+          "isPrivate": false,
+          "visibility": "PUBLIC",
+          "viewerPermission": "ADMIN",
+          "createdAt": "2024-04-28T13:26:34Z",
+          "updatedAt": "2026-07-17T19:13:08Z",
+          "pushedAt": "2026-07-18T05:36:22Z",
+          "defaultBranchOid": "041e3dbc6ca1272e5cc760539e3f3c7ad1e465a8",
+          "stars": 0,
+          "forks": 0,
+          "primaryLanguage": null,
+          "topics": [],
+          "languages": [],
+          "codeByteTotal": 0,
+          "sources": [
+            "profile-contribution"
+          ],
+          "contributionCounts": {
+            "commits": 0,
+            "issues": 0,
+            "pullRequests": 0,
+            "pullRequestReviews": 0,
+            "repositoryCreations": 0
+          },
+          "metadataFetchedAt": 1784380146254
+        }
+      ]
     }
   },
   "repositories": {
     "R_kgDONr0HNw": {
-      "fetchedAt": 1784294576533,
+      "fetchedAt": 1784380154163,
       "repository": {
         "id": "R_kgDONr0HNw",
         "name": "Classroom.io",
@@ -11074,11 +13127,11 @@
           "pullRequestReviews": 0,
           "repositoryCreations": 0
         },
-        "metadataFetchedAt": 1784209494055
+        "metadataFetchedAt": 1784380145274
       }
     },
     "R_kgDOQWH5SA": {
-      "fetchedAt": 1784294576533,
+      "fetchedAt": 1784380154163,
       "repository": {
         "id": "R_kgDOQWH5SA",
         "name": "Pathify",
@@ -11122,11 +13175,11 @@
           "pullRequestReviews": 0,
           "repositoryCreations": 0
         },
-        "metadataFetchedAt": 1784209494937
+        "metadataFetchedAt": 1784380146254
       }
     },
     "R_kgDONJgs7A": {
-      "fetchedAt": 1784294576533,
+      "fetchedAt": 1784380154163,
       "repository": {
         "id": "R_kgDONJgs7A",
         "name": "ShopSphere",
@@ -11180,11 +13233,11 @@
           "pullRequestReviews": 0,
           "repositoryCreations": 0
         },
-        "metadataFetchedAt": 1784209494055
+        "metadataFetchedAt": 1784380145274
       }
     },
     "R_kgDOJ6Wptw": {
-      "fetchedAt": 1784294576533,
+      "fetchedAt": 1784380154163,
       "repository": {
         "id": "R_kgDOJ6Wptw",
         "name": "METAVERSE",
@@ -11311,7 +13364,7 @@
       }
     },
     "R_kgDOM4EzFw": {
-      "fetchedAt": 1784294576533,
+      "fetchedAt": 1784380154163,
       "repository": {
         "id": "R_kgDOM4EzFw",
         "name": "Access_Denied",
@@ -11370,7 +13423,7 @@
       }
     },
     "R_kgDOMxMs4A": {
-      "fetchedAt": 1784294576533,
+      "fetchedAt": 1784380154163,
       "repository": {
         "id": "R_kgDOMxMs4A",
         "name": "DevDisplay",
@@ -11385,11 +13438,11 @@
         "visibility": "PUBLIC",
         "viewerPermission": "READ",
         "createdAt": "2024-09-13T12:12:42Z",
-        "updatedAt": "2026-05-29T11:48:19Z",
+        "updatedAt": "2026-07-15T08:42:35Z",
         "pushedAt": "2026-05-08T06:31:37Z",
         "defaultBranchOid": "e1ce099f73afbcd99c2d05821ddad17dd51dc17d",
-        "stars": 335,
-        "forks": 475,
+        "stars": 333,
+        "forks": 469,
         "primaryLanguage": "JavaScript",
         "topics": [
           "dev-display",
@@ -11449,11 +13502,11 @@
           "pullRequestReviews": 0,
           "repositoryCreations": 0
         },
-        "metadataFetchedAt": 1780068106719
+        "metadataFetchedAt": 1784380145274
       }
     },
     "R_kgDONiKnXw": {
-      "fetchedAt": 1784294576533,
+      "fetchedAt": 1784380154163,
       "repository": {
         "id": "R_kgDONiKnXw",
         "name": "Tiffin_Fusion",
@@ -11513,11 +13566,11 @@
           "pullRequestReviews": 0,
           "repositoryCreations": 0
         },
-        "metadataFetchedAt": 1784209494055
+        "metadataFetchedAt": 1784380145274
       }
     },
     "R_kgDOP_rqbg": {
-      "fetchedAt": 1784294576533,
+      "fetchedAt": 1784380154163,
       "repository": {
         "id": "R_kgDOP_rqbg",
         "name": "EMERGE",
@@ -11579,11 +13632,11 @@
           "pullRequestReviews": 0,
           "repositoryCreations": 0
         },
-        "metadataFetchedAt": 1784209494055
+        "metadataFetchedAt": 1784380145274
       }
     },
     "R_kgDOMlGGww": {
-      "fetchedAt": 1784294576533,
+      "fetchedAt": 1784380154163,
       "repository": {
         "id": "R_kgDOMlGGww",
         "name": "HungryBox",
@@ -11655,11 +13708,11 @@
           "pullRequestReviews": 0,
           "repositoryCreations": 0
         },
-        "metadataFetchedAt": 1784209494055
+        "metadataFetchedAt": 1784380145274
       }
     },
     "R_kgDOLU2t_Q": {
-      "fetchedAt": 1784294576533,
+      "fetchedAt": 1784380154163,
       "repository": {
         "id": "R_kgDOLU2t_Q",
         "name": "Shortify",
@@ -11729,7 +13782,7 @@
       }
     },
     "R_kgDOI1pJRw": {
-      "fetchedAt": 1784294576533,
+      "fetchedAt": 1784380154163,
       "repository": {
         "id": "R_kgDOI1pJRw",
         "name": "chessed",
@@ -11792,7 +13845,7 @@
       }
     },
     "R_kgDOK6x_7w": {
-      "fetchedAt": 1784294576533,
+      "fetchedAt": 1784380154163,
       "repository": {
         "id": "R_kgDOK6x_7w",
         "name": "Beautiify",
@@ -11861,7 +13914,7 @@
       }
     },
     "R_kgDOM1WHMQ": {
-      "fetchedAt": 1784294576533,
+      "fetchedAt": 1784380154163,
       "repository": {
         "id": "R_kgDOM1WHMQ",
         "name": "Tiffin_Fusion",
@@ -11921,11 +13974,11 @@
           "pullRequestReviews": 0,
           "repositoryCreations": 0
         },
-        "metadataFetchedAt": 1784209494055
+        "metadataFetchedAt": 1784380145274
       }
     },
     "R_kgDOM6ORgw": {
-      "fetchedAt": 1784294576533,
+      "fetchedAt": 1784380154163,
       "repository": {
         "id": "R_kgDOM6ORgw",
         "name": "Access_Denied",
@@ -11984,7 +14037,7 @@
       }
     },
     "R_kgDOM9xAUg": {
-      "fetchedAt": 1784294576533,
+      "fetchedAt": 1784380154163,
       "repository": {
         "id": "R_kgDOM9xAUg",
         "name": "ai-trip-planner",
@@ -12043,7 +14096,7 @@
       }
     },
     "R_kgDONQtm5w": {
-      "fetchedAt": 1784294576533,
+      "fetchedAt": 1784380154163,
       "repository": {
         "id": "R_kgDONQtm5w",
         "name": "ai-trip-planner-2",
@@ -12104,11 +14157,11 @@
           "pullRequestReviews": 0,
           "repositoryCreations": 0
         },
-        "metadataFetchedAt": 1780068106719
+        "metadataFetchedAt": 1784380146254
       }
     },
     "R_kgDONjI9DA": {
-      "fetchedAt": 1784294576533,
+      "fetchedAt": 1784380154163,
       "repository": {
         "id": "R_kgDONjI9DA",
         "name": "AnimateHub",
@@ -12167,7 +14220,7 @@
       }
     },
     "R_kgDOO8fkkw": {
-      "fetchedAt": 1784294576533,
+      "fetchedAt": 1784380154163,
       "repository": {
         "id": "R_kgDOO8fkkw",
         "name": "archeo",
@@ -12234,11 +14287,11 @@
           "pullRequestReviews": 0,
           "repositoryCreations": 0
         },
-        "metadataFetchedAt": 1784209494055
+        "metadataFetchedAt": 1784380145274
       }
     },
     "R_kgDOP-tBDw": {
-      "fetchedAt": 1784294576533,
+      "fetchedAt": 1784380154163,
       "repository": {
         "id": "R_kgDOP-tBDw",
         "name": "audio-cnn",
@@ -12287,11 +14340,11 @@
           "pullRequestReviews": 0,
           "repositoryCreations": 0
         },
-        "metadataFetchedAt": 1784209494055
+        "metadataFetchedAt": 1784380145274
       }
     },
     "R_kgDONgf6VA": {
-      "fetchedAt": 1784294576533,
+      "fetchedAt": 1784380154163,
       "repository": {
         "id": "R_kgDONgf6VA",
         "name": "Beautiify",
@@ -12350,7 +14403,7 @@
       }
     },
     "R_kgDOJRRZkQ": {
-      "fetchedAt": 1784294576533,
+      "fetchedAt": 1784380154163,
       "repository": {
         "id": "R_kgDOJRRZkQ",
         "name": "C-projects",
@@ -12397,7 +14450,7 @@
       }
     },
     "R_kgDONW1HlA": {
-      "fetchedAt": 1784294576533,
+      "fetchedAt": 1784380154163,
       "repository": {
         "id": "R_kgDONW1HlA",
         "name": "chessed",
@@ -12456,7 +14509,7 @@
       }
     },
     "R_kgDONsww2Q": {
-      "fetchedAt": 1784294576533,
+      "fetchedAt": 1784380154163,
       "repository": {
         "id": "R_kgDONsww2Q",
         "name": "Classroom.io",
@@ -12523,11 +14576,11 @@
           "pullRequestReviews": 0,
           "repositoryCreations": 0
         },
-        "metadataFetchedAt": 1784209494055
+        "metadataFetchedAt": 1784380145274
       }
     },
     "R_kgDOMOC5Jg": {
-      "fetchedAt": 1784294576533,
+      "fetchedAt": 1784380154163,
       "repository": {
         "id": "R_kgDOMOC5Jg",
         "name": "CodSoft",
@@ -12567,7 +14620,7 @@
       }
     },
     "R_kgDOMQzaMg": {
-      "fetchedAt": 1784294576533,
+      "fetchedAt": 1784380154163,
       "repository": {
         "id": "R_kgDOMQzaMg",
         "name": "Codsoft-task-tracker-app",
@@ -12626,7 +14679,7 @@
       }
     },
     "R_kgDONjH9_Q": {
-      "fetchedAt": 1784294576533,
+      "fetchedAt": 1784380154163,
       "repository": {
         "id": "R_kgDONjH9_Q",
         "name": "DevDisplay",
@@ -12691,7 +14744,7 @@
       }
     },
     "R_kgDOMKTl0g": {
-      "fetchedAt": 1784294576533,
+      "fetchedAt": 1784380154163,
       "repository": {
         "id": "R_kgDOMKTl0g",
         "name": "expense-tracker",
@@ -12746,11 +14799,11 @@
           "pullRequestReviews": 0,
           "repositoryCreations": 0
         },
-        "metadataFetchedAt": 1780068106719
+        "metadataFetchedAt": 1784380146254
       }
     },
     "R_kgDOMM_Y-Q": {
-      "fetchedAt": 1784294576533,
+      "fetchedAt": 1784380154163,
       "repository": {
         "id": "R_kgDOMM_Y-Q",
         "name": "forage-jpmc-swe-task-1",
@@ -12797,7 +14850,7 @@
       }
     },
     "R_kgDOMNRzgw": {
-      "fetchedAt": 1784294576533,
+      "fetchedAt": 1784380154163,
       "repository": {
         "id": "R_kgDOMNRzgw",
         "name": "forage-jpmc-swe-task-2",
@@ -12868,7 +14921,7 @@
       }
     },
     "R_kgDOMOP2Ag": {
-      "fetchedAt": 1784294576533,
+      "fetchedAt": 1784380154163,
       "repository": {
         "id": "R_kgDOMOP2Ag",
         "name": "forage-jpmc-swe-task-3",
@@ -12939,7 +14992,7 @@
       }
     },
     "R_kgDONnex_Q": {
-      "fetchedAt": 1784294576533,
+      "fetchedAt": 1784380154163,
       "repository": {
         "id": "R_kgDONnex_Q",
         "name": "HungryBox",
@@ -13000,11 +15053,11 @@
           "pullRequestReviews": 0,
           "repositoryCreations": 0
         },
-        "metadataFetchedAt": 1784209494055
+        "metadataFetchedAt": 1784380145274
       }
     },
     "R_kgDOMUh61w": {
-      "fetchedAt": 1784294576533,
+      "fetchedAt": 1784380154163,
       "repository": {
         "id": "R_kgDOMUh61w",
         "name": "mern-blog",
@@ -13065,11 +15118,11 @@
           "pullRequestReviews": 0,
           "repositoryCreations": 0
         },
-        "metadataFetchedAt": 1780068106719
+        "metadataFetchedAt": 1784380145274
       }
     },
     "R_kgDONagNiw": {
-      "fetchedAt": 1784294576533,
+      "fetchedAt": 1784380154163,
       "repository": {
         "id": "R_kgDONagNiw",
         "name": "METAVERSE",
@@ -13176,7 +15229,7 @@
       }
     },
     "R_kgDOLdzj_w": {
-      "fetchedAt": 1784294576533,
+      "fetchedAt": 1784380154163,
       "repository": {
         "id": "R_kgDOLdzj_w",
         "name": "movix-website",
@@ -13241,7 +15294,7 @@
       }
     },
     "R_kgDOQHs_HQ": {
-      "fetchedAt": 1784294576533,
+      "fetchedAt": 1784380154163,
       "repository": {
         "id": "R_kgDOQHs_HQ",
         "name": "musimo",
@@ -13320,11 +15373,11 @@
           "pullRequestReviews": 0,
           "repositoryCreations": 0
         },
-        "metadataFetchedAt": 1784209494937
+        "metadataFetchedAt": 1784380146254
       }
     },
     "R_kgDONjJPww": {
-      "fetchedAt": 1784294576533,
+      "fetchedAt": 1784380154163,
       "repository": {
         "id": "R_kgDONjJPww",
         "name": "OnlineBookSales",
@@ -13395,7 +15448,7 @@
       }
     },
     "R_kgDONUIhvg": {
-      "fetchedAt": 1784294576533,
+      "fetchedAt": 1784380154163,
       "repository": {
         "id": "R_kgDONUIhvg",
         "name": "open-graph-visualizer",
@@ -13456,11 +15509,11 @@
           "pullRequestReviews": 0,
           "repositoryCreations": 0
         },
-        "metadataFetchedAt": 1780068106719
+        "metadataFetchedAt": 1784380145274
       }
     },
     "R_kgDON2gERQ": {
-      "fetchedAt": 1784294576533,
+      "fetchedAt": 1784380154163,
       "repository": {
         "id": "R_kgDON2gERQ",
         "name": "pathify",
@@ -13521,11 +15574,11 @@
           "pullRequestReviews": 0,
           "repositoryCreations": 0
         },
-        "metadataFetchedAt": 1784209494055
+        "metadataFetchedAt": 1784380145274
       }
     },
     "R_kgDOLfSpfA": {
-      "fetchedAt": 1784294576533,
+      "fetchedAt": 1784380154163,
       "repository": {
         "id": "R_kgDOLfSpfA",
         "name": "portfolio",
@@ -13584,7 +15637,7 @@
       }
     },
     "R_kgDOMTnZeg": {
-      "fetchedAt": 1784294576533,
+      "fetchedAt": 1784380154163,
       "repository": {
         "id": "R_kgDOMTnZeg",
         "name": "portfolio-v2",
@@ -13645,11 +15698,11 @@
           "pullRequestReviews": 0,
           "repositoryCreations": 0
         },
-        "metadataFetchedAt": 1780068106719
+        "metadataFetchedAt": 1784380145274
       }
     },
     "R_kgDORtdsFw": {
-      "fetchedAt": 1784294576533,
+      "fetchedAt": 1784380154163,
       "repository": {
         "id": "R_kgDORtdsFw",
         "name": "prakalp-pm",
@@ -13710,11 +15763,11 @@
           "pullRequestReviews": 0,
           "repositoryCreations": 0
         },
-        "metadataFetchedAt": 1784209494937
+        "metadataFetchedAt": 1784380146254
       }
     },
     "R_kgDOM08ORA": {
-      "fetchedAt": 1784294576533,
+      "fetchedAt": 1784380154163,
       "repository": {
         "id": "R_kgDOM08ORA",
         "name": "profoundry",
@@ -13779,7 +15832,7 @@
       }
     },
     "R_kgDONnf61w": {
-      "fetchedAt": 1784294576533,
+      "fetchedAt": 1784380154163,
       "repository": {
         "id": "R_kgDONnf61w",
         "name": "react-blog",
@@ -13834,11 +15887,11 @@
           "pullRequestReviews": 0,
           "repositoryCreations": 0
         },
-        "metadataFetchedAt": 1784209494055
+        "metadataFetchedAt": 1784380145274
       }
     },
     "R_kgDOQyaCYw": {
-      "fetchedAt": 1784294576533,
+      "fetchedAt": 1784380154163,
       "repository": {
         "id": "R_kgDOQyaCYw",
         "name": "sankey-arise",
@@ -13899,11 +15952,11 @@
           "pullRequestReviews": 0,
           "repositoryCreations": 0
         },
-        "metadataFetchedAt": 1784209494937
+        "metadataFetchedAt": 1784380146254
       }
     },
     "R_kgDONnfmzQ": {
-      "fetchedAt": 1784294576533,
+      "fetchedAt": 1784380154163,
       "repository": {
         "id": "R_kgDONnfmzQ",
         "name": "ShopSphere",
@@ -13958,11 +16011,11 @@
           "pullRequestReviews": 0,
           "repositoryCreations": 0
         },
-        "metadataFetchedAt": 1784209494055
+        "metadataFetchedAt": 1784380145274
       }
     },
     "R_kgDONZXnRA": {
-      "fetchedAt": 1784294576533,
+      "fetchedAt": 1784380154163,
       "repository": {
         "id": "R_kgDONZXnRA",
         "name": "Shortify",
@@ -14033,7 +16086,7 @@
       }
     },
     "R_kgDONowetg": {
-      "fetchedAt": 1784294576533,
+      "fetchedAt": 1784380154163,
       "repository": {
         "id": "R_kgDONowetg",
         "name": "SocioSell",
@@ -14088,11 +16141,11 @@
           "pullRequestReviews": 0,
           "repositoryCreations": 0
         },
-        "metadataFetchedAt": 1784209494055
+        "metadataFetchedAt": 1784380145274
       }
     },
     "R_kgDONgkRTw": {
-      "fetchedAt": 1784294576533,
+      "fetchedAt": 1784380154163,
       "repository": {
         "id": "R_kgDONgkRTw",
         "name": "TelMedSphere",
@@ -14157,7 +16210,7 @@
       }
     },
     "R_kgDOL0YAWA": {
-      "fetchedAt": 1784294576533,
+      "fetchedAt": 1784380154163,
       "repository": {
         "id": "R_kgDOL0YAWA",
         "name": "ThePhoenix08",
@@ -14172,9 +16225,9 @@
         "visibility": "PUBLIC",
         "viewerPermission": "ADMIN",
         "createdAt": "2024-04-28T13:26:34Z",
-        "updatedAt": "2026-07-16T19:16:50Z",
-        "pushedAt": "2026-07-17T05:55:56Z",
-        "defaultBranchOid": "39b47bdf2d988331f8d6f8d3bef089a22cbd9a15",
+        "updatedAt": "2026-07-17T19:13:08Z",
+        "pushedAt": "2026-07-18T05:36:22Z",
+        "defaultBranchOid": "041e3dbc6ca1272e5cc760539e3f3c7ad1e465a8",
         "stars": 0,
         "forks": 0,
         "primaryLanguage": null,
@@ -14193,11 +16246,11 @@
           "pullRequestReviews": 0,
           "repositoryCreations": 0
         },
-        "metadataFetchedAt": 1784294571191
+        "metadataFetchedAt": 1784380146254
       }
     },
     "R_kgDONohWkA": {
-      "fetchedAt": 1784294576533,
+      "fetchedAt": 1784380154163,
       "repository": {
         "id": "R_kgDONohWkA",
         "name": "Tiffin_Fusion",
@@ -14258,11 +16311,11 @@
           "pullRequestReviews": 0,
           "repositoryCreations": 0
         },
-        "metadataFetchedAt": 1784209494055
+        "metadataFetchedAt": 1784380145274
       }
     },
     "R_kgDOLcnKig": {
-      "fetchedAt": 1784294576533,
+      "fetchedAt": 1784380154163,
       "repository": {
         "id": "R_kgDOLcnKig",
         "name": "to-do-app",
@@ -14331,11 +16384,11 @@
       "status": "fresh"
     },
     "R_kgDOL0YAWA": {
-      "additions": 70799,
-      "deletions": 21007,
-      "commits": 258,
-      "fetchedAt": 1784294578343,
-      "defaultBranchOid": "39b47bdf2d988331f8d6f8d3bef089a22cbd9a15",
+      "additions": 71665,
+      "deletions": 24129,
+      "commits": 259,
+      "fetchedAt": 1784380155867,
+      "defaultBranchOid": "041e3dbc6ca1272e5cc760539e3f3c7ad1e465a8",
       "status": "fresh"
     },
     "R_kgDOJRRZkQ": {
@@ -14835,259 +16888,260 @@
       "contributors:R_kgDOL0YAWA:4825c1e0b28c4de7624fae62bac0a0802cd3dcde": 1784036294625,
       "contributors:R_kgDOL0YAWA:852e538e4f14075e880bd374080a0fd5a7ee5a8e": 1784122743011,
       "contributors:R_kgDOL0YAWA:136c723c3744dab8721fb555a3b59398df1fda53": 1784209506623,
-      "contributors:R_kgDOL0YAWA:39b47bdf2d988331f8d6f8d3bef089a22cbd9a15": 1784294578343
+      "contributors:R_kgDOL0YAWA:39b47bdf2d988331f8d6f8d3bef089a22cbd9a15": 1784294578343,
+      "contributors:R_kgDOL0YAWA:041e3dbc6ca1272e5cc760539e3f3c7ad1e465a8": 1784380155867
     },
     "failures": {
       "traffic:R_kgDOJRRZkQ": {
         "key": "traffic:R_kgDOJRRZkQ",
-        "failedAt": 1784294584543,
-        "attempts": 49,
+        "failedAt": 1784380162112,
+        "attempts": 50,
         "message": "Resource not accessible by personal access token - https://docs.github.com/rest/metrics/traffic#get-page-views"
       },
       "traffic:R_kgDOL0YAWA": {
         "key": "traffic:R_kgDOL0YAWA",
-        "failedAt": 1784294584648,
-        "attempts": 49,
+        "failedAt": 1784380162081,
+        "attempts": 50,
         "message": "Resource not accessible by personal access token - https://docs.github.com/rest/metrics/traffic#get-page-views"
       },
       "traffic:R_kgDOLcnKig": {
         "key": "traffic:R_kgDOLcnKig",
-        "failedAt": 1784294584678,
-        "attempts": 49,
+        "failedAt": 1784380161883,
+        "attempts": 50,
         "message": "Resource not accessible by personal access token - https://docs.github.com/rest/metrics/traffic#get-page-views"
       },
       "traffic:R_kgDOLdzj_w": {
         "key": "traffic:R_kgDOLdzj_w",
-        "failedAt": 1784294586459,
-        "attempts": 49,
+        "failedAt": 1784380163625,
+        "attempts": 50,
         "message": "Resource not accessible by personal access token - https://docs.github.com/rest/metrics/traffic#get-page-views"
       },
       "traffic:R_kgDOLfSpfA": {
         "key": "traffic:R_kgDOLfSpfA",
-        "failedAt": 1784294592327,
-        "attempts": 49,
+        "failedAt": 1784380169539,
+        "attempts": 50,
         "message": "Resource not accessible by personal access token - https://docs.github.com/rest/metrics/traffic#get-page-views"
       },
       "traffic:R_kgDOM08ORA": {
         "key": "traffic:R_kgDOM08ORA",
-        "failedAt": 1784294592853,
-        "attempts": 49,
+        "failedAt": 1784380170163,
+        "attempts": 50,
         "message": "Resource not accessible by personal access token - https://docs.github.com/rest/metrics/traffic#get-page-views"
       },
       "traffic:R_kgDOM6ORgw": {
         "key": "traffic:R_kgDOM6ORgw",
-        "failedAt": 1784294592695,
-        "attempts": 49,
+        "failedAt": 1784380169916,
+        "attempts": 50,
         "message": "Resource not accessible by personal access token - https://docs.github.com/rest/metrics/traffic#get-page-views"
       },
       "traffic:R_kgDOM9xAUg": {
         "key": "traffic:R_kgDOM9xAUg",
-        "failedAt": 1784294594444,
-        "attempts": 49,
+        "failedAt": 1784380171456,
+        "attempts": 50,
         "message": "Resource not accessible by personal access token - https://docs.github.com/rest/metrics/traffic#get-page-views"
       },
       "traffic:R_kgDOMKTl0g": {
         "key": "traffic:R_kgDOMKTl0g",
-        "failedAt": 1784294600300,
-        "attempts": 49,
+        "failedAt": 1784380177299,
+        "attempts": 50,
         "message": "Resource not accessible by personal access token - https://docs.github.com/rest/metrics/traffic#get-page-views"
       },
       "traffic:R_kgDOMNRzgw": {
         "key": "traffic:R_kgDOMNRzgw",
-        "failedAt": 1784294600676,
-        "attempts": 49,
+        "failedAt": 1784380178115,
+        "attempts": 50,
         "message": "Resource not accessible by personal access token - https://docs.github.com/rest/metrics/traffic#get-page-views"
       },
       "traffic:R_kgDOMM_Y-Q": {
         "key": "traffic:R_kgDOMM_Y-Q",
-        "failedAt": 1784294601042,
-        "attempts": 49,
+        "failedAt": 1784380177714,
+        "attempts": 50,
         "message": "Resource not accessible by personal access token - https://docs.github.com/rest/metrics/traffic#get-page-views"
       },
       "traffic:R_kgDOMOC5Jg": {
         "key": "traffic:R_kgDOMOC5Jg",
-        "failedAt": 1784294602519,
-        "attempts": 49,
+        "failedAt": 1784380179148,
+        "attempts": 50,
         "message": "Resource not accessible by personal access token - https://docs.github.com/rest/metrics/traffic#get-page-views"
       },
       "traffic:R_kgDOMOP2Ag": {
         "key": "traffic:R_kgDOMOP2Ag",
-        "failedAt": 1784294608513,
-        "attempts": 49,
+        "failedAt": 1784380185253,
+        "attempts": 50,
         "message": "Resource not accessible by personal access token - https://docs.github.com/rest/metrics/traffic#get-page-views"
       },
       "traffic:R_kgDOMTnZeg": {
         "key": "traffic:R_kgDOMTnZeg",
-        "failedAt": 1784294609114,
-        "attempts": 49,
+        "failedAt": 1784380186077,
+        "attempts": 50,
         "message": "Resource not accessible by personal access token - https://docs.github.com/rest/metrics/traffic#get-page-views"
       },
       "traffic:R_kgDOMQzaMg": {
         "key": "traffic:R_kgDOMQzaMg",
-        "failedAt": 1784294608873,
-        "attempts": 49,
+        "failedAt": 1784380185381,
+        "attempts": 50,
         "message": "Resource not accessible by personal access token - https://docs.github.com/rest/metrics/traffic#get-page-views"
       },
       "traffic:R_kgDOMUh61w": {
         "key": "traffic:R_kgDOMUh61w",
-        "failedAt": 1784294610617,
-        "attempts": 49,
+        "failedAt": 1784380186900,
+        "attempts": 50,
         "message": "Resource not accessible by personal access token - https://docs.github.com/rest/metrics/traffic#get-page-views"
       },
       "traffic:R_kgDON2gERQ": {
         "key": "traffic:R_kgDON2gERQ",
-        "failedAt": 1784294616565,
-        "attempts": 49,
+        "failedAt": 1784380193170,
+        "attempts": 50,
         "message": "Resource not accessible by personal access token - https://docs.github.com/rest/metrics/traffic#get-page-views"
       },
       "traffic:R_kgDONagNiw": {
         "key": "traffic:R_kgDONagNiw",
-        "failedAt": 1784294616857,
-        "attempts": 49,
+        "failedAt": 1784380193137,
+        "attempts": 50,
         "message": "Resource not accessible by personal access token - https://docs.github.com/rest/metrics/traffic#get-page-views"
       },
       "traffic:R_kgDONgf6VA": {
         "key": "traffic:R_kgDONgf6VA",
-        "failedAt": 1784294617247,
-        "attempts": 49,
+        "failedAt": 1784380193838,
+        "attempts": 50,
         "message": "Resource not accessible by personal access token - https://docs.github.com/rest/metrics/traffic#get-page-views"
       },
       "traffic:R_kgDONgkRTw": {
         "key": "traffic:R_kgDONgkRTw",
-        "failedAt": 1784294618739,
-        "attempts": 49,
+        "failedAt": 1784380194570,
+        "attempts": 50,
         "message": "Resource not accessible by personal access token - https://docs.github.com/rest/metrics/traffic#get-page-views"
       },
       "traffic:R_kgDONjH9_Q": {
         "key": "traffic:R_kgDONjH9_Q",
-        "failedAt": 1784294624689,
-        "attempts": 49,
+        "failedAt": 1784380200843,
+        "attempts": 50,
         "message": "Resource not accessible by personal access token - https://docs.github.com/rest/metrics/traffic#get-page-views"
       },
       "traffic:R_kgDONjJPww": {
         "key": "traffic:R_kgDONjJPww",
-        "failedAt": 1784294625283,
-        "attempts": 49,
+        "failedAt": 1784380201657,
+        "attempts": 50,
         "message": "Resource not accessible by personal access token - https://docs.github.com/rest/metrics/traffic#get-page-views"
       },
       "traffic:R_kgDONjI9DA": {
         "key": "traffic:R_kgDONjI9DA",
-        "failedAt": 1784294625050,
-        "attempts": 49,
+        "failedAt": 1784380200899,
+        "attempts": 50,
         "message": "Resource not accessible by personal access token - https://docs.github.com/rest/metrics/traffic#get-page-views"
       },
       "traffic:R_kgDONnex_Q": {
         "key": "traffic:R_kgDONnex_Q",
-        "failedAt": 1784294626864,
-        "attempts": 49,
+        "failedAt": 1784380202402,
+        "attempts": 50,
         "message": "Resource not accessible by personal access token - https://docs.github.com/rest/metrics/traffic#get-page-views"
       },
       "traffic:R_kgDONnf61w": {
         "key": "traffic:R_kgDONnf61w",
-        "failedAt": 1784294632556,
-        "attempts": 49,
+        "failedAt": 1784380208584,
+        "attempts": 50,
         "message": "Resource not accessible by personal access token - https://docs.github.com/rest/metrics/traffic#get-page-views"
       },
       "traffic:R_kgDONohWkA": {
         "key": "traffic:R_kgDONohWkA",
-        "failedAt": 1784294633362,
-        "attempts": 49,
+        "failedAt": 1784380209441,
+        "attempts": 50,
         "message": "Resource not accessible by personal access token - https://docs.github.com/rest/metrics/traffic#get-page-views"
       },
       "traffic:R_kgDONnfmzQ": {
         "key": "traffic:R_kgDONnfmzQ",
-        "failedAt": 1784294633044,
-        "attempts": 49,
+        "failedAt": 1784380208598,
+        "attempts": 50,
         "message": "Resource not accessible by personal access token - https://docs.github.com/rest/metrics/traffic#get-page-views"
       },
       "traffic:R_kgDONowetg": {
         "key": "traffic:R_kgDONowetg",
-        "failedAt": 1784294634802,
-        "attempts": 49,
+        "failedAt": 1784380210260,
+        "attempts": 50,
         "message": "Resource not accessible by personal access token - https://docs.github.com/rest/metrics/traffic#get-page-views"
       },
       "traffic:R_kgDONQtm5w": {
         "key": "traffic:R_kgDONQtm5w",
-        "failedAt": 1784294640894,
-        "attempts": 49,
+        "failedAt": 1784380216517,
+        "attempts": 50,
         "message": "Resource not accessible by personal access token - https://docs.github.com/rest/metrics/traffic#get-page-views"
       },
       "traffic:R_kgDONsww2Q": {
         "key": "traffic:R_kgDONsww2Q",
-        "failedAt": 1784294641304,
-        "attempts": 49,
+        "failedAt": 1784380216294,
+        "attempts": 50,
         "message": "Resource not accessible by personal access token - https://docs.github.com/rest/metrics/traffic#get-page-views"
       },
       "traffic:R_kgDONUIhvg": {
         "key": "traffic:R_kgDONUIhvg",
-        "failedAt": 1784294641341,
-        "attempts": 49,
+        "failedAt": 1784380217278,
+        "attempts": 50,
         "message": "Resource not accessible by personal access token - https://docs.github.com/rest/metrics/traffic#get-page-views"
       },
       "traffic:R_kgDONW1HlA": {
         "key": "traffic:R_kgDONW1HlA",
-        "failedAt": 1784294643085,
-        "attempts": 49,
+        "failedAt": 1784380218107,
+        "attempts": 50,
         "message": "Resource not accessible by personal access token - https://docs.github.com/rest/metrics/traffic#get-page-views"
       },
       "traffic:R_kgDONZXnRA": {
         "key": "traffic:R_kgDONZXnRA",
-        "failedAt": 1784294649277,
-        "attempts": 49,
+        "failedAt": 1784380223909,
+        "attempts": 50,
         "message": "Resource not accessible by personal access token - https://docs.github.com/rest/metrics/traffic#get-page-views"
       },
       "traffic:R_kgDOQHs_HQ": {
         "key": "traffic:R_kgDOQHs_HQ",
-        "failedAt": 1784294651128,
-        "attempts": 49,
+        "failedAt": 1784380225939,
+        "attempts": 50,
         "message": "Resource not accessible by personal access token - https://docs.github.com/rest/metrics/traffic#get-page-views"
       },
       "traffic:R_kgDOP-tBDw": {
         "key": "traffic:R_kgDOP-tBDw",
-        "failedAt": 1784294649429,
-        "attempts": 49,
+        "failedAt": 1784380224954,
+        "attempts": 50,
         "message": "Resource not accessible by personal access token - https://docs.github.com/rest/metrics/traffic#get-page-views"
       },
       "traffic:R_kgDOO8fkkw": {
         "key": "traffic:R_kgDOO8fkkw",
-        "failedAt": 1784294649391,
-        "attempts": 49,
+        "failedAt": 1784380224365,
+        "attempts": 50,
         "message": "Resource not accessible by personal access token - https://docs.github.com/rest/metrics/traffic#get-page-views"
       },
       "traffic:R_kgDOQyaCYw": {
         "key": "traffic:R_kgDOQyaCYw",
-        "failedAt": 1784294657388,
-        "attempts": 49,
+        "failedAt": 1784380231676,
+        "attempts": 50,
         "message": "Resource not accessible by personal access token - https://docs.github.com/rest/metrics/traffic#get-page-views"
       },
       "traffic:R_kgDOQWH5SA": {
         "key": "traffic:R_kgDOQWH5SA",
-        "failedAt": 1784294657812,
-        "attempts": 49,
+        "failedAt": 1784380232675,
+        "attempts": 50,
         "message": "Resource not accessible by personal access token - https://docs.github.com/rest/metrics/traffic#get-page-views"
       },
       "traffic:R_kgDORtdsFw": {
         "key": "traffic:R_kgDORtdsFw",
-        "failedAt": 1784294657572,
-        "attempts": 49,
+        "failedAt": 1784380232382,
+        "attempts": 50,
         "message": "Resource not accessible by personal access token - https://docs.github.com/rest/metrics/traffic#get-page-views"
       },
       "traffic:R_kgDOP_rqbg": {
         "key": "traffic:R_kgDOP_rqbg",
-        "failedAt": 1784294659322,
-        "attempts": 49,
+        "failedAt": 1784380233794,
+        "attempts": 50,
         "message": "Resource not accessible by personal access token - https://docs.github.com/rest/metrics/traffic#get-page-views"
       },
       "traffic:R_kgDOM4EzFw": {
         "key": "traffic:R_kgDOM4EzFw",
-        "failedAt": 1784294665507,
-        "attempts": 49,
+        "failedAt": 1784380239500,
+        "attempts": 50,
         "message": "Resource not accessible by personal access token - https://docs.github.com/rest/metrics/traffic#get-page-views"
       },
       "traffic:R_kgDONr0HNw": {
         "key": "traffic:R_kgDONr0HNw",
-        "failedAt": 1784294665567,
-        "attempts": 49,
+        "failedAt": 1784380239967,
+        "attempts": 50,
         "message": "Resource not accessible by personal access token - https://docs.github.com/rest/metrics/traffic#get-page-views"
       }
     }

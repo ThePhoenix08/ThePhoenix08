@@ -10,11 +10,11 @@
   "websiteUrl": "https://portfolio-v2-gold-psi.vercel.app/",
   "createdAt": "2021-06-26T15:18:24Z",
   "repoViews": 0,
-  "linesOfCodeChanged": 1664604,
-  "linesAdded": 598581,
-  "linesDeleted": 1066023,
-  "commitCount": 1000,
-  "totalCommits": 967,
+  "linesOfCodeChanged": 1668592,
+  "linesAdded": 599447,
+  "linesDeleted": 1069145,
+  "commitCount": 1001,
+  "totalCommits": 968,
   "totalPullRequests": 24,
   "totalPullRequestReviews": 0,
   "codeByteTotal": 30161771,
@@ -136,14 +136,14 @@
   "repositoriesContributedTo": 2,
   "discussionsStarted": 0,
   "discussionsAnswered": 0,
-  "totalContributions": 1046,
+  "totalContributions": 1047,
   "contributionStats": {
     "longestStreak": 144,
-    "currentStreak": 36,
+    "currentStreak": 37,
     "mostActiveDay": "Saturday",
-    "averagePerDay": 0.56,
-    "averagePerWeek": 3.95,
-    "averagePerMonth": 16.94,
+    "averagePerDay": 0.57,
+    "averagePerWeek": 3.96,
+    "averagePerMonth": 16.95,
     "monthlyBreakdown": [
       {
         "month": "2021-06",
@@ -391,7 +391,7 @@
       },
       {
         "month": "2026-07",
-        "contributions": 17
+        "contributions": 18
       }
     ],
     "yearlyBreakdown": [
@@ -417,7 +417,7 @@
       },
       {
         "year": "2026",
-        "contributions": 330
+        "contributions": 331
       }
     ],
     "peakDay": {
@@ -435,7 +435,7 @@
     "activeRepos": 11,
     "reposWithStars": 12,
     "reposCreatedThisYear": 2,
-    "averageStarsPerRepo": 15.92
+    "averageStarsPerRepo": 15.88
   },
   "computedStats": {
     "totalRepos": 51,
@@ -447,7 +447,7 @@
     "activeRepos": 11,
     "reposWithStars": 12,
     "reposCreatedThisYear": 2,
-    "averageStarsPerRepo": 15.92,
+    "averageStarsPerRepo": 15.88,
     "languageCount": 18,
     "primaryLanguage": "JavaScript",
     "primaryLanguageThisYear": "JavaScript",
@@ -653,23 +653,23 @@
       "vs-code",
       "web-development"
     ],
-    "contributionsThisYear": 330,
+    "contributionsThisYear": 331,
     "contributionsLastYear": 409,
-    "yearOverYearGrowth": -19.32,
+    "yearOverYearGrowth": -19.07,
     "mostProductiveMonth": {
       "month": "2025-01",
       "contributions": 143
     }
   },
   "contributionsCollection": {
-    "totalCommitContributions": 967,
+    "totalCommitContributions": 968,
     "restrictedContributionsCount": 0,
     "totalIssueContributions": 16,
     "totalRepositoryContributions": 38,
     "totalPullRequestContributions": 24,
     "totalPullRequestReviewContributions": 0,
     "contributionCalendar": {
-      "totalContributions": 1046,
+      "totalContributions": 1047,
       "weeks": [
         {
           "contributionDays": [
@@ -9150,8 +9150,12 @@
               "date": "2026-07-16"
             },
             {
-              "contributionCount": 0,
+              "contributionCount": 1,
               "date": "2026-07-17"
+            },
+            {
+              "contributionCount": 0,
+              "date": "2026-07-18"
             }
           ]
         }
@@ -9302,9 +9306,9 @@
   ],
   "closedIssues": 13,
   "openIssues": 3,
-  "fetchedAt": 1784294665569,
+  "fetchedAt": 1784380239969,
   "schemaVersion": 2,
-  "generatedAt": "2026-07-17T13:24:25.569Z",
+  "generatedAt": "2026-07-18T13:10:39.969Z",
   "profile": {
     "name": "Vighnesh Brahme",
     "login": "ThePhoenix08",
@@ -9320,15 +9324,15 @@
     "following": 18
   },
   "profileContributions": {
-    "totalContributions": 1046,
-    "totalCommitContributions": 967,
+    "totalContributions": 1047,
+    "totalCommitContributions": 968,
     "restrictedContributionsCount": 0,
     "totalIssueContributions": 16,
     "totalRepositoryContributions": 38,
     "totalPullRequestContributions": 24,
     "totalPullRequestReviewContributions": 0,
     "contributionCalendar": {
-      "totalContributions": 1046,
+      "totalContributions": 1047,
       "weeks": [
         {
           "contributionDays": [
@@ -17809,8 +17813,12 @@
               "date": "2026-07-16"
             },
             {
-              "contributionCount": 0,
+              "contributionCount": 1,
               "date": "2026-07-17"
+            },
+            {
+              "contributionCount": 0,
+              "date": "2026-07-18"
             }
           ]
         }
@@ -17818,11 +17826,11 @@
     },
     "stats": {
       "longestStreak": 144,
-      "currentStreak": 36,
+      "currentStreak": 37,
       "mostActiveDay": "Saturday",
-      "averagePerDay": 0.56,
-      "averagePerWeek": 3.95,
-      "averagePerMonth": 16.94,
+      "averagePerDay": 0.57,
+      "averagePerWeek": 3.96,
+      "averagePerMonth": 16.95,
       "monthlyBreakdown": [
         {
           "month": "2021-06",
@@ -18070,7 +18078,7 @@
         },
         {
           "month": "2026-07",
-          "contributions": 17
+          "contributions": 18
         }
       ],
       "yearlyBreakdown": [
@@ -18096,7 +18104,7 @@
         },
         {
           "year": "2026",
-          "contributions": 330
+          "contributions": 331
         }
       ],
       "peakDay": {
@@ -18105,6 +18113,42 @@
       }
     },
     "repositoryContributions": [
+      {
+        "repositoryId": "R_kgDONr0HNw",
+        "nameWithOwner": "712Kunal/Classroom.io",
+        "owner": "712Kunal",
+        "counts": {
+          "commits": 126,
+          "issues": 0,
+          "pullRequests": 4,
+          "pullRequestReviews": 0,
+          "repositoryCreations": 0
+        }
+      },
+      {
+        "repositoryId": "R_kgDOQWH5SA",
+        "nameWithOwner": "712Kunal/Pathify",
+        "owner": "712Kunal",
+        "counts": {
+          "commits": 5,
+          "issues": 0,
+          "pullRequests": 0,
+          "pullRequestReviews": 0,
+          "repositoryCreations": 0
+        }
+      },
+      {
+        "repositoryId": "R_kgDONJgs7A",
+        "nameWithOwner": "Anwishta/ShopSphere",
+        "owner": "Anwishta",
+        "counts": {
+          "commits": 14,
+          "issues": 4,
+          "pullRequests": 5,
+          "pullRequestReviews": 0,
+          "repositoryCreations": 0
+        }
+      },
       {
         "repositoryId": "R_kgDOJ6Wptw",
         "nameWithOwner": "apu52/METAVERSE",
@@ -18134,9 +18178,45 @@
         "nameWithOwner": "codeaashu/DevDisplay",
         "owner": "codeaashu",
         "counts": {
-          "commits": 1,
+          "commits": 13,
           "issues": 1,
-          "pullRequests": 1,
+          "pullRequests": 3,
+          "pullRequestReviews": 0,
+          "repositoryCreations": 0
+        }
+      },
+      {
+        "repositoryId": "R_kgDONiKnXw",
+        "nameWithOwner": "divyanshg03/Tiffin_Fusion",
+        "owner": "divyanshg03",
+        "counts": {
+          "commits": 12,
+          "issues": 0,
+          "pullRequests": 0,
+          "pullRequestReviews": 0,
+          "repositoryCreations": 0
+        }
+      },
+      {
+        "repositoryId": "R_kgDOP_rqbg",
+        "nameWithOwner": "Drkadam07/EMERGE",
+        "owner": "Drkadam07",
+        "counts": {
+          "commits": 16,
+          "issues": 0,
+          "pullRequests": 0,
+          "pullRequestReviews": 0,
+          "repositoryCreations": 0
+        }
+      },
+      {
+        "repositoryId": "R_kgDOMlGGww",
+        "nameWithOwner": "Mahak008/HungryBox",
+        "owner": "Mahak008",
+        "counts": {
+          "commits": 13,
+          "issues": 4,
+          "pullRequests": 4,
           "pullRequestReviews": 0,
           "repositoryCreations": 0
         }
@@ -18178,6 +18258,18 @@
         }
       },
       {
+        "repositoryId": "R_kgDOM1WHMQ",
+        "nameWithOwner": "saismrutiranjan18/Tiffin_Fusion",
+        "owner": "saismrutiranjan18",
+        "counts": {
+          "commits": 12,
+          "issues": 1,
+          "pullRequests": 1,
+          "pullRequestReviews": 0,
+          "repositoryCreations": 0
+        }
+      },
+      {
         "repositoryId": "R_kgDOM6ORgw",
         "nameWithOwner": "ThePhoenix08/Access_Denied",
         "owner": "ThePhoenix08",
@@ -18206,7 +18298,7 @@
         "nameWithOwner": "ThePhoenix08/ai-trip-planner-2",
         "owner": "ThePhoenix08",
         "counts": {
-          "commits": 16,
+          "commits": 18,
           "issues": 0,
           "pullRequests": 0,
           "pullRequestReviews": 0,
@@ -18219,6 +18311,30 @@
         "owner": "ThePhoenix08",
         "counts": {
           "commits": 0,
+          "issues": 0,
+          "pullRequests": 0,
+          "pullRequestReviews": 0,
+          "repositoryCreations": 1
+        }
+      },
+      {
+        "repositoryId": "R_kgDOO8fkkw",
+        "nameWithOwner": "ThePhoenix08/archeo",
+        "owner": "ThePhoenix08",
+        "counts": {
+          "commits": 90,
+          "issues": 0,
+          "pullRequests": 0,
+          "pullRequestReviews": 0,
+          "repositoryCreations": 1
+        }
+      },
+      {
+        "repositoryId": "R_kgDOP-tBDw",
+        "nameWithOwner": "ThePhoenix08/audio-cnn",
+        "owner": "ThePhoenix08",
+        "counts": {
+          "commits": 1,
           "issues": 0,
           "pullRequests": 0,
           "pullRequestReviews": 0,
@@ -18252,6 +18368,18 @@
       {
         "repositoryId": "R_kgDONW1HlA",
         "nameWithOwner": "ThePhoenix08/chessed",
+        "owner": "ThePhoenix08",
+        "counts": {
+          "commits": 0,
+          "issues": 0,
+          "pullRequests": 0,
+          "pullRequestReviews": 0,
+          "repositoryCreations": 1
+        }
+      },
+      {
+        "repositoryId": "R_kgDONsww2Q",
+        "nameWithOwner": "ThePhoenix08/Classroom.io",
         "owner": "ThePhoenix08",
         "counts": {
           "commits": 0,
@@ -18302,7 +18430,7 @@
         "nameWithOwner": "ThePhoenix08/expense-tracker",
         "owner": "ThePhoenix08",
         "counts": {
-          "commits": 14,
+          "commits": 15,
           "issues": 0,
           "pullRequests": 0,
           "pullRequestReviews": 0,
@@ -18346,11 +18474,23 @@
         }
       },
       {
+        "repositoryId": "R_kgDONnex_Q",
+        "nameWithOwner": "ThePhoenix08/HungryBox",
+        "owner": "ThePhoenix08",
+        "counts": {
+          "commits": 0,
+          "issues": 0,
+          "pullRequests": 0,
+          "pullRequestReviews": 0,
+          "repositoryCreations": 1
+        }
+      },
+      {
         "repositoryId": "R_kgDOMUh61w",
         "nameWithOwner": "ThePhoenix08/mern-blog",
         "owner": "ThePhoenix08",
         "counts": {
-          "commits": 33,
+          "commits": 34,
           "issues": 0,
           "pullRequests": 0,
           "pullRequestReviews": 0,
@@ -18382,6 +18522,18 @@
         }
       },
       {
+        "repositoryId": "R_kgDOQHs_HQ",
+        "nameWithOwner": "ThePhoenix08/musimo",
+        "owner": "ThePhoenix08",
+        "counts": {
+          "commits": 119,
+          "issues": 0,
+          "pullRequests": 0,
+          "pullRequestReviews": 0,
+          "repositoryCreations": 1
+        }
+      },
+      {
         "repositoryId": "R_kgDONjJPww",
         "nameWithOwner": "ThePhoenix08/OnlineBookSales",
         "owner": "ThePhoenix08",
@@ -18398,7 +18550,19 @@
         "nameWithOwner": "ThePhoenix08/open-graph-visualizer",
         "owner": "ThePhoenix08",
         "counts": {
-          "commits": 4,
+          "commits": 10,
+          "issues": 0,
+          "pullRequests": 0,
+          "pullRequestReviews": 0,
+          "repositoryCreations": 1
+        }
+      },
+      {
+        "repositoryId": "R_kgDON2gERQ",
+        "nameWithOwner": "ThePhoenix08/pathify",
+        "owner": "ThePhoenix08",
+        "counts": {
+          "commits": 1,
           "issues": 0,
           "pullRequests": 0,
           "pullRequestReviews": 0,
@@ -18422,7 +18586,19 @@
         "nameWithOwner": "ThePhoenix08/portfolio-v2",
         "owner": "ThePhoenix08",
         "counts": {
-          "commits": 21,
+          "commits": 23,
+          "issues": 0,
+          "pullRequests": 0,
+          "pullRequestReviews": 0,
+          "repositoryCreations": 1
+        }
+      },
+      {
+        "repositoryId": "R_kgDORtdsFw",
+        "nameWithOwner": "ThePhoenix08/prakalp-pm",
+        "owner": "ThePhoenix08",
+        "counts": {
+          "commits": 5,
           "issues": 0,
           "pullRequests": 0,
           "pullRequestReviews": 0,
@@ -18442,8 +18618,56 @@
         }
       },
       {
+        "repositoryId": "R_kgDONnf61w",
+        "nameWithOwner": "ThePhoenix08/react-blog",
+        "owner": "ThePhoenix08",
+        "counts": {
+          "commits": 0,
+          "issues": 0,
+          "pullRequests": 0,
+          "pullRequestReviews": 0,
+          "repositoryCreations": 1
+        }
+      },
+      {
+        "repositoryId": "R_kgDOQyaCYw",
+        "nameWithOwner": "ThePhoenix08/sankey-arise",
+        "owner": "ThePhoenix08",
+        "counts": {
+          "commits": 17,
+          "issues": 0,
+          "pullRequests": 0,
+          "pullRequestReviews": 0,
+          "repositoryCreations": 1
+        }
+      },
+      {
+        "repositoryId": "R_kgDONnfmzQ",
+        "nameWithOwner": "ThePhoenix08/ShopSphere",
+        "owner": "ThePhoenix08",
+        "counts": {
+          "commits": 0,
+          "issues": 0,
+          "pullRequests": 0,
+          "pullRequestReviews": 0,
+          "repositoryCreations": 1
+        }
+      },
+      {
         "repositoryId": "R_kgDONZXnRA",
         "nameWithOwner": "ThePhoenix08/Shortify",
+        "owner": "ThePhoenix08",
+        "counts": {
+          "commits": 0,
+          "issues": 0,
+          "pullRequests": 0,
+          "pullRequestReviews": 0,
+          "repositoryCreations": 1
+        }
+      },
+      {
+        "repositoryId": "R_kgDONowetg",
+        "nameWithOwner": "ThePhoenix08/SocioSell",
         "owner": "ThePhoenix08",
         "counts": {
           "commits": 0,
@@ -18470,7 +18694,19 @@
         "nameWithOwner": "ThePhoenix08/ThePhoenix08",
         "owner": "ThePhoenix08",
         "counts": {
-          "commits": 14,
+          "commits": 262,
+          "issues": 0,
+          "pullRequests": 0,
+          "pullRequestReviews": 0,
+          "repositoryCreations": 1
+        }
+      },
+      {
+        "repositoryId": "R_kgDONohWkA",
+        "nameWithOwner": "ThePhoenix08/Tiffin_Fusion",
+        "owner": "ThePhoenix08",
+        "counts": {
+          "commits": 0,
           "issues": 0,
           "pullRequests": 0,
           "pullRequestReviews": 0,
@@ -18575,13 +18811,13 @@
         "affiliated"
       ],
       "contributionCounts": {
-        "commits": 0,
+        "commits": 126,
         "issues": 0,
-        "pullRequests": 0,
+        "pullRequests": 4,
         "pullRequestReviews": 0,
         "repositoryCreations": 0
       },
-      "metadataFetchedAt": 1784209494055
+      "metadataFetchedAt": 1784380145274
     },
     {
       "id": "R_kgDOQWH5SA",
@@ -18620,13 +18856,13 @@
         "contributed"
       ],
       "contributionCounts": {
-        "commits": 0,
+        "commits": 5,
         "issues": 0,
         "pullRequests": 0,
         "pullRequestReviews": 0,
         "repositoryCreations": 0
       },
-      "metadataFetchedAt": 1784209494937
+      "metadataFetchedAt": 1784380146254
     },
     {
       "id": "R_kgDONJgs7A",
@@ -18675,13 +18911,13 @@
         "cache"
       ],
       "contributionCounts": {
-        "commits": 0,
-        "issues": 0,
-        "pullRequests": 0,
+        "commits": 14,
+        "issues": 4,
+        "pullRequests": 5,
         "pullRequestReviews": 0,
         "repositoryCreations": 0
       },
-      "metadataFetchedAt": 1784209494055
+      "metadataFetchedAt": 1784380145274
     },
     {
       "id": "R_kgDOJ6Wptw",
@@ -18877,11 +19113,11 @@
       "visibility": "PUBLIC",
       "viewerPermission": "READ",
       "createdAt": "2024-09-13T12:12:42Z",
-      "updatedAt": "2026-05-29T11:48:19Z",
+      "updatedAt": "2026-07-15T08:42:35Z",
       "pushedAt": "2026-05-08T06:31:37Z",
       "defaultBranchOid": "e1ce099f73afbcd99c2d05821ddad17dd51dc17d",
-      "stars": 335,
-      "forks": 475,
+      "stars": 333,
+      "forks": 469,
       "primaryLanguage": "JavaScript",
       "topics": [
         "dev-display",
@@ -18935,13 +19171,13 @@
         "cache"
       ],
       "contributionCounts": {
-        "commits": 0,
+        "commits": 12,
         "issues": 0,
-        "pullRequests": 0,
+        "pullRequests": 2,
         "pullRequestReviews": 0,
         "repositoryCreations": 0
       },
-      "metadataFetchedAt": 1780068106719
+      "metadataFetchedAt": 1784380145274
     },
     {
       "id": "R_kgDONiKnXw",
@@ -18996,13 +19232,13 @@
         "cache"
       ],
       "contributionCounts": {
-        "commits": 0,
+        "commits": 12,
         "issues": 0,
         "pullRequests": 0,
         "pullRequestReviews": 0,
         "repositoryCreations": 0
       },
-      "metadataFetchedAt": 1784209494055
+      "metadataFetchedAt": 1784380145274
     },
     {
       "id": "R_kgDOP_rqbg",
@@ -19059,13 +19295,13 @@
         "contributed"
       ],
       "contributionCounts": {
-        "commits": 0,
+        "commits": 16,
         "issues": 0,
         "pullRequests": 0,
         "pullRequestReviews": 0,
         "repositoryCreations": 0
       },
-      "metadataFetchedAt": 1784209494055
+      "metadataFetchedAt": 1784380145274
     },
     {
       "id": "R_kgDOMlGGww",
@@ -19132,13 +19368,13 @@
         "cache"
       ],
       "contributionCounts": {
-        "commits": 0,
-        "issues": 0,
-        "pullRequests": 0,
+        "commits": 13,
+        "issues": 4,
+        "pullRequests": 4,
         "pullRequestReviews": 0,
         "repositoryCreations": 0
       },
-      "metadataFetchedAt": 1784209494055
+      "metadataFetchedAt": 1784380145274
     },
     {
       "id": "R_kgDOLU2t_Q",
@@ -19386,13 +19622,13 @@
         "cache"
       ],
       "contributionCounts": {
-        "commits": 0,
-        "issues": 0,
-        "pullRequests": 0,
+        "commits": 12,
+        "issues": 1,
+        "pullRequests": 1,
         "pullRequestReviews": 0,
         "repositoryCreations": 0
       },
-      "metadataFetchedAt": 1784209494055
+      "metadataFetchedAt": 1784380145274
     },
     {
       "id": "R_kgDOM6ORgw",
@@ -19560,13 +19796,13 @@
         "owned"
       ],
       "contributionCounts": {
-        "commits": 0,
+        "commits": 2,
         "issues": 0,
         "pullRequests": 0,
         "pullRequestReviews": 0,
         "repositoryCreations": 0
       },
-      "metadataFetchedAt": 1780068106719
+      "metadataFetchedAt": 1784380146254
     },
     {
       "id": "R_kgDONjI9DA",
@@ -19684,13 +19920,13 @@
         "owned"
       ],
       "contributionCounts": {
-        "commits": 0,
+        "commits": 90,
         "issues": 0,
         "pullRequests": 0,
         "pullRequestReviews": 0,
-        "repositoryCreations": 0
+        "repositoryCreations": 1
       },
-      "metadataFetchedAt": 1784209494055
+      "metadataFetchedAt": 1784380145274
     },
     {
       "id": "R_kgDOP-tBDw",
@@ -19734,13 +19970,13 @@
         "owned"
       ],
       "contributionCounts": {
-        "commits": 0,
+        "commits": 1,
         "issues": 0,
         "pullRequests": 0,
         "pullRequestReviews": 0,
-        "repositoryCreations": 0
+        "repositoryCreations": 1
       },
-      "metadataFetchedAt": 1784209494055
+      "metadataFetchedAt": 1784380145274
     },
     {
       "id": "R_kgDONgf6VA",
@@ -19962,9 +20198,9 @@
         "issues": 0,
         "pullRequests": 0,
         "pullRequestReviews": 0,
-        "repositoryCreations": 0
+        "repositoryCreations": 1
       },
-      "metadataFetchedAt": 1784209494055
+      "metadataFetchedAt": 1784380145274
     },
     {
       "id": "R_kgDOMOC5Jg",
@@ -20169,13 +20405,13 @@
         "owned"
       ],
       "contributionCounts": {
-        "commits": 0,
+        "commits": 1,
         "issues": 0,
         "pullRequests": 0,
         "pullRequestReviews": 0,
         "repositoryCreations": 0
       },
-      "metadataFetchedAt": 1780068106719
+      "metadataFetchedAt": 1784380146254
     },
     {
       "id": "R_kgDOMM_Y-Q",
@@ -20415,9 +20651,9 @@
         "issues": 0,
         "pullRequests": 0,
         "pullRequestReviews": 0,
-        "repositoryCreations": 0
+        "repositoryCreations": 1
       },
-      "metadataFetchedAt": 1784209494055
+      "metadataFetchedAt": 1784380145274
     },
     {
       "id": "R_kgDOMUh61w",
@@ -20473,13 +20709,13 @@
         "owned"
       ],
       "contributionCounts": {
-        "commits": 0,
+        "commits": 1,
         "issues": 0,
         "pullRequests": 0,
         "pullRequestReviews": 0,
         "repositoryCreations": 0
       },
-      "metadataFetchedAt": 1780068106719
+      "metadataFetchedAt": 1784380145274
     },
     {
       "id": "R_kgDONagNiw",
@@ -20719,13 +20955,13 @@
         "owned"
       ],
       "contributionCounts": {
-        "commits": 0,
+        "commits": 119,
         "issues": 0,
         "pullRequests": 0,
         "pullRequestReviews": 0,
-        "repositoryCreations": 0
+        "repositoryCreations": 1
       },
-      "metadataFetchedAt": 1784209494937
+      "metadataFetchedAt": 1784380146254
     },
     {
       "id": "R_kgDONjJPww",
@@ -20849,13 +21085,13 @@
         "owned"
       ],
       "contributionCounts": {
-        "commits": 0,
+        "commits": 6,
         "issues": 0,
         "pullRequests": 0,
         "pullRequestReviews": 0,
         "repositoryCreations": 0
       },
-      "metadataFetchedAt": 1780068106719
+      "metadataFetchedAt": 1784380145274
     },
     {
       "id": "R_kgDON2gERQ",
@@ -20911,13 +21147,13 @@
         "owned"
       ],
       "contributionCounts": {
-        "commits": 0,
+        "commits": 1,
         "issues": 0,
         "pullRequests": 0,
         "pullRequestReviews": 0,
-        "repositoryCreations": 0
+        "repositoryCreations": 1
       },
-      "metadataFetchedAt": 1784209494055
+      "metadataFetchedAt": 1784380145274
     },
     {
       "id": "R_kgDOLfSpfA",
@@ -21029,13 +21265,13 @@
         "owned"
       ],
       "contributionCounts": {
-        "commits": 0,
+        "commits": 2,
         "issues": 0,
         "pullRequests": 0,
         "pullRequestReviews": 0,
         "repositoryCreations": 0
       },
-      "metadataFetchedAt": 1780068106719
+      "metadataFetchedAt": 1784380145274
     },
     {
       "id": "R_kgDORtdsFw",
@@ -21091,13 +21327,13 @@
         "owned"
       ],
       "contributionCounts": {
-        "commits": 0,
+        "commits": 5,
         "issues": 0,
         "pullRequests": 0,
         "pullRequestReviews": 0,
-        "repositoryCreations": 0
+        "repositoryCreations": 1
       },
-      "metadataFetchedAt": 1784209494937
+      "metadataFetchedAt": 1784380146254
     },
     {
       "id": "R_kgDOM08ORA",
@@ -21213,9 +21449,9 @@
         "issues": 0,
         "pullRequests": 0,
         "pullRequestReviews": 0,
-        "repositoryCreations": 0
+        "repositoryCreations": 1
       },
-      "metadataFetchedAt": 1784209494055
+      "metadataFetchedAt": 1784380145274
     },
     {
       "id": "R_kgDOQyaCYw",
@@ -21271,13 +21507,13 @@
         "owned"
       ],
       "contributionCounts": {
-        "commits": 0,
+        "commits": 17,
         "issues": 0,
         "pullRequests": 0,
         "pullRequestReviews": 0,
-        "repositoryCreations": 0
+        "repositoryCreations": 1
       },
-      "metadataFetchedAt": 1784209494937
+      "metadataFetchedAt": 1784380146254
     },
     {
       "id": "R_kgDONnfmzQ",
@@ -21331,9 +21567,9 @@
         "issues": 0,
         "pullRequests": 0,
         "pullRequestReviews": 0,
-        "repositoryCreations": 0
+        "repositoryCreations": 1
       },
-      "metadataFetchedAt": 1784209494055
+      "metadataFetchedAt": 1784380145274
     },
     {
       "id": "R_kgDONZXnRA",
@@ -21455,9 +21691,9 @@
         "issues": 0,
         "pullRequests": 0,
         "pullRequestReviews": 0,
-        "repositoryCreations": 0
+        "repositoryCreations": 1
       },
-      "metadataFetchedAt": 1784209494055
+      "metadataFetchedAt": 1784380145274
     },
     {
       "id": "R_kgDONgkRTw",
@@ -21535,9 +21771,9 @@
       "visibility": "PUBLIC",
       "viewerPermission": "ADMIN",
       "createdAt": "2024-04-28T13:26:34Z",
-      "updatedAt": "2026-07-16T19:16:50Z",
-      "pushedAt": "2026-07-17T05:55:56Z",
-      "defaultBranchOid": "39b47bdf2d988331f8d6f8d3bef089a22cbd9a15",
+      "updatedAt": "2026-07-17T19:13:08Z",
+      "pushedAt": "2026-07-18T05:36:22Z",
+      "defaultBranchOid": "041e3dbc6ca1272e5cc760539e3f3c7ad1e465a8",
       "stars": 0,
       "forks": 0,
       "primaryLanguage": null,
@@ -21550,13 +21786,13 @@
         "owned"
       ],
       "contributionCounts": {
-        "commits": 0,
+        "commits": 248,
         "issues": 0,
         "pullRequests": 0,
         "pullRequestReviews": 0,
         "repositoryCreations": 0
       },
-      "metadataFetchedAt": 1784294571191
+      "metadataFetchedAt": 1784380146254
     },
     {
       "id": "R_kgDONohWkA",
@@ -21616,9 +21852,9 @@
         "issues": 0,
         "pullRequests": 0,
         "pullRequestReviews": 0,
-        "repositoryCreations": 0
+        "repositoryCreations": 1
       },
-      "metadataFetchedAt": 1784209494055
+      "metadataFetchedAt": 1784380145274
     },
     {
       "id": "R_kgDOLcnKig",
@@ -21874,10 +22110,10 @@
       }
     ],
     "contributorStats": {
-      "totalCommits": 1000,
-      "linesAdded": 598581,
-      "linesDeleted": 1066023,
-      "linesOfCodeChanged": 1664604,
+      "totalCommits": 1001,
+      "linesAdded": 599447,
+      "linesDeleted": 1069145,
+      "linesOfCodeChanged": 1668592,
       "reposCompleted": 51,
       "reposPending": 0,
       "reposFailed": 0
@@ -21899,7 +22135,7 @@
       "activeRepos": 11,
       "reposWithStars": 12,
       "reposCreatedThisYear": 2,
-      "averageStarsPerRepo": 15.92
+      "averageStarsPerRepo": 15.88
     },
     "computedStats": {
       "totalRepos": 51,
@@ -21911,7 +22147,7 @@
       "activeRepos": 11,
       "reposWithStars": 12,
       "reposCreatedThisYear": 2,
-      "averageStarsPerRepo": 15.92,
+      "averageStarsPerRepo": 15.88,
       "languageCount": 18,
       "primaryLanguage": "JavaScript",
       "primaryLanguageThisYear": "JavaScript",
@@ -22117,9 +22353,9 @@
         "vs-code",
         "web-development"
       ],
-      "contributionsThisYear": 330,
+      "contributionsThisYear": 331,
       "contributionsLastYear": 409,
-      "yearOverYearGrowth": -19.32,
+      "yearOverYearGrowth": -19.07,
       "mostProductiveMonth": {
         "month": "2025-01",
         "contributions": 143
@@ -22130,8 +22366,8 @@
     "readmeSummary": {
       "name": "Vighnesh Brahme",
       "username": "ThePhoenix08",
-      "totalContributions": 1046,
-      "currentStreak": 36,
+      "totalContributions": 1047,
+      "currentStreak": 37,
       "longestStreak": 144,
       "topLanguages": [
         {
@@ -22168,7 +22404,7 @@
       "starsReceived": 1,
       "forksReceived": 8,
       "activeRepos": 11,
-      "refreshedAt": "2026-07-17T13:24:25.569Z",
+      "refreshedAt": "2026-07-18T13:10:39.969Z",
       "complete": false
     },
     "cards": [
@@ -22180,7 +22416,7 @@
       {
         "id": "current-streak",
         "label": "Current streak",
-        "value": "36 days"
+        "value": "37 days"
       },
       {
         "id": "languages",
@@ -22222,7 +22458,7 @@
       },
       {
         "period": "2026",
-        "contributions": 330
+        "contributions": 331
       }
     ],
     "highlights": [
@@ -22282,9 +22518,9 @@
     "redactedOptionalMetrics": 0
   },
   "collectionStatus": {
-    "startedAt": 1784294565327,
-    "finishedAt": 1784294665569,
-    "durationMs": 100242,
+    "startedAt": 1784380144029,
+    "finishedAt": 1784380239969,
+    "durationMs": 95940,
     "coreComplete": true,
     "complete": false,
     "cache": {
@@ -22292,8 +22528,8 @@
       "volatilePath": ".github-profile-stats/volatile-cache.json",
       "contributionYearsFromCache": 4,
       "contributionYearsFetched": 2,
-      "repositoriesFromCache": 41,
-      "repositoriesFetched": 1
+      "repositoriesFromCache": 42,
+      "repositoriesFetched": 0
     },
     "backfill": {
       "enabled": true,
@@ -22305,33 +22541,33 @@
     "rateLimit": {
       "graphql": {
         "limit": 5000,
-        "remaining": 4990,
-        "used": 10,
-        "resetAt": "2026-07-17T14:22:45Z"
+        "remaining": 4991,
+        "used": 9,
+        "resetAt": "2026-07-18T14:09:04Z"
       },
       "rest": {
         "limit": 5000,
         "remaining": 4998,
         "used": 2,
-        "resetAt": "2026-07-17T14:22:56.000Z"
+        "resetAt": "2026-07-18T14:09:14.000Z"
       }
     },
     "warnings": [
       "traffic ThePhoenix08/C-projects returned 403; retrying in 1000ms",
-      "traffic ThePhoenix08/ThePhoenix08 returned 403; retrying in 1000ms",
       "traffic ThePhoenix08/to-do-app returned 403; retrying in 1000ms",
+      "traffic ThePhoenix08/ThePhoenix08 returned 403; retrying in 1000ms",
+      "traffic ThePhoenix08/to-do-app returned 403; retrying in 2000ms",
       "traffic ThePhoenix08/C-projects returned 403; retrying in 2000ms",
       "traffic ThePhoenix08/ThePhoenix08 returned 403; retrying in 2000ms",
-      "traffic ThePhoenix08/to-do-app returned 403; retrying in 2000ms",
       "traffic ThePhoenix08/movix-website returned 403; retrying in 1000ms",
       "traffic ThePhoenix08/movix-website returned 403; retrying in 2000ms",
+      "traffic ThePhoenix08/to-do-app returned 403; retrying in 4000ms",
       "traffic ThePhoenix08/C-projects returned 403; retrying in 4000ms",
       "traffic ThePhoenix08/ThePhoenix08 returned 403; retrying in 4000ms",
-      "traffic ThePhoenix08/to-do-app returned 403; retrying in 4000ms",
       "traffic ThePhoenix08/movix-website returned 403; retrying in 4000ms",
       "traffic ThePhoenix08/portfolio returned 403; retrying in 1000ms",
-      "traffic ThePhoenix08/Access_Denied returned 403; retrying in 1000ms",
       "traffic ThePhoenix08/profoundry returned 403; retrying in 1000ms",
+      "traffic ThePhoenix08/Access_Denied returned 403; retrying in 1000ms",
       "traffic ThePhoenix08/portfolio returned 403; retrying in 2000ms",
       "traffic ThePhoenix08/Access_Denied returned 403; retrying in 2000ms",
       "traffic ThePhoenix08/profoundry returned 403; retrying in 2000ms",
@@ -22345,21 +22581,21 @@
       "traffic ThePhoenix08/forage-jpmc-swe-task-1 returned 403; retrying in 1000ms",
       "traffic ThePhoenix08/forage-jpmc-swe-task-2 returned 403; retrying in 1000ms",
       "traffic ThePhoenix08/expense-tracker returned 403; retrying in 2000ms",
-      "traffic ThePhoenix08/forage-jpmc-swe-task-2 returned 403; retrying in 2000ms",
       "traffic ThePhoenix08/forage-jpmc-swe-task-1 returned 403; retrying in 2000ms",
       "traffic ThePhoenix08/CodSoft returned 403; retrying in 1000ms",
+      "traffic ThePhoenix08/forage-jpmc-swe-task-2 returned 403; retrying in 2000ms",
       "traffic ThePhoenix08/CodSoft returned 403; retrying in 2000ms",
       "traffic ThePhoenix08/expense-tracker returned 403; retrying in 4000ms",
-      "traffic ThePhoenix08/forage-jpmc-swe-task-2 returned 403; retrying in 4000ms",
       "traffic ThePhoenix08/forage-jpmc-swe-task-1 returned 403; retrying in 4000ms",
+      "traffic ThePhoenix08/forage-jpmc-swe-task-2 returned 403; retrying in 4000ms",
       "traffic ThePhoenix08/CodSoft returned 403; retrying in 4000ms",
       "traffic ThePhoenix08/forage-jpmc-swe-task-3 returned 403; retrying in 1000ms",
       "traffic ThePhoenix08/Codsoft-task-tracker-app returned 403; retrying in 1000ms",
       "traffic ThePhoenix08/portfolio-v2 returned 403; retrying in 1000ms",
       "traffic ThePhoenix08/forage-jpmc-swe-task-3 returned 403; retrying in 2000ms",
       "traffic ThePhoenix08/Codsoft-task-tracker-app returned 403; retrying in 2000ms",
-      "traffic ThePhoenix08/portfolio-v2 returned 403; retrying in 2000ms",
       "traffic ThePhoenix08/mern-blog returned 403; retrying in 1000ms",
+      "traffic ThePhoenix08/portfolio-v2 returned 403; retrying in 2000ms",
       "traffic ThePhoenix08/mern-blog returned 403; retrying in 2000ms",
       "traffic ThePhoenix08/forage-jpmc-swe-task-3 returned 403; retrying in 4000ms",
       "traffic ThePhoenix08/Codsoft-task-tracker-app returned 403; retrying in 4000ms",
@@ -22370,8 +22606,8 @@
       "traffic ThePhoenix08/Beautiify returned 403; retrying in 1000ms",
       "traffic ThePhoenix08/pathify returned 403; retrying in 2000ms",
       "traffic ThePhoenix08/METAVERSE returned 403; retrying in 2000ms",
-      "traffic ThePhoenix08/Beautiify returned 403; retrying in 2000ms",
       "traffic ThePhoenix08/TelMedSphere returned 403; retrying in 1000ms",
+      "traffic ThePhoenix08/Beautiify returned 403; retrying in 2000ms",
       "traffic ThePhoenix08/TelMedSphere returned 403; retrying in 2000ms",
       "traffic ThePhoenix08/pathify returned 403; retrying in 4000ms",
       "traffic ThePhoenix08/METAVERSE returned 403; retrying in 4000ms",
@@ -22382,11 +22618,11 @@
       "traffic ThePhoenix08/OnlineBookSales returned 403; retrying in 1000ms",
       "traffic ThePhoenix08/DevDisplay returned 403; retrying in 2000ms",
       "traffic ThePhoenix08/AnimateHub returned 403; retrying in 2000ms",
-      "traffic ThePhoenix08/OnlineBookSales returned 403; retrying in 2000ms",
       "traffic ThePhoenix08/HungryBox returned 403; retrying in 1000ms",
+      "traffic ThePhoenix08/OnlineBookSales returned 403; retrying in 2000ms",
       "traffic ThePhoenix08/HungryBox returned 403; retrying in 2000ms",
-      "traffic ThePhoenix08/DevDisplay returned 403; retrying in 4000ms",
       "traffic ThePhoenix08/AnimateHub returned 403; retrying in 4000ms",
+      "traffic ThePhoenix08/DevDisplay returned 403; retrying in 4000ms",
       "traffic ThePhoenix08/OnlineBookSales returned 403; retrying in 4000ms",
       "traffic ThePhoenix08/HungryBox returned 403; retrying in 4000ms",
       "traffic ThePhoenix08/react-blog returned 403; retrying in 1000ms",
@@ -22394,23 +22630,23 @@
       "traffic ThePhoenix08/Tiffin_Fusion returned 403; retrying in 1000ms",
       "traffic ThePhoenix08/react-blog returned 403; retrying in 2000ms",
       "traffic ThePhoenix08/ShopSphere returned 403; retrying in 2000ms",
-      "traffic ThePhoenix08/Tiffin_Fusion returned 403; retrying in 2000ms",
       "traffic ThePhoenix08/SocioSell returned 403; retrying in 1000ms",
-      "traffic ThePhoenix08/react-blog returned 403; retrying in 4000ms",
+      "traffic ThePhoenix08/Tiffin_Fusion returned 403; retrying in 2000ms",
       "traffic ThePhoenix08/SocioSell returned 403; retrying in 2000ms",
       "traffic ThePhoenix08/ShopSphere returned 403; retrying in 4000ms",
+      "traffic ThePhoenix08/react-blog returned 403; retrying in 4000ms",
       "traffic ThePhoenix08/Tiffin_Fusion returned 403; retrying in 4000ms",
       "traffic ThePhoenix08/SocioSell returned 403; retrying in 4000ms",
       "traffic ThePhoenix08/ai-trip-planner-2 returned 403; retrying in 1000ms",
       "traffic ThePhoenix08/Classroom.io returned 403; retrying in 1000ms",
       "traffic ThePhoenix08/open-graph-visualizer returned 403; retrying in 1000ms",
-      "traffic ThePhoenix08/ai-trip-planner-2 returned 403; retrying in 2000ms",
       "traffic ThePhoenix08/Classroom.io returned 403; retrying in 2000ms",
-      "traffic ThePhoenix08/open-graph-visualizer returned 403; retrying in 2000ms",
+      "traffic ThePhoenix08/ai-trip-planner-2 returned 403; retrying in 2000ms",
       "traffic ThePhoenix08/chessed returned 403; retrying in 1000ms",
+      "traffic ThePhoenix08/open-graph-visualizer returned 403; retrying in 2000ms",
       "traffic ThePhoenix08/chessed returned 403; retrying in 2000ms",
-      "traffic ThePhoenix08/ai-trip-planner-2 returned 403; retrying in 4000ms",
       "traffic ThePhoenix08/Classroom.io returned 403; retrying in 4000ms",
+      "traffic ThePhoenix08/ai-trip-planner-2 returned 403; retrying in 4000ms",
       "traffic ThePhoenix08/open-graph-visualizer returned 403; retrying in 4000ms",
       "traffic ThePhoenix08/chessed returned 403; retrying in 4000ms",
       "traffic ThePhoenix08/Shortify returned 403; retrying in 1000ms",
@@ -22418,20 +22654,20 @@
       "traffic ThePhoenix08/audio-cnn returned 403; retrying in 1000ms",
       "traffic ThePhoenix08/Shortify returned 403; retrying in 2000ms",
       "traffic ThePhoenix08/archeo returned 403; retrying in 2000ms",
-      "traffic ThePhoenix08/audio-cnn returned 403; retrying in 2000ms",
       "traffic ThePhoenix08/musimo returned 403; retrying in 1000ms",
+      "traffic ThePhoenix08/audio-cnn returned 403; retrying in 2000ms",
       "traffic ThePhoenix08/musimo returned 403; retrying in 2000ms",
       "traffic ThePhoenix08/Shortify returned 403; retrying in 4000ms",
-      "traffic ThePhoenix08/audio-cnn returned 403; retrying in 4000ms",
       "traffic ThePhoenix08/archeo returned 403; retrying in 4000ms",
+      "traffic ThePhoenix08/audio-cnn returned 403; retrying in 4000ms",
       "traffic ThePhoenix08/musimo returned 403; retrying in 4000ms",
       "traffic ThePhoenix08/sankey-arise returned 403; retrying in 1000ms",
       "traffic ThePhoenix08/prakalp-pm returned 403; retrying in 1000ms",
       "traffic 712Kunal/Pathify returned 403; retrying in 1000ms",
       "traffic ThePhoenix08/sankey-arise returned 403; retrying in 2000ms",
       "traffic ThePhoenix08/prakalp-pm returned 403; retrying in 2000ms",
-      "traffic 712Kunal/Pathify returned 403; retrying in 2000ms",
       "traffic Drkadam07/EMERGE returned 403; retrying in 1000ms",
+      "traffic 712Kunal/Pathify returned 403; retrying in 2000ms",
       "traffic Drkadam07/EMERGE returned 403; retrying in 2000ms",
       "traffic ThePhoenix08/sankey-arise returned 403; retrying in 4000ms",
       "traffic ThePhoenix08/prakalp-pm returned 403; retrying in 4000ms",
@@ -22458,11 +22694,11 @@
     "websiteUrl": "https://portfolio-v2-gold-psi.vercel.app/",
     "createdAt": "2021-06-26T15:18:24Z",
     "repoViews": 0,
-    "linesOfCodeChanged": 1664604,
-    "linesAdded": 598581,
-    "linesDeleted": 1066023,
-    "commitCount": 1000,
-    "totalCommits": 967,
+    "linesOfCodeChanged": 1668592,
+    "linesAdded": 599447,
+    "linesDeleted": 1069145,
+    "commitCount": 1001,
+    "totalCommits": 968,
     "totalPullRequests": 24,
     "totalPullRequestReviews": 0,
     "codeByteTotal": 30161771,
@@ -22584,14 +22820,14 @@
     "repositoriesContributedTo": 2,
     "discussionsStarted": 0,
     "discussionsAnswered": 0,
-    "totalContributions": 1046,
+    "totalContributions": 1047,
     "contributionStats": {
       "longestStreak": 144,
-      "currentStreak": 36,
+      "currentStreak": 37,
       "mostActiveDay": "Saturday",
-      "averagePerDay": 0.56,
-      "averagePerWeek": 3.95,
-      "averagePerMonth": 16.94,
+      "averagePerDay": 0.57,
+      "averagePerWeek": 3.96,
+      "averagePerMonth": 16.95,
       "monthlyBreakdown": [
         {
           "month": "2021-06",
@@ -22839,7 +23075,7 @@
         },
         {
           "month": "2026-07",
-          "contributions": 17
+          "contributions": 18
         }
       ],
       "yearlyBreakdown": [
@@ -22865,7 +23101,7 @@
         },
         {
           "year": "2026",
-          "contributions": 330
+          "contributions": 331
         }
       ],
       "peakDay": {
@@ -22883,7 +23119,7 @@
       "activeRepos": 11,
       "reposWithStars": 12,
       "reposCreatedThisYear": 2,
-      "averageStarsPerRepo": 15.92
+      "averageStarsPerRepo": 15.88
     },
     "computedStats": {
       "totalRepos": 51,
@@ -22895,7 +23131,7 @@
       "activeRepos": 11,
       "reposWithStars": 12,
       "reposCreatedThisYear": 2,
-      "averageStarsPerRepo": 15.92,
+      "averageStarsPerRepo": 15.88,
       "languageCount": 18,
       "primaryLanguage": "JavaScript",
       "primaryLanguageThisYear": "JavaScript",
@@ -23101,23 +23337,23 @@
         "vs-code",
         "web-development"
       ],
-      "contributionsThisYear": 330,
+      "contributionsThisYear": 331,
       "contributionsLastYear": 409,
-      "yearOverYearGrowth": -19.32,
+      "yearOverYearGrowth": -19.07,
       "mostProductiveMonth": {
         "month": "2025-01",
         "contributions": 143
       }
     },
     "contributionsCollection": {
-      "totalCommitContributions": 967,
+      "totalCommitContributions": 968,
       "restrictedContributionsCount": 0,
       "totalIssueContributions": 16,
       "totalRepositoryContributions": 38,
       "totalPullRequestContributions": 24,
       "totalPullRequestReviewContributions": 0,
       "contributionCalendar": {
-        "totalContributions": 1046,
+        "totalContributions": 1047,
         "weeks": [
           {
             "contributionDays": [
@@ -31598,8 +31834,12 @@
                 "date": "2026-07-16"
               },
               {
-                "contributionCount": 0,
+                "contributionCount": 1,
                 "date": "2026-07-17"
+              },
+              {
+                "contributionCount": 0,
+                "date": "2026-07-18"
               }
             ]
           }
@@ -31750,6 +31990,6 @@
     ],
     "closedIssues": 13,
     "openIssues": 3,
-    "fetchedAt": 1784294665569
+    "fetchedAt": 1784380239969
   }
 }

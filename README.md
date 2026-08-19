@@ -74,24 +74,6 @@ I'm a Fourth-Year Computer Engineering student passionate about building things 
 Thanks for stopping by! 😊
 
 ---
-### GitHub Stats:
-<!-- ![Main Stats](./out/main-stats.gif) -->
-<table align="center">
-  <tr>
-    <td>
-      <a href="https://git.io/awesome-stats-card" target="_blank" rel="noopener noreferrer">
-        <img src="https://awesome-github-stats.azurewebsites.net/user-stats/ThePhoenix08?cardType=github&theme=github-dark&preferLogin=false" alt="Vighnesh Brahme's GitHub Stats" />
-      </a>
-    </td>
-    <!-- <td>
-      <a href="https://git.io/streak-stats">
-        <img src="http://github-readme-streak-stats.herokuapp.com?user=ThePhoenix08&theme=github-dark-blue&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
-      </a>
-    </td> -->
-  </tr>
-</table>
-
----
 ### My Contributions
 <!-- ![](./profile-3d-contrib/profile-night-green.svg) -->
 <picture>

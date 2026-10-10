@@ -1,14 +1,15 @@
 # Vighnesh Brahme [ 🦅ThePhoenix08 ]
 
-I'm a Fourth-Year Computer Engineering student passionate about building things that blend logic, creativity, and data. I love exploring how systems work — from optimizing algorithms to crafting full-stack web apps that actually solve problems.
+I'm a Computer Engineering graduate (Batch of 2026) who enjoys building software that blends problem-solving, system design, and creativity. I'm particularly interested in backend engineering, efficient algorithms, and full-stack applications that solve real-world problems.
 
 ### What I'm Currently Up To
-🔍 Sharpening my problem-solving skills on LeetCode (C++, DSA fundamentals — arrays, strings, sliding window, two pointers, binary search, and more)<br/>
-🧩 Diving deeper into Backend Development and strengthening my MERN stack knowledge<br/>
-🎵 Experimenting with Machine Learning, exploring how models can understand emotion in music<br/>
-💡 Building projects that merge software engineering with a touch of AI creativity<br/>
+- Practicing Data Structures & Algorithms and sharpening my problem-solving skills on LeetCode
+- Exploring backend engineering with Java, Spring Boot, REST APIs, and database design
+- Building full-stack applications and learning how to design reliable, maintainable software systems
+- Experimenting with Machine Learning and exploring ways to integrate AI into practical applications
+- Working on projects that bring together software engineering, performance, and AI-driven ideas
 
-### Tech stack
+### I have experience in
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=c,cpp" />
@@ -69,7 +70,7 @@ I'm a Fourth-Year Computer Engineering student passionate about building things 
 
 
 ### Let's Collaborate!
-🚀 Open to collaboration on exciting projects and eager to learn from others in the developer community.
+🚀 Always interested in building meaningful projects, exploring new technologies, and collaborating with developers who enjoy solving challenging problems.
 
 Thanks for stopping by! 😊
 
